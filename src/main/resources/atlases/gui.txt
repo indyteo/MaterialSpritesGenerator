@@ -1,486 +1,510 @@
-minecraft:advancements/box_obtained	x=0	y=424	w=200	h=26
-minecraft:advancements/box_unobtained	x=202	y=424	w=200	h=26
-minecraft:advancements/challenge_frame_obtained	x=312	y=394	w=26	h=26
-minecraft:advancements/challenge_frame_unobtained	x=340	y=394	w=26	h=26
-minecraft:advancements/goal_frame_obtained	x=368	y=394	w=26	h=26
-minecraft:advancements/goal_frame_unobtained	x=396	y=394	w=26	h=26
-minecraft:advancements/tab_above_left	x=470	y=68	w=28	h=32
-minecraft:advancements/tab_above_left_selected	x=470	y=102	w=28	h=32
-minecraft:advancements/tab_above_middle	x=470	y=136	w=28	h=32
-minecraft:advancements/tab_above_middle_selected	x=470	y=170	w=28	h=32
-minecraft:advancements/tab_above_right	x=470	y=204	w=28	h=32
-minecraft:advancements/tab_above_right_selected	x=400	y=256	w=28	h=32
-minecraft:advancements/tab_below_left	x=430	y=256	w=28	h=32
-minecraft:advancements/tab_below_left_selected	x=460	y=256	w=28	h=32
-minecraft:advancements/tab_below_middle	x=0	y=326	w=28	h=32
-minecraft:advancements/tab_below_middle_selected	x=30	y=326	w=28	h=32
-minecraft:advancements/tab_below_right	x=60	y=326	w=28	h=32
-minecraft:advancements/tab_below_right_selected	x=90	y=326	w=28	h=32
-minecraft:advancements/tab_left_bottom	x=308	y=224	w=32	h=28
-minecraft:advancements/tab_left_bottom_selected	x=342	y=224	w=32	h=28
-minecraft:advancements/tab_left_middle	x=392	y=360	w=32	h=28
-minecraft:advancements/tab_left_middle_selected	x=426	y=360	w=32	h=28
-minecraft:advancements/tab_left_top	x=460	y=360	w=32	h=28
-minecraft:advancements/tab_left_top_selected	x=0	y=394	w=32	h=28
-minecraft:advancements/tab_right_bottom	x=34	y=394	w=32	h=28
-minecraft:advancements/tab_right_bottom_selected	x=68	y=394	w=32	h=28
-minecraft:advancements/tab_right_middle	x=102	y=394	w=32	h=28
-minecraft:advancements/tab_right_middle_selected	x=136	y=394	w=32	h=28
-minecraft:advancements/tab_right_top	x=170	y=394	w=32	h=28
-minecraft:advancements/tab_right_top_selected	x=204	y=394	w=32	h=28
-minecraft:advancements/task_frame_obtained	x=424	y=394	w=26	h=26
-minecraft:advancements/task_frame_unobtained	x=452	y=394	w=26	h=26
-minecraft:advancements/title_box	x=0	y=452	w=200	h=26
-minecraft:boss_bar/blue_background	x=0	y=512	w=182	h=5
-minecraft:boss_bar/blue_progress	x=184	y=512	w=182	h=5
-minecraft:boss_bar/green_background	x=368	y=512	w=182	h=5
-minecraft:boss_bar/green_progress	x=552	y=512	w=182	h=5
-minecraft:boss_bar/notched_10_background	x=736	y=512	w=182	h=5
-minecraft:boss_bar/notched_10_progress	x=0	y=519	w=182	h=5
-minecraft:boss_bar/notched_12_background	x=184	y=519	w=182	h=5
-minecraft:boss_bar/notched_12_progress	x=368	y=519	w=182	h=5
-minecraft:boss_bar/notched_20_background	x=552	y=519	w=182	h=5
-minecraft:boss_bar/notched_20_progress	x=736	y=519	w=182	h=5
-minecraft:boss_bar/notched_6_background	x=0	y=526	w=182	h=5
-minecraft:boss_bar/notched_6_progress	x=184	y=526	w=182	h=5
-minecraft:boss_bar/pink_background	x=368	y=526	w=182	h=5
-minecraft:boss_bar/pink_progress	x=552	y=526	w=182	h=5
-minecraft:boss_bar/purple_background	x=736	y=526	w=182	h=5
-minecraft:boss_bar/purple_progress	x=0	y=533	w=182	h=5
-minecraft:boss_bar/red_background	x=184	y=533	w=182	h=5
-minecraft:boss_bar/red_progress	x=368	y=533	w=182	h=5
-minecraft:boss_bar/white_background	x=552	y=533	w=182	h=5
-minecraft:boss_bar/white_progress	x=736	y=533	w=182	h=5
-minecraft:boss_bar/yellow_background	x=0	y=540	w=182	h=5
-minecraft:boss_bar/yellow_progress	x=184	y=540	w=182	h=5
-minecraft:container/anvil/error	x=538	y=24	w=28	h=21
-minecraft:container/anvil/text_field	x=722	y=154	w=110	h=16
-minecraft:container/anvil/text_field_disabled	x=722	y=172	w=110	h=16
-minecraft:container/beacon/button	x=206	y=102	w=22	h=22
-minecraft:container/beacon/button_disabled	x=376	y=122	w=22	h=22
-minecraft:container/beacon/button_highlighted	x=376	y=146	w=22	h=22
-minecraft:container/beacon/button_selected	x=376	y=170	w=22	h=22
-minecraft:container/beacon/cancel	x=538	y=271	w=18	h=18
-minecraft:container/beacon/confirm	x=538	y=291	w=18	h=18
-minecraft:container/blast_furnace/burn_progress	x=630	y=195	w=24	h=16
-minecraft:container/blast_furnace/lit_progress	x=238	y=230	w=14	h=14
-minecraft:container/brewing_stand/brew_progress	x=230	y=30	w=9	h=28
-minecraft:container/brewing_stand/bubbles	x=110	y=0	w=12	h=29
-minecraft:container/brewing_stand/fuel_length	x=0	y=506	w=18	h=4
-minecraft:container/bundle/bundle_progressbar_border	x=82	y=196	w=12	h=12
-minecraft:container/bundle/bundle_progressbar_fill	x=247	y=246	w=6	h=6
-minecraft:container/bundle/bundle_progressbar_full	x=504	y=0	w=6	h=6
-minecraft:container/bundle/slot_background	x=62	y=102	w=24	h=24
-minecraft:container/bundle/slot_highlight_back	x=128	y=102	w=24	h=24
-minecraft:container/bundle/slot_highlight_front	x=154	y=102	w=24	h=24
-minecraft:container/cartography_table/duplicated_map	x=256	y=0	w=50	h=66
-minecraft:container/cartography_table/error	x=538	y=47	w=28	h=21
-minecraft:container/cartography_table/locked	x=422	y=236	w=10	h=14
-minecraft:container/cartography_table/map	x=82	y=128	w=66	h=66
-minecraft:container/cartography_table/scaled_map	x=150	y=128	w=66	h=66
-minecraft:container/crafter/disabled_slot	x=538	y=311	w=18	h=18
-minecraft:container/crafter/powered_redstone	x=290	y=108	w=16	h=16
-minecraft:container/crafter/unpowered_redstone	x=290	y=126	w=16	h=16
-minecraft:container/creative_inventory/scroller	x=242	y=76	w=12	h=15
-minecraft:container/creative_inventory/scroller_disabled	x=242	y=93	w=12	h=15
-minecraft:container/creative_inventory/tab_bottom_selected_1	x=120	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_selected_2	x=148	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_selected_3	x=176	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_selected_4	x=204	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_selected_5	x=232	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_selected_6	x=260	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_selected_7	x=288	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_unselected_1	x=316	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_unselected_2	x=344	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_unselected_3	x=372	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_unselected_4	x=400	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_unselected_5	x=428	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_unselected_6	x=456	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_bottom_unselected_7	x=484	y=326	w=26	h=32
-minecraft:container/creative_inventory/tab_top_selected_1	x=0	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_selected_2	x=28	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_selected_3	x=56	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_selected_4	x=84	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_selected_5	x=112	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_selected_6	x=140	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_selected_7	x=168	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_unselected_1	x=196	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_unselected_2	x=224	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_unselected_3	x=252	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_unselected_4	x=280	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_unselected_5	x=308	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_unselected_6	x=336	y=360	w=26	h=32
-minecraft:container/creative_inventory/tab_top_unselected_7	x=364	y=360	w=26	h=32
-minecraft:container/enchanting_table/enchantment_slot	x=610	y=24	w=108	h=19
-minecraft:container/enchanting_table/enchantment_slot_disabled	x=610	y=45	w=108	h=19
-minecraft:container/enchanting_table/enchantment_slot_highlighted	x=610	y=66	w=108	h=19
-minecraft:container/enchanting_table/level_1	x=290	y=144	w=16	h=16
-minecraft:container/enchanting_table/level_1_disabled	x=290	y=162	w=16	h=16
-minecraft:container/enchanting_table/level_2	x=290	y=180	w=16	h=16
-minecraft:container/enchanting_table/level_2_disabled	x=290	y=198	w=16	h=16
-minecraft:container/enchanting_table/level_3	x=290	y=216	w=16	h=16
-minecraft:container/enchanting_table/level_3_disabled	x=290	y=234	w=16	h=16
-minecraft:container/furnace/burn_progress	x=630	y=213	w=24	h=16
-minecraft:container/furnace/lit_progress	x=675	y=87	w=14	h=14
-minecraft:container/grindstone/error	x=538	y=70	w=28	h=21
-minecraft:container/horse/chest_slots	x=308	y=66	w=90	h=54
-minecraft:container/inventory/effect_background	x=218	y=128	w=32	h=32
-minecraft:container/inventory/effect_background_ambient	x=218	y=162	w=32	h=32
-minecraft:container/loom/error	x=480	y=394	w=26	h=26
-minecraft:container/loom/pattern	x=675	y=103	w=14	h=14
-minecraft:container/loom/pattern_highlighted	x=675	y=119	w=14	h=14
-minecraft:container/loom/pattern_selected	x=675	y=135	w=14	h=14
-minecraft:container/loom/scroller	x=242	y=110	w=12	h=15
-minecraft:container/loom/scroller_disabled	x=658	y=206	w=12	h=15
-minecraft:container/slot	x=538	y=331	w=18	h=18
-minecraft:container/slot/amethyst_shard	x=376	y=238	w=16	h=16
-minecraft:container/slot/axe	x=494	y=360	w=16	h=16
-minecraft:container/slot/banner	x=493	y=452	w=16	h=16
-minecraft:container/slot/banner_pattern	x=610	y=107	w=16	h=16
-minecraft:container/slot/boots	x=610	y=125	w=16	h=16
-minecraft:container/slot/brewing_fuel	x=610	y=143	w=16	h=16
-minecraft:container/slot/chestplate	x=610	y=161	w=16	h=16
-minecraft:container/slot/diamond	x=610	y=179	w=16	h=16
-minecraft:container/slot/dye	x=610	y=197	w=16	h=16
-minecraft:container/slot/emerald	x=610	y=215	w=16	h=16
-minecraft:container/slot/helmet	x=610	y=233	w=16	h=16
-minecraft:container/slot/hoe	x=610	y=251	w=16	h=16
-minecraft:container/slot/horse_armor	x=610	y=269	w=16	h=16
-minecraft:container/slot/ingot	x=610	y=287	w=16	h=16
-minecraft:container/slot/lapis_lazuli	x=610	y=305	w=16	h=16
-minecraft:container/slot/leggings	x=610	y=323	w=16	h=16
-minecraft:container/slot/llama_armor	x=610	y=341	w=16	h=16
-minecraft:container/slot/nautilus_armor	x=610	y=359	w=16	h=16
-minecraft:container/slot/nautilus_armor_inventory	x=610	y=377	w=16	h=16
-minecraft:container/slot/pickaxe	x=610	y=395	w=16	h=16
-minecraft:container/slot/potion	x=610	y=413	w=16	h=16
-minecraft:container/slot/quartz	x=610	y=431	w=16	h=16
-minecraft:container/slot/redstone_dust	x=610	y=449	w=16	h=16
-minecraft:container/slot/saddle	x=610	y=467	w=16	h=16
-minecraft:container/slot/shield	x=610	y=485	w=16	h=16
-minecraft:container/slot/shovel	x=630	y=249	w=16	h=16
-minecraft:container/slot/smithing_template_armor_trim	x=630	y=267	w=16	h=16
-minecraft:container/slot/smithing_template_netherite_upgrade	x=630	y=285	w=16	h=16
-minecraft:container/slot/spear	x=630	y=303	w=16	h=16
-minecraft:container/slot/sword	x=630	y=321	w=16	h=16
-minecraft:container/slot_highlight_back	x=180	y=102	w=24	h=24
-minecraft:container/slot_highlight_front	x=486	y=292	w=24	h=24
-minecraft:container/smithing/error	x=538	y=93	w=28	h=21
-minecraft:container/smoker/burn_progress	x=630	y=231	w=24	h=16
-minecraft:container/smoker/lit_progress	x=675	y=151	w=14	h=14
-minecraft:container/stonecutter/recipe	x=238	y=210	w=16	h=18
-minecraft:container/stonecutter/recipe_highlighted	x=290	y=68	w=16	h=18
-minecraft:container/stonecutter/recipe_selected	x=290	y=88	w=16	h=18
-minecraft:container/stonecutter/scroller	x=658	y=223	w=12	h=15
-minecraft:container/stonecutter/scroller_disabled	x=658	y=240	w=12	h=15
-minecraft:container/villager/discount_strikethrough	x=290	y=252	w=9	h=2
-minecraft:container/villager/experience_bar_background	x=722	y=190	w=102	h=5
-minecraft:container/villager/experience_bar_current	x=722	y=197	w=102	h=5
-minecraft:container/villager/experience_bar_result	x=722	y=204	w=102	h=5
-minecraft:container/villager/out_of_stock	x=538	y=116	w=28	h=21
-minecraft:container/villager/scroller	x=102	y=68	w=6	h=27
-minecraft:container/villager/scroller_disabled	x=102	y=97	w=6	h=27
-minecraft:container/villager/trade_arrow	x=122	y=196	w=10	h=9
-minecraft:container/villager/trade_arrow_out_of_stock	x=134	y=196	w=10	h=9
-minecraft:dialog/warning_button	x=376	y=194	w=20	h=20
-minecraft:dialog/warning_button_disabled	x=376	y=216	w=20	h=20
-minecraft:dialog/warning_button_highlighted	x=490	y=256	w=20	h=20
-minecraft:gamemode_switcher/selection	x=404	y=424	w=26	h=26
-minecraft:gamemode_switcher/slot	x=432	y=424	w=26	h=26
-minecraft:hud/air	x=146	y=196	w=9	h=9
-minecraft:hud/air_bursting	x=157	y=196	w=9	h=9
-minecraft:hud/air_empty	x=168	y=196	w=9	h=9
-minecraft:hud/armor_empty	x=179	y=196	w=9	h=9
-minecraft:hud/armor_full	x=190	y=196	w=9	h=9
-minecraft:hud/armor_half	x=201	y=196	w=9	h=9
-minecraft:hud/crosshair	x=630	y=483	w=15	h=15
-minecraft:hud/crosshair_attack_indicator_background	x=493	y=470	w=16	h=4
-minecraft:hud/crosshair_attack_indicator_full	x=630	y=339	w=16	h=16
-minecraft:hud/crosshair_attack_indicator_progress	x=20	y=506	w=16	h=4
-minecraft:hud/effect_background	x=415	y=452	w=24	h=24
-minecraft:hud/effect_background_ambient	x=441	y=452	w=24	h=24
-minecraft:hud/experience_bar_background	x=368	y=540	w=182	h=5
-minecraft:hud/experience_bar_progress	x=552	y=540	w=182	h=5
-minecraft:hud/food_empty	x=212	y=196	w=9	h=9
-minecraft:hud/food_empty_hunger	x=223	y=196	w=9	h=9
-minecraft:hud/food_full	x=234	y=196	w=9	h=9
-minecraft:hud/food_full_hunger	x=245	y=196	w=9	h=9
-minecraft:hud/food_half	x=456	y=236	w=9	h=9
-minecraft:hud/food_half_hunger	x=490	y=278	w=9	h=9
-minecraft:hud/heart/absorbing_full	x=501	y=278	w=9	h=9
-minecraft:hud/heart/absorbing_full_blinking	x=494	y=378	w=9	h=9
-minecraft:hud/heart/absorbing_half	x=500	y=480	w=9	h=9
-minecraft:hud/heart/absorbing_half_blinking	x=500	y=491	w=9	h=9
-minecraft:hud/heart/absorbing_hardcore_full	x=512	y=499	w=9	h=9
-minecraft:hud/heart/absorbing_hardcore_full_blinking	x=523	y=499	w=9	h=9
-minecraft:hud/heart/absorbing_hardcore_half	x=630	y=500	w=9	h=9
-minecraft:hud/heart/absorbing_hardcore_half_blinking	x=658	y=257	w=9	h=9
-minecraft:hud/heart/container	x=658	y=268	w=9	h=9
-minecraft:hud/heart/container_blinking	x=658	y=279	w=9	h=9
-minecraft:hud/heart/container_hardcore	x=658	y=290	w=9	h=9
-minecraft:hud/heart/container_hardcore_blinking	x=658	y=301	w=9	h=9
-minecraft:hud/heart/frozen_full	x=658	y=312	w=9	h=9
-minecraft:hud/heart/frozen_full_blinking	x=658	y=323	w=9	h=9
-minecraft:hud/heart/frozen_half	x=658	y=334	w=9	h=9
-minecraft:hud/heart/frozen_half_blinking	x=658	y=345	w=9	h=9
-minecraft:hud/heart/frozen_hardcore_full	x=658	y=356	w=9	h=9
-minecraft:hud/heart/frozen_hardcore_full_blinking	x=658	y=367	w=9	h=9
-minecraft:hud/heart/frozen_hardcore_half	x=658	y=378	w=9	h=9
-minecraft:hud/heart/frozen_hardcore_half_blinking	x=658	y=389	w=9	h=9
-minecraft:hud/heart/full	x=658	y=400	w=9	h=9
-minecraft:hud/heart/full_blinking	x=658	y=411	w=9	h=9
-minecraft:hud/heart/half	x=658	y=422	w=9	h=9
-minecraft:hud/heart/half_blinking	x=658	y=433	w=9	h=9
-minecraft:hud/heart/hardcore_full	x=658	y=444	w=9	h=9
-minecraft:hud/heart/hardcore_full_blinking	x=658	y=455	w=9	h=9
-minecraft:hud/heart/hardcore_half	x=658	y=466	w=9	h=9
-minecraft:hud/heart/hardcore_half_blinking	x=658	y=477	w=9	h=9
-minecraft:hud/heart/poisoned_full	x=658	y=488	w=9	h=9
-minecraft:hud/heart/poisoned_full_blinking	x=658	y=499	w=9	h=9
-minecraft:hud/heart/poisoned_half	x=675	y=231	w=9	h=9
-minecraft:hud/heart/poisoned_half_blinking	x=675	y=242	w=9	h=9
-minecraft:hud/heart/poisoned_hardcore_full	x=675	y=253	w=9	h=9
-minecraft:hud/heart/poisoned_hardcore_full_blinking	x=675	y=264	w=9	h=9
-minecraft:hud/heart/poisoned_hardcore_half	x=675	y=275	w=9	h=9
-minecraft:hud/heart/poisoned_hardcore_half_blinking	x=675	y=286	w=9	h=9
-minecraft:hud/heart/vehicle_container	x=675	y=297	w=9	h=9
-minecraft:hud/heart/vehicle_full	x=675	y=308	w=9	h=9
-minecraft:hud/heart/vehicle_half	x=675	y=319	w=9	h=9
-minecraft:hud/heart/withered_full	x=675	y=330	w=9	h=9
-minecraft:hud/heart/withered_full_blinking	x=675	y=341	w=9	h=9
-minecraft:hud/heart/withered_half	x=675	y=352	w=9	h=9
-minecraft:hud/heart/withered_half_blinking	x=675	y=363	w=9	h=9
-minecraft:hud/heart/withered_hardcore_full	x=675	y=374	w=9	h=9
-minecraft:hud/heart/withered_hardcore_full_blinking	x=675	y=385	w=9	h=9
-minecraft:hud/heart/withered_hardcore_half	x=675	y=396	w=9	h=9
-minecraft:hud/heart/withered_hardcore_half_blinking	x=675	y=407	w=9	h=9
-minecraft:hud/hotbar	x=538	y=0	w=182	h=22
-minecraft:hud/hotbar_attack_indicator_background	x=538	y=351	w=18	h=18
-minecraft:hud/hotbar_attack_indicator_progress	x=538	y=371	w=18	h=18
-minecraft:hud/hotbar_offhand_left	x=0	y=102	w=29	h=24
-minecraft:hud/hotbar_offhand_right	x=31	y=102	w=29	h=24
-minecraft:hud/hotbar_selection	x=512	y=78	w=24	h=23
-minecraft:hud/jump_bar_background	x=736	y=540	w=182	h=5
-minecraft:hud/jump_bar_cooldown	x=0	y=547	w=182	h=5
-minecraft:hud/jump_bar_progress	x=184	y=547	w=182	h=5
-minecraft:hud/locator_bar_arrow_down	x=110	y=121	w=7	h=5
-minecraft:hud/locator_bar_arrow_up	x=500	y=318	w=7	h=5
-minecraft:hud/locator_bar_background	x=486	y=318	w=12	h=5
-minecraft:hud/locator_bar_dot/bowtie	x=675	y=418	w=9	h=9
-minecraft:hud/locator_bar_dot/default_0	x=675	y=429	w=9	h=9
-minecraft:hud/locator_bar_dot/default_1	x=675	y=440	w=9	h=9
-minecraft:hud/locator_bar_dot/default_2	x=675	y=451	w=9	h=9
-minecraft:hud/locator_bar_dot/default_3	x=675	y=462	w=9	h=9
-minecraft:icon/accessibility	x=658	y=87	w=15	h=15
-minecraft:icon/chat_modified	x=675	y=473	w=9	h=9
-minecraft:icon/checkmark	x=216	y=246	w=9	h=8
-minecraft:icon/draft_report	x=658	y=104	w=15	h=15
-minecraft:icon/info	x=487	y=424	w=20	h=20
-minecraft:icon/invite	x=675	y=167	w=14	h=14
-minecraft:icon/language	x=658	y=121	w=15	h=15
-minecraft:icon/link	x=658	y=138	w=15	h=15
-minecraft:icon/link_highlighted	x=658	y=155	w=15	h=15
-minecraft:icon/music_notes	x=630	y=357	w=16	h=16
-minecraft:icon/new_realm	x=568	y=24	w=40	h=20
-minecraft:icon/news	x=675	y=183	w=14	h=14
-minecraft:icon/ping_1	x=0	y=246	w=10	h=8
-minecraft:icon/ping_2	x=12	y=246	w=10	h=8
-minecraft:icon/ping_3	x=24	y=246	w=10	h=8
-minecraft:icon/ping_4	x=36	y=246	w=10	h=8
-minecraft:icon/ping_5	x=48	y=246	w=10	h=8
-minecraft:icon/ping_unknown	x=60	y=246	w=10	h=8
-minecraft:icon/search	x=96	y=196	w=12	h=12
-minecraft:icon/trial_available	x=230	y=82	w=8	h=8
-minecraft:icon/unseen_notification	x=110	y=196	w=10	h=10
-minecraft:icon/video_link	x=658	y=172	w=15	h=15
-minecraft:icon/video_link_highlighted	x=658	y=189	w=15	h=15
-minecraft:missingno	x=630	y=375	w=16	h=16
-minecraft:mob_effect/absorption	x=538	y=391	w=18	h=18
-minecraft:mob_effect/bad_omen	x=538	y=411	w=18	h=18
-minecraft:mob_effect/blindness	x=538	y=431	w=18	h=18
-minecraft:mob_effect/breath_of_the_nautilus	x=538	y=451	w=18	h=18
-minecraft:mob_effect/conduit_power	x=538	y=471	w=18	h=18
-minecraft:mob_effect/darkness	x=538	y=491	w=18	h=18
-minecraft:mob_effect/dolphins_grace	x=568	y=46	w=18	h=18
-minecraft:mob_effect/fire_resistance	x=568	y=66	w=18	h=18
-minecraft:mob_effect/glowing	x=568	y=86	w=18	h=18
-minecraft:mob_effect/haste	x=568	y=106	w=18	h=18
-minecraft:mob_effect/health_boost	x=568	y=126	w=18	h=18
-minecraft:mob_effect/hero_of_the_village	x=568	y=146	w=18	h=18
-minecraft:mob_effect/hunger	x=568	y=166	w=18	h=18
-minecraft:mob_effect/infested	x=568	y=186	w=18	h=18
-minecraft:mob_effect/instant_damage	x=568	y=206	w=18	h=18
-minecraft:mob_effect/instant_health	x=568	y=226	w=18	h=18
-minecraft:mob_effect/invisibility	x=568	y=246	w=18	h=18
-minecraft:mob_effect/jump_boost	x=568	y=266	w=18	h=18
-minecraft:mob_effect/levitation	x=568	y=286	w=18	h=18
-minecraft:mob_effect/luck	x=568	y=306	w=18	h=18
-minecraft:mob_effect/mining_fatigue	x=568	y=326	w=18	h=18
-minecraft:mob_effect/nausea	x=568	y=346	w=18	h=18
-minecraft:mob_effect/night_vision	x=568	y=366	w=18	h=18
-minecraft:mob_effect/oozing	x=568	y=386	w=18	h=18
-minecraft:mob_effect/poison	x=568	y=406	w=18	h=18
-minecraft:mob_effect/raid_omen	x=568	y=426	w=18	h=18
-minecraft:mob_effect/regeneration	x=568	y=446	w=18	h=18
-minecraft:mob_effect/resistance	x=568	y=466	w=18	h=18
-minecraft:mob_effect/saturation	x=568	y=486	w=18	h=18
-minecraft:mob_effect/slow_falling	x=588	y=46	w=18	h=18
-minecraft:mob_effect/slowness	x=588	y=66	w=18	h=18
-minecraft:mob_effect/speed	x=588	y=86	w=18	h=18
-minecraft:mob_effect/strength	x=588	y=106	w=18	h=18
-minecraft:mob_effect/trial_omen	x=588	y=126	w=18	h=18
-minecraft:mob_effect/unluck	x=588	y=146	w=18	h=18
-minecraft:mob_effect/water_breathing	x=588	y=166	w=18	h=18
-minecraft:mob_effect/weakness	x=588	y=186	w=18	h=18
-minecraft:mob_effect/weaving	x=588	y=206	w=18	h=18
-minecraft:mob_effect/wind_charged	x=588	y=226	w=18	h=18
-minecraft:mob_effect/wither	x=588	y=246	w=18	h=18
-minecraft:notification/1	x=230	y=92	w=8	h=8
-minecraft:notification/2	x=230	y=102	w=8	h=8
-minecraft:notification/3	x=230	y=112	w=8	h=8
-minecraft:notification/4	x=227	y=246	w=8	h=8
-minecraft:notification/5	x=237	y=246	w=8	h=8
-minecraft:notification/more	x=675	y=484	w=8	h=8
-minecraft:pending_invite/accept	x=588	y=266	w=18	h=18
-minecraft:pending_invite/accept_highlighted	x=588	y=286	w=18	h=18
-minecraft:pending_invite/reject	x=588	y=306	w=18	h=18
-minecraft:pending_invite/reject_highlighted	x=588	y=326	w=18	h=18
-minecraft:player_list/make_operator	x=456	y=247	w=8	h=7
-minecraft:player_list/remove_operator	x=610	y=503	w=8	h=7
-minecraft:player_list/remove_player	x=675	y=494	w=8	h=7
-minecraft:popup/background	x=0	y=210	w=236	h=34
-minecraft:realm_status/closed	x=110	y=31	w=10	h=28
-minecraft:realm_status/expired	x=110	y=61	w=10	h=28
-minecraft:realm_status/expires_soon	x=110	y=91	w=10	h=28
-minecraft:realm_status/open	x=230	y=0	w=10	h=28
-minecraft:recipe_book/button	x=400	y=236	w=20	h=18
-minecraft:recipe_book/button_highlighted	x=434	y=236	w=20	h=18
-minecraft:recipe_book/crafting_overlay	x=467	y=452	w=24	h=24
-minecraft:recipe_book/crafting_overlay_disabled	x=396	y=480	w=24	h=24
-minecraft:recipe_book/crafting_overlay_disabled_highlighted	x=422	y=480	w=24	h=24
-minecraft:recipe_book/crafting_overlay_highlighted	x=448	y=480	w=24	h=24
-minecraft:recipe_book/filter_disabled	x=256	y=238	w=26	h=16
-minecraft:recipe_book/filter_disabled_highlighted	x=470	y=238	w=26	h=16
-minecraft:recipe_book/filter_enabled	x=630	y=87	w=26	h=16
-minecraft:recipe_book/filter_enabled_highlighted	x=630	y=105	w=26	h=16
-minecraft:recipe_book/furnace_filter_disabled	x=630	y=123	w=26	h=16
-minecraft:recipe_book/furnace_filter_disabled_highlighted	x=630	y=141	w=26	h=16
-minecraft:recipe_book/furnace_filter_enabled	x=630	y=159	w=26	h=16
-minecraft:recipe_book/furnace_filter_enabled_highlighted	x=630	y=177	w=26	h=16
-minecraft:recipe_book/furnace_overlay	x=474	y=480	w=24	h=24
-minecraft:recipe_book/furnace_overlay_disabled	x=512	y=0	w=24	h=24
-minecraft:recipe_book/furnace_overlay_disabled_highlighted	x=512	y=26	w=24	h=24
-minecraft:recipe_book/furnace_overlay_highlighted	x=512	y=52	w=24	h=24
-minecraft:recipe_book/overlay_recipe	x=256	y=68	w=32	h=32
-minecraft:recipe_book/page_backward	x=242	y=0	w=12	h=17
-minecraft:recipe_book/page_backward_highlighted	x=242	y=19	w=12	h=17
-minecraft:recipe_book/page_forward	x=242	y=38	w=12	h=17
-minecraft:recipe_book/page_forward_highlighted	x=242	y=57	w=12	h=17
-minecraft:recipe_book/slot_craftable	x=460	y=424	w=25	h=25
-minecraft:recipe_book/slot_many_craftable	x=202	y=452	w=25	h=25
-minecraft:recipe_book/slot_many_uncraftable	x=229	y=452	w=25	h=25
-minecraft:recipe_book/slot_uncraftable	x=256	y=452	w=25	h=25
-minecraft:recipe_book/tab	x=238	y=394	w=35	h=27
-minecraft:recipe_book/tab_selected	x=275	y=394	w=35	h=27
-minecraft:server_list/incompatible	x=72	y=246	w=10	h=8
-minecraft:server_list/join	x=256	y=102	w=32	h=32
-minecraft:server_list/join_highlighted	x=256	y=136	w=32	h=32
-minecraft:server_list/move_down	x=256	y=170	w=32	h=32
-minecraft:server_list/move_down_highlighted	x=256	y=204	w=32	h=32
-minecraft:server_list/move_up	x=308	y=122	w=32	h=32
-minecraft:server_list/move_up_highlighted	x=308	y=156	w=32	h=32
-minecraft:server_list/ping_1	x=84	y=246	w=10	h=8
-minecraft:server_list/ping_2	x=96	y=246	w=10	h=8
-minecraft:server_list/ping_3	x=108	y=246	w=10	h=8
-minecraft:server_list/ping_4	x=120	y=246	w=10	h=8
-minecraft:server_list/ping_5	x=132	y=246	w=10	h=8
-minecraft:server_list/pinging_1	x=144	y=246	w=10	h=8
-minecraft:server_list/pinging_2	x=156	y=246	w=10	h=8
-minecraft:server_list/pinging_3	x=168	y=246	w=10	h=8
-minecraft:server_list/pinging_4	x=180	y=246	w=10	h=8
-minecraft:server_list/pinging_5	x=192	y=246	w=10	h=8
-minecraft:server_list/unreachable	x=204	y=246	w=10	h=8
-minecraft:social_interactions/background	x=0	y=256	w=236	h=34
-minecraft:social_interactions/mute_button	x=512	y=103	w=20	h=20
-minecraft:social_interactions/mute_button_highlighted	x=512	y=125	w=20	h=20
-minecraft:social_interactions/report_button	x=512	y=147	w=20	h=20
-minecraft:social_interactions/report_button_disabled	x=512	y=169	w=20	h=20
-minecraft:social_interactions/report_button_highlighted	x=512	y=191	w=20	h=20
-minecraft:social_interactions/unmute_button	x=512	y=213	w=20	h=20
-minecraft:social_interactions/unmute_button_highlighted	x=512	y=235	w=20	h=20
-minecraft:spectator/close	x=630	y=393	w=16	h=16
-minecraft:spectator/scroll_left	x=630	y=411	w=16	h=16
-minecraft:spectator/scroll_right	x=630	y=429	w=16	h=16
-minecraft:spectator/teleport_to_player	x=630	y=447	w=16	h=16
-minecraft:spectator/teleport_to_team	x=630	y=465	w=16	h=16
-minecraft:statistics/block_mined	x=588	y=346	w=18	h=18
-minecraft:statistics/header	x=588	y=366	w=18	h=18
-minecraft:statistics/item_broken	x=588	y=386	w=18	h=18
-minecraft:statistics/item_crafted	x=588	y=406	w=18	h=18
-minecraft:statistics/item_dropped	x=588	y=426	w=18	h=18
-minecraft:statistics/item_picked_up	x=588	y=446	w=18	h=18
-minecraft:statistics/item_used	x=588	y=466	w=18	h=18
-minecraft:statistics/sort_down	x=588	y=486	w=18	h=18
-minecraft:statistics/sort_up	x=610	y=87	w=18	h=18
-minecraft:toast/advancement	x=238	y=256	w=160	h=32
-minecraft:toast/mouse	x=512	y=257	w=20	h=20
-minecraft:toast/movement_keys	x=512	y=279	w=20	h=20
-minecraft:toast/now_playing	x=0	y=292	w=160	h=32
-minecraft:toast/recipe	x=162	y=292	w=160	h=32
-minecraft:toast/recipe_book	x=512	y=301	w=20	h=20
-minecraft:toast/right_click	x=512	y=323	w=20	h=20
-minecraft:toast/social_interactions	x=512	y=345	w=20	h=20
-minecraft:toast/system	x=308	y=0	w=160	h=64
-minecraft:toast/tree	x=512	y=367	w=20	h=20
-minecraft:toast/tutorial	x=324	y=292	w=160	h=32
-minecraft:toast/wooden_planks	x=512	y=389	w=20	h=20
-minecraft:tooltip/background	x=0	y=0	w=100	h=100
-minecraft:tooltip/frame	x=128	y=0	w=100	h=100
-minecraft:transferable_list/move_down	x=308	y=190	w=32	h=32
-minecraft:transferable_list/move_down_highlighted	x=342	y=122	w=32	h=32
-minecraft:transferable_list/move_up	x=342	y=156	w=32	h=32
-minecraft:transferable_list/move_up_highlighted	x=342	y=190	w=32	h=32
-minecraft:transferable_list/select	x=400	y=66	w=32	h=32
-minecraft:transferable_list/select_highlighted	x=400	y=100	w=32	h=32
-minecraft:transferable_list/unselect	x=400	y=134	w=32	h=32
-minecraft:transferable_list/unselect_highlighted	x=400	y=168	w=32	h=32
-minecraft:widget/button	x=722	y=0	w=200	h=20
-minecraft:widget/button_disabled	x=722	y=22	w=200	h=20
-minecraft:widget/button_highlighted	x=722	y=44	w=200	h=20
-minecraft:widget/checkbox	x=512	y=411	w=20	h=20
-minecraft:widget/checkbox_highlighted	x=512	y=433	w=20	h=20
-minecraft:widget/checkbox_selected	x=512	y=455	w=20	h=20
-minecraft:widget/checkbox_selected_highlighted	x=512	y=477	w=20	h=20
-minecraft:widget/cross_button	x=675	y=199	w=14	h=14
-minecraft:widget/cross_button_highlighted	x=675	y=215	w=14	h=14
-minecraft:widget/locked_button	x=538	y=139	w=20	h=20
-minecraft:widget/locked_button_disabled	x=538	y=161	w=20	h=20
-minecraft:widget/locked_button_highlighted	x=538	y=183	w=20	h=20
-minecraft:widget/page_backward	x=691	y=87	w=23	h=13
-minecraft:widget/page_backward_highlighted	x=691	y=102	w=23	h=13
-minecraft:widget/page_forward	x=691	y=117	w=23	h=13
-minecraft:widget/page_forward_highlighted	x=691	y=132	w=23	h=13
-minecraft:widget/scroller	x=102	y=0	w=6	h=32
-minecraft:widget/scroller_background	x=102	y=34	w=6	h=32
-minecraft:widget/slider	x=722	y=66	w=200	h=20
-minecraft:widget/slider_handle	x=88	y=102	w=8	h=20
-minecraft:widget/slider_handle_highlighted	x=230	y=60	w=8	h=20
-minecraft:widget/slider_highlighted	x=722	y=88	w=200	h=20
-minecraft:widget/slot_frame	x=0	y=128	w=80	h=80
-minecraft:widget/tab	x=283	y=452	w=130	h=24
-minecraft:widget/tab_highlighted	x=0	y=480	w=130	h=24
-minecraft:widget/tab_selected	x=132	y=480	w=130	h=24
-minecraft:widget/tab_selected_highlighted	x=264	y=480	w=130	h=24
-minecraft:widget/text_field	x=722	y=110	w=200	h=20
-minecraft:widget/text_field_highlighted	x=722	y=132	w=200	h=20
-minecraft:widget/unlocked_button	x=538	y=205	w=20	h=20
-minecraft:widget/unlocked_button_disabled	x=538	y=227	w=20	h=20
-minecraft:widget/unlocked_button_highlighted	x=538	y=249	w=20	h=20
-minecraft:world_list/error	x=400	y=202	w=32	h=32
-minecraft:world_list/error_highlighted	x=434	y=66	w=32	h=32
-minecraft:world_list/join	x=434	y=100	w=32	h=32
-minecraft:world_list/join_highlighted	x=434	y=134	w=32	h=32
-minecraft:world_list/marked_join	x=434	y=168	w=32	h=32
-minecraft:world_list/marked_join_highlighted	x=434	y=202	w=32	h=32
-minecraft:world_list/warning	x=470	y=0	w=32	h=32
-minecraft:world_list/warning_highlighted	x=470	y=34	w=32	h=32
+minecraft:advancements/box_obtained
+minecraft:advancements/box_unobtained
+minecraft:advancements/challenge_frame_obtained
+minecraft:advancements/challenge_frame_unobtained
+minecraft:advancements/goal_frame_obtained
+minecraft:advancements/goal_frame_unobtained
+minecraft:advancements/tab_above_left
+minecraft:advancements/tab_above_left_selected
+minecraft:advancements/tab_above_middle
+minecraft:advancements/tab_above_middle_selected
+minecraft:advancements/tab_above_right
+minecraft:advancements/tab_above_right_selected
+minecraft:advancements/tab_below_left
+minecraft:advancements/tab_below_left_selected
+minecraft:advancements/tab_below_middle
+minecraft:advancements/tab_below_middle_selected
+minecraft:advancements/tab_below_right
+minecraft:advancements/tab_below_right_selected
+minecraft:advancements/tab_left_bottom
+minecraft:advancements/tab_left_bottom_selected
+minecraft:advancements/tab_left_middle
+minecraft:advancements/tab_left_middle_selected
+minecraft:advancements/tab_left_top
+minecraft:advancements/tab_left_top_selected
+minecraft:advancements/tab_right_bottom
+minecraft:advancements/tab_right_bottom_selected
+minecraft:advancements/tab_right_middle
+minecraft:advancements/tab_right_middle_selected
+minecraft:advancements/tab_right_top
+minecraft:advancements/tab_right_top_selected
+minecraft:advancements/task_frame_obtained
+minecraft:advancements/task_frame_unobtained
+minecraft:advancements/title_box
+minecraft:boss_bar/blue_background
+minecraft:boss_bar/blue_progress
+minecraft:boss_bar/green_background
+minecraft:boss_bar/green_progress
+minecraft:boss_bar/notched_10_background
+minecraft:boss_bar/notched_10_progress
+minecraft:boss_bar/notched_12_background
+minecraft:boss_bar/notched_12_progress
+minecraft:boss_bar/notched_20_background
+minecraft:boss_bar/notched_20_progress
+minecraft:boss_bar/notched_6_background
+minecraft:boss_bar/notched_6_progress
+minecraft:boss_bar/pink_background
+minecraft:boss_bar/pink_progress
+minecraft:boss_bar/purple_background
+minecraft:boss_bar/purple_progress
+minecraft:boss_bar/red_background
+minecraft:boss_bar/red_progress
+minecraft:boss_bar/white_background
+minecraft:boss_bar/white_progress
+minecraft:boss_bar/yellow_background
+minecraft:boss_bar/yellow_progress
+minecraft:container/anvil/error
+minecraft:container/anvil/text_field
+minecraft:container/anvil/text_field_disabled
+minecraft:container/beacon/button
+minecraft:container/beacon/button_disabled
+minecraft:container/beacon/button_highlighted
+minecraft:container/beacon/button_selected
+minecraft:container/beacon/cancel
+minecraft:container/beacon/confirm
+minecraft:container/blast_furnace/burn_progress
+minecraft:container/blast_furnace/lit_progress
+minecraft:container/brewing_stand/brew_progress
+minecraft:container/brewing_stand/bubbles
+minecraft:container/brewing_stand/fuel_length
+minecraft:container/bundle/bundle_progressbar_border
+minecraft:container/bundle/bundle_progressbar_fill
+minecraft:container/bundle/bundle_progressbar_full
+minecraft:container/bundle/slot_background
+minecraft:container/bundle/slot_highlight_back
+minecraft:container/bundle/slot_highlight_front
+minecraft:container/cartography_table/duplicated_map
+minecraft:container/cartography_table/error
+minecraft:container/cartography_table/locked
+minecraft:container/cartography_table/map
+minecraft:container/cartography_table/scaled_map
+minecraft:container/crafter/disabled_slot
+minecraft:container/crafter/powered_redstone
+minecraft:container/crafter/unpowered_redstone
+minecraft:container/creative_inventory/scroller
+minecraft:container/creative_inventory/scroller_disabled
+minecraft:container/creative_inventory/tab_bottom_selected_1
+minecraft:container/creative_inventory/tab_bottom_selected_2
+minecraft:container/creative_inventory/tab_bottom_selected_3
+minecraft:container/creative_inventory/tab_bottom_selected_4
+minecraft:container/creative_inventory/tab_bottom_selected_5
+minecraft:container/creative_inventory/tab_bottom_selected_6
+minecraft:container/creative_inventory/tab_bottom_selected_7
+minecraft:container/creative_inventory/tab_bottom_unselected_1
+minecraft:container/creative_inventory/tab_bottom_unselected_2
+minecraft:container/creative_inventory/tab_bottom_unselected_3
+minecraft:container/creative_inventory/tab_bottom_unselected_4
+minecraft:container/creative_inventory/tab_bottom_unselected_5
+minecraft:container/creative_inventory/tab_bottom_unselected_6
+minecraft:container/creative_inventory/tab_bottom_unselected_7
+minecraft:container/creative_inventory/tab_top_selected_1
+minecraft:container/creative_inventory/tab_top_selected_2
+minecraft:container/creative_inventory/tab_top_selected_3
+minecraft:container/creative_inventory/tab_top_selected_4
+minecraft:container/creative_inventory/tab_top_selected_5
+minecraft:container/creative_inventory/tab_top_selected_6
+minecraft:container/creative_inventory/tab_top_selected_7
+minecraft:container/creative_inventory/tab_top_unselected_1
+minecraft:container/creative_inventory/tab_top_unselected_2
+minecraft:container/creative_inventory/tab_top_unselected_3
+minecraft:container/creative_inventory/tab_top_unselected_4
+minecraft:container/creative_inventory/tab_top_unselected_5
+minecraft:container/creative_inventory/tab_top_unselected_6
+minecraft:container/creative_inventory/tab_top_unselected_7
+minecraft:container/enchanting_table/enchantment_slot
+minecraft:container/enchanting_table/enchantment_slot_disabled
+minecraft:container/enchanting_table/enchantment_slot_highlighted
+minecraft:container/enchanting_table/level_1
+minecraft:container/enchanting_table/level_1_disabled
+minecraft:container/enchanting_table/level_2
+minecraft:container/enchanting_table/level_2_disabled
+minecraft:container/enchanting_table/level_3
+minecraft:container/enchanting_table/level_3_disabled
+minecraft:container/furnace/burn_progress
+minecraft:container/furnace/lit_progress
+minecraft:container/grindstone/error
+minecraft:container/horse/chest_slots
+minecraft:container/inventory/effect_background
+minecraft:container/inventory/effect_background_ambient
+minecraft:container/loom/error
+minecraft:container/loom/pattern
+minecraft:container/loom/pattern_highlighted
+minecraft:container/loom/pattern_selected
+minecraft:container/loom/scroller
+minecraft:container/loom/scroller_disabled
+minecraft:container/slot
+minecraft:container/slot/amethyst_shard
+minecraft:container/slot/axe
+minecraft:container/slot/banner
+minecraft:container/slot/banner_pattern
+minecraft:container/slot/boots
+minecraft:container/slot/brewing_fuel
+minecraft:container/slot/chestplate
+minecraft:container/slot/diamond
+minecraft:container/slot/dye
+minecraft:container/slot/emerald
+minecraft:container/slot/helmet
+minecraft:container/slot/hoe
+minecraft:container/slot/horse_armor
+minecraft:container/slot/ingot
+minecraft:container/slot/lapis_lazuli
+minecraft:container/slot/leggings
+minecraft:container/slot/llama_armor
+minecraft:container/slot/nautilus_armor
+minecraft:container/slot/nautilus_armor_inventory
+minecraft:container/slot/pickaxe
+minecraft:container/slot/potion
+minecraft:container/slot/quartz
+minecraft:container/slot/redstone_dust
+minecraft:container/slot/saddle
+minecraft:container/slot/shield
+minecraft:container/slot/shovel
+minecraft:container/slot/smithing_template_armor_trim
+minecraft:container/slot/smithing_template_netherite_upgrade
+minecraft:container/slot/spear
+minecraft:container/slot/sword
+minecraft:container/slot_highlight_back
+minecraft:container/slot_highlight_front
+minecraft:container/smithing/error
+minecraft:container/smoker/burn_progress
+minecraft:container/smoker/lit_progress
+minecraft:container/stonecutter/recipe
+minecraft:container/stonecutter/recipe_highlighted
+minecraft:container/stonecutter/recipe_selected
+minecraft:container/stonecutter/scroller
+minecraft:container/stonecutter/scroller_disabled
+minecraft:container/villager/discount_strikethrough
+minecraft:container/villager/experience_bar_background
+minecraft:container/villager/experience_bar_current
+minecraft:container/villager/experience_bar_result
+minecraft:container/villager/out_of_stock
+minecraft:container/villager/scroller
+minecraft:container/villager/scroller_disabled
+minecraft:container/villager/trade_arrow
+minecraft:container/villager/trade_arrow_out_of_stock
+minecraft:dialog/warning_button
+minecraft:dialog/warning_button_disabled
+minecraft:dialog/warning_button_highlighted
+minecraft:friends/accept
+minecraft:friends/accept_highlighted
+minecraft:friends/background
+minecraft:friends/background_dark
+minecraft:friends/button
+minecraft:friends/button_disabled
+minecraft:friends/button_highlighted
+minecraft:friends/cancel
+minecraft:friends/friends
+minecraft:friends/illustrations_00
+minecraft:friends/list_separator_top
+minecraft:friends/loading
+minecraft:friends/reject
+minecraft:friends/reject_highlighted
+minecraft:friends/remove
+minecraft:friends/send_request
+minecraft:friends/toast_background
+minecraft:gamemode_switcher/selection
+minecraft:gamemode_switcher/slot
+minecraft:hud/air
+minecraft:hud/air_bursting
+minecraft:hud/air_empty
+minecraft:hud/armor_empty
+minecraft:hud/armor_full
+minecraft:hud/armor_half
+minecraft:hud/crosshair
+minecraft:hud/crosshair_attack_indicator_background
+minecraft:hud/crosshair_attack_indicator_full
+minecraft:hud/crosshair_attack_indicator_progress
+minecraft:hud/effect_background
+minecraft:hud/effect_background_ambient
+minecraft:hud/experience_bar_background
+minecraft:hud/experience_bar_progress
+minecraft:hud/food_empty
+minecraft:hud/food_empty_hunger
+minecraft:hud/food_full
+minecraft:hud/food_full_hunger
+minecraft:hud/food_half
+minecraft:hud/food_half_hunger
+minecraft:hud/heart/absorbing_full
+minecraft:hud/heart/absorbing_full_blinking
+minecraft:hud/heart/absorbing_half
+minecraft:hud/heart/absorbing_half_blinking
+minecraft:hud/heart/absorbing_hardcore_full
+minecraft:hud/heart/absorbing_hardcore_full_blinking
+minecraft:hud/heart/absorbing_hardcore_half
+minecraft:hud/heart/absorbing_hardcore_half_blinking
+minecraft:hud/heart/container
+minecraft:hud/heart/container_blinking
+minecraft:hud/heart/container_hardcore
+minecraft:hud/heart/container_hardcore_blinking
+minecraft:hud/heart/frozen_full
+minecraft:hud/heart/frozen_full_blinking
+minecraft:hud/heart/frozen_half
+minecraft:hud/heart/frozen_half_blinking
+minecraft:hud/heart/frozen_hardcore_full
+minecraft:hud/heart/frozen_hardcore_full_blinking
+minecraft:hud/heart/frozen_hardcore_half
+minecraft:hud/heart/frozen_hardcore_half_blinking
+minecraft:hud/heart/full
+minecraft:hud/heart/full_blinking
+minecraft:hud/heart/half
+minecraft:hud/heart/half_blinking
+minecraft:hud/heart/hardcore_full
+minecraft:hud/heart/hardcore_full_blinking
+minecraft:hud/heart/hardcore_half
+minecraft:hud/heart/hardcore_half_blinking
+minecraft:hud/heart/poisoned_full
+minecraft:hud/heart/poisoned_full_blinking
+minecraft:hud/heart/poisoned_half
+minecraft:hud/heart/poisoned_half_blinking
+minecraft:hud/heart/poisoned_hardcore_full
+minecraft:hud/heart/poisoned_hardcore_full_blinking
+minecraft:hud/heart/poisoned_hardcore_half
+minecraft:hud/heart/poisoned_hardcore_half_blinking
+minecraft:hud/heart/vehicle_container
+minecraft:hud/heart/vehicle_full
+minecraft:hud/heart/vehicle_half
+minecraft:hud/heart/withered_full
+minecraft:hud/heart/withered_full_blinking
+minecraft:hud/heart/withered_half
+minecraft:hud/heart/withered_half_blinking
+minecraft:hud/heart/withered_hardcore_full
+minecraft:hud/heart/withered_hardcore_full_blinking
+minecraft:hud/heart/withered_hardcore_half
+minecraft:hud/heart/withered_hardcore_half_blinking
+minecraft:hud/hotbar
+minecraft:hud/hotbar_attack_indicator_background
+minecraft:hud/hotbar_attack_indicator_progress
+minecraft:hud/hotbar_offhand_left
+minecraft:hud/hotbar_offhand_right
+minecraft:hud/hotbar_selection
+minecraft:hud/jump_bar_background
+minecraft:hud/jump_bar_cooldown
+minecraft:hud/jump_bar_progress
+minecraft:hud/locator_bar_arrow_down
+minecraft:hud/locator_bar_arrow_up
+minecraft:hud/locator_bar_background
+minecraft:hud/locator_bar_dot/bowtie
+minecraft:hud/locator_bar_dot/default_0
+minecraft:hud/locator_bar_dot/default_1
+minecraft:hud/locator_bar_dot/default_2
+minecraft:hud/locator_bar_dot/default_3
+minecraft:icon/accessibility
+minecraft:icon/chat_modified
+minecraft:icon/checkmark
+minecraft:icon/draft_report
+minecraft:icon/info
+minecraft:icon/invite
+minecraft:icon/language
+minecraft:icon/link
+minecraft:icon/link_highlighted
+minecraft:icon/music_notes
+minecraft:icon/new_realm
+minecraft:icon/news
+minecraft:icon/ping_1
+minecraft:icon/ping_2
+minecraft:icon/ping_3
+minecraft:icon/ping_4
+minecraft:icon/ping_5
+minecraft:icon/ping_unknown
+minecraft:icon/search
+minecraft:icon/trial_available
+minecraft:icon/unseen_notification
+minecraft:icon/video_link
+minecraft:icon/video_link_highlighted
+minecraft:missingno
+minecraft:mob_effect/absorption
+minecraft:mob_effect/bad_omen
+minecraft:mob_effect/blindness
+minecraft:mob_effect/breath_of_the_nautilus
+minecraft:mob_effect/conduit_power
+minecraft:mob_effect/darkness
+minecraft:mob_effect/dolphins_grace
+minecraft:mob_effect/fire_resistance
+minecraft:mob_effect/glowing
+minecraft:mob_effect/haste
+minecraft:mob_effect/health_boost
+minecraft:mob_effect/hero_of_the_village
+minecraft:mob_effect/hunger
+minecraft:mob_effect/infested
+minecraft:mob_effect/instant_damage
+minecraft:mob_effect/instant_health
+minecraft:mob_effect/invisibility
+minecraft:mob_effect/jump_boost
+minecraft:mob_effect/levitation
+minecraft:mob_effect/luck
+minecraft:mob_effect/mining_fatigue
+minecraft:mob_effect/nausea
+minecraft:mob_effect/night_vision
+minecraft:mob_effect/oozing
+minecraft:mob_effect/poison
+minecraft:mob_effect/raid_omen
+minecraft:mob_effect/regeneration
+minecraft:mob_effect/resistance
+minecraft:mob_effect/saturation
+minecraft:mob_effect/slow_falling
+minecraft:mob_effect/slowness
+minecraft:mob_effect/speed
+minecraft:mob_effect/strength
+minecraft:mob_effect/trial_omen
+minecraft:mob_effect/unluck
+minecraft:mob_effect/water_breathing
+minecraft:mob_effect/weakness
+minecraft:mob_effect/weaving
+minecraft:mob_effect/wind_charged
+minecraft:mob_effect/wither
+minecraft:notification/1
+minecraft:notification/2
+minecraft:notification/3
+minecraft:notification/4
+minecraft:notification/5
+minecraft:notification/more
+minecraft:pause_menu/bug
+minecraft:pause_menu/player_reporting
+minecraft:pause_menu/social_interactions
+minecraft:pending_invite/accept
+minecraft:pending_invite/accept_highlighted
+minecraft:pending_invite/reject
+minecraft:pending_invite/reject_highlighted
+minecraft:player_list/make_operator
+minecraft:player_list/remove_operator
+minecraft:player_list/remove_player
+minecraft:popup/background
+minecraft:realm_status/closed
+minecraft:realm_status/expired
+minecraft:realm_status/expires_soon
+minecraft:realm_status/open
+minecraft:recipe_book/button
+minecraft:recipe_book/button_highlighted
+minecraft:recipe_book/crafting_overlay
+minecraft:recipe_book/crafting_overlay_disabled
+minecraft:recipe_book/crafting_overlay_disabled_highlighted
+minecraft:recipe_book/crafting_overlay_highlighted
+minecraft:recipe_book/filter_disabled
+minecraft:recipe_book/filter_disabled_highlighted
+minecraft:recipe_book/filter_enabled
+minecraft:recipe_book/filter_enabled_highlighted
+minecraft:recipe_book/furnace_filter_disabled
+minecraft:recipe_book/furnace_filter_disabled_highlighted
+minecraft:recipe_book/furnace_filter_enabled
+minecraft:recipe_book/furnace_filter_enabled_highlighted
+minecraft:recipe_book/furnace_overlay
+minecraft:recipe_book/furnace_overlay_disabled
+minecraft:recipe_book/furnace_overlay_disabled_highlighted
+minecraft:recipe_book/furnace_overlay_highlighted
+minecraft:recipe_book/overlay_recipe
+minecraft:recipe_book/page_backward
+minecraft:recipe_book/page_backward_highlighted
+minecraft:recipe_book/page_forward
+minecraft:recipe_book/page_forward_highlighted
+minecraft:recipe_book/slot_craftable
+minecraft:recipe_book/slot_many_craftable
+minecraft:recipe_book/slot_many_uncraftable
+minecraft:recipe_book/slot_uncraftable
+minecraft:recipe_book/tab
+minecraft:recipe_book/tab_selected
+minecraft:server_list/incompatible
+minecraft:server_list/join
+minecraft:server_list/join_highlighted
+minecraft:server_list/move_down
+minecraft:server_list/move_down_highlighted
+minecraft:server_list/move_up
+minecraft:server_list/move_up_highlighted
+minecraft:server_list/ping_1
+minecraft:server_list/ping_2
+minecraft:server_list/ping_3
+minecraft:server_list/ping_4
+minecraft:server_list/ping_5
+minecraft:server_list/pinging_1
+minecraft:server_list/pinging_2
+minecraft:server_list/pinging_3
+minecraft:server_list/pinging_4
+minecraft:server_list/pinging_5
+minecraft:server_list/unreachable
+minecraft:social_interactions/background
+minecraft:social_interactions/mute_button
+minecraft:social_interactions/mute_button_highlighted
+minecraft:social_interactions/report_button
+minecraft:social_interactions/report_button_disabled
+minecraft:social_interactions/report_button_highlighted
+minecraft:social_interactions/unmute_button
+minecraft:social_interactions/unmute_button_highlighted
+minecraft:spectator/close
+minecraft:spectator/scroll_left
+minecraft:spectator/scroll_right
+minecraft:spectator/teleport_to_player
+minecraft:spectator/teleport_to_team
+minecraft:statistics/block_mined
+minecraft:statistics/header
+minecraft:statistics/item_broken
+minecraft:statistics/item_crafted
+minecraft:statistics/item_dropped
+minecraft:statistics/item_picked_up
+minecraft:statistics/item_used
+minecraft:statistics/sort_down
+minecraft:statistics/sort_up
+minecraft:toast/advancement
+minecraft:toast/mouse
+minecraft:toast/movement_keys
+minecraft:toast/now_playing
+minecraft:toast/recipe
+minecraft:toast/recipe_book
+minecraft:toast/right_click
+minecraft:toast/social_interactions
+minecraft:toast/system
+minecraft:toast/tree
+minecraft:toast/tutorial
+minecraft:toast/wooden_planks
+minecraft:tooltip/background
+minecraft:tooltip/frame
+minecraft:transferable_list/move_down
+minecraft:transferable_list/move_down_highlighted
+minecraft:transferable_list/move_up
+minecraft:transferable_list/move_up_highlighted
+minecraft:transferable_list/select
+minecraft:transferable_list/select_highlighted
+minecraft:transferable_list/unselect
+minecraft:transferable_list/unselect_highlighted
+minecraft:widget/button
+minecraft:widget/button_disabled
+minecraft:widget/button_highlighted
+minecraft:widget/checkbox
+minecraft:widget/checkbox_highlighted
+minecraft:widget/checkbox_selected
+minecraft:widget/checkbox_selected_highlighted
+minecraft:widget/cross_button
+minecraft:widget/cross_button_highlighted
+minecraft:widget/locked_button
+minecraft:widget/locked_button_disabled
+minecraft:widget/locked_button_highlighted
+minecraft:widget/page_backward
+minecraft:widget/page_backward_highlighted
+minecraft:widget/page_forward
+minecraft:widget/page_forward_highlighted
+minecraft:widget/preedit
+minecraft:widget/realms_button
+minecraft:widget/realms_button_disabled
+minecraft:widget/realms_button_highlighted
+minecraft:widget/scroller
+minecraft:widget/scroller_background
+minecraft:widget/slider
+minecraft:widget/slider_handle
+minecraft:widget/slider_handle_highlighted
+minecraft:widget/slider_highlighted
+minecraft:widget/slot_frame
+minecraft:widget/tab
+minecraft:widget/tab_highlighted
+minecraft:widget/tab_selected
+minecraft:widget/tab_selected_highlighted
+minecraft:widget/text_field
+minecraft:widget/text_field_highlighted
+minecraft:widget/unlocked_button
+minecraft:widget/unlocked_button_disabled
+minecraft:widget/unlocked_button_highlighted
+minecraft:world_list/error
+minecraft:world_list/error_highlighted
+minecraft:world_list/join
+minecraft:world_list/join_highlighted
+minecraft:world_list/marked_join
+minecraft:world_list/marked_join_highlighted
+minecraft:world_list/warning
+minecraft:world_list/warning_highlighted

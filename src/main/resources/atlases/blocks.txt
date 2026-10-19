@@ -1,1121 +1,1310 @@
-minecraft:block/acacia_door_bottom	x=448	y=0	w=16	h=16
-minecraft:block/acacia_door_top	x=448	y=48	w=16	h=16
-minecraft:block/acacia_leaves	x=448	y=96	w=16	h=16
-minecraft:block/acacia_log	x=448	y=144	w=16	h=16
-minecraft:block/acacia_log_top	x=448	y=192	w=16	h=16
-minecraft:block/acacia_planks	x=0	y=256	w=16	h=16
-minecraft:block/acacia_sapling	x=48	y=256	w=16	h=16
-minecraft:block/acacia_shelf	x=128	y=64	w=32	h=32
-minecraft:block/acacia_trapdoor	x=96	y=256	w=16	h=16
-minecraft:block/activator_rail	x=144	y=256	w=16	h=16
-minecraft:block/activator_rail_on	x=192	y=256	w=16	h=16
-minecraft:block/allium	x=240	y=256	w=16	h=16
-minecraft:block/amethyst_block	x=288	y=256	w=16	h=16
-minecraft:block/amethyst_cluster	x=336	y=256	w=16	h=16
-minecraft:block/ancient_debris_side	x=384	y=256	w=16	h=16
-minecraft:block/ancient_debris_top	x=432	y=256	w=16	h=16
-minecraft:block/andesite	x=0	y=304	w=16	h=16
-minecraft:block/anvil	x=48	y=304	w=16	h=16
-minecraft:block/anvil_top	x=96	y=304	w=16	h=16
-minecraft:block/attached_melon_stem	x=144	y=304	w=16	h=16
-minecraft:block/attached_pumpkin_stem	x=192	y=304	w=16	h=16
-minecraft:block/azalea_leaves	x=240	y=304	w=16	h=16
-minecraft:block/azalea_plant	x=288	y=304	w=16	h=16
-minecraft:block/azalea_side	x=336	y=304	w=16	h=16
-minecraft:block/azalea_top	x=384	y=304	w=16	h=16
-minecraft:block/azure_bluet	x=432	y=304	w=16	h=16
-minecraft:block/bamboo_block	x=0	y=352	w=16	h=16
-minecraft:block/bamboo_block_top	x=48	y=352	w=16	h=16
-minecraft:block/bamboo_door_bottom	x=96	y=352	w=16	h=16
-minecraft:block/bamboo_door_top	x=144	y=352	w=16	h=16
-minecraft:block/bamboo_fence	x=192	y=352	w=16	h=16
-minecraft:block/bamboo_fence_gate	x=240	y=352	w=16	h=16
-minecraft:block/bamboo_fence_gate_particle	x=288	y=352	w=16	h=16
-minecraft:block/bamboo_fence_particle	x=336	y=352	w=16	h=16
-minecraft:block/bamboo_large_leaves	x=384	y=352	w=16	h=16
-minecraft:block/bamboo_mosaic	x=432	y=352	w=16	h=16
-minecraft:block/bamboo_planks	x=0	y=400	w=16	h=16
-minecraft:block/bamboo_shelf	x=0	y=128	w=32	h=32
-minecraft:block/bamboo_singleleaf	x=48	y=400	w=16	h=16
-minecraft:block/bamboo_small_leaves	x=96	y=400	w=16	h=16
-minecraft:block/bamboo_stage0	x=144	y=400	w=16	h=16
-minecraft:block/bamboo_stalk	x=192	y=400	w=16	h=16
-minecraft:block/bamboo_trapdoor	x=240	y=400	w=16	h=16
-minecraft:block/barrel_bottom	x=288	y=400	w=16	h=16
-minecraft:block/barrel_side	x=336	y=400	w=16	h=16
-minecraft:block/barrel_top	x=384	y=400	w=16	h=16
-minecraft:block/barrel_top_open	x=432	y=400	w=16	h=16
-minecraft:block/basalt_side	x=0	y=448	w=16	h=16
-minecraft:block/basalt_top	x=48	y=448	w=16	h=16
-minecraft:block/beacon	x=96	y=448	w=16	h=16
-minecraft:block/bedrock	x=144	y=448	w=16	h=16
-minecraft:block/bee_nest_bottom	x=192	y=448	w=16	h=16
-minecraft:block/bee_nest_front	x=240	y=448	w=16	h=16
-minecraft:block/bee_nest_front_honey	x=288	y=448	w=16	h=16
-minecraft:block/bee_nest_side	x=336	y=448	w=16	h=16
-minecraft:block/bee_nest_top	x=384	y=448	w=16	h=16
-minecraft:block/beehive_end	x=432	y=448	w=16	h=16
-minecraft:block/beehive_front	x=512	y=0	w=16	h=16
-minecraft:block/beehive_front_honey	x=512	y=48	w=16	h=16
-minecraft:block/beehive_side	x=512	y=96	w=16	h=16
-minecraft:block/beetroots_stage0	x=512	y=144	w=16	h=16
-minecraft:block/beetroots_stage1	x=512	y=192	w=16	h=16
-minecraft:block/beetroots_stage2	x=512	y=240	w=16	h=16
-minecraft:block/beetroots_stage3	x=512	y=288	w=16	h=16
-minecraft:block/bell_bottom	x=512	y=336	w=16	h=16
-minecraft:block/bell_side	x=512	y=384	w=16	h=16
-minecraft:block/bell_top	x=512	y=432	w=16	h=16
-minecraft:block/big_dripleaf_side	x=560	y=0	w=16	h=16
-minecraft:block/big_dripleaf_stem	x=560	y=48	w=16	h=16
-minecraft:block/big_dripleaf_tip	x=560	y=96	w=16	h=16
-minecraft:block/big_dripleaf_top	x=560	y=144	w=16	h=16
-minecraft:block/birch_door_bottom	x=560	y=192	w=16	h=16
-minecraft:block/birch_door_top	x=560	y=240	w=16	h=16
-minecraft:block/birch_leaves	x=560	y=288	w=16	h=16
-minecraft:block/birch_log	x=560	y=336	w=16	h=16
-minecraft:block/birch_log_top	x=560	y=384	w=16	h=16
-minecraft:block/birch_planks	x=560	y=432	w=16	h=16
-minecraft:block/birch_sapling	x=608	y=0	w=16	h=16
-minecraft:block/birch_shelf	x=64	y=128	w=32	h=32
-minecraft:block/birch_trapdoor	x=608	y=48	w=16	h=16
-minecraft:block/black_candle	x=608	y=96	w=16	h=16
-minecraft:block/black_candle_lit	x=608	y=144	w=16	h=16
-minecraft:block/black_concrete	x=608	y=192	w=16	h=16
-minecraft:block/black_concrete_powder	x=608	y=240	w=16	h=16
-minecraft:block/black_glazed_terracotta	x=608	y=288	w=16	h=16
-minecraft:block/black_shulker_box	x=608	y=336	w=16	h=16
-minecraft:block/black_stained_glass	x=608	y=384	w=16	h=16
-minecraft:block/black_stained_glass_pane_top	x=608	y=432	w=16	h=16
-minecraft:block/black_terracotta	x=656	y=0	w=16	h=16
-minecraft:block/black_wool	x=656	y=48	w=16	h=16
-minecraft:block/blackstone	x=656	y=96	w=16	h=16
-minecraft:block/blackstone_top	x=656	y=144	w=16	h=16
-minecraft:block/blast_furnace_front	x=656	y=192	w=16	h=16
-minecraft:block/blast_furnace_front_on	x=656	y=240	w=16	h=16
-minecraft:block/blast_furnace_side	x=656	y=288	w=16	h=16
-minecraft:block/blast_furnace_top	x=656	y=336	w=16	h=16
-minecraft:block/blue_candle	x=656	y=384	w=16	h=16
-minecraft:block/blue_candle_lit	x=656	y=432	w=16	h=16
-minecraft:block/blue_concrete	x=704	y=0	w=16	h=16
-minecraft:block/blue_concrete_powder	x=704	y=48	w=16	h=16
-minecraft:block/blue_glazed_terracotta	x=704	y=96	w=16	h=16
-minecraft:block/blue_ice	x=704	y=144	w=16	h=16
-minecraft:block/blue_orchid	x=704	y=192	w=16	h=16
-minecraft:block/blue_shulker_box	x=704	y=240	w=16	h=16
-minecraft:block/blue_stained_glass	x=704	y=288	w=16	h=16
-minecraft:block/blue_stained_glass_pane_top	x=704	y=336	w=16	h=16
-minecraft:block/blue_terracotta	x=704	y=384	w=16	h=16
-minecraft:block/blue_wool	x=704	y=432	w=16	h=16
-minecraft:block/bone_block_side	x=752	y=0	w=16	h=16
-minecraft:block/bone_block_top	x=752	y=48	w=16	h=16
-minecraft:block/bookshelf	x=752	y=96	w=16	h=16
-minecraft:block/brain_coral	x=752	y=144	w=16	h=16
-minecraft:block/brain_coral_block	x=752	y=192	w=16	h=16
-minecraft:block/brain_coral_fan	x=752	y=240	w=16	h=16
-minecraft:block/brewing_stand	x=752	y=288	w=16	h=16
-minecraft:block/brewing_stand_base	x=752	y=336	w=16	h=16
-minecraft:block/bricks	x=752	y=384	w=16	h=16
-minecraft:block/brown_candle	x=752	y=432	w=16	h=16
-minecraft:block/brown_candle_lit	x=800	y=0	w=16	h=16
-minecraft:block/brown_concrete	x=800	y=48	w=16	h=16
-minecraft:block/brown_concrete_powder	x=800	y=96	w=16	h=16
-minecraft:block/brown_glazed_terracotta	x=800	y=144	w=16	h=16
-minecraft:block/brown_mushroom	x=800	y=192	w=16	h=16
-minecraft:block/brown_mushroom_block	x=800	y=240	w=16	h=16
-minecraft:block/brown_shulker_box	x=800	y=288	w=16	h=16
-minecraft:block/brown_stained_glass	x=800	y=336	w=16	h=16
-minecraft:block/brown_stained_glass_pane_top	x=800	y=384	w=16	h=16
-minecraft:block/brown_terracotta	x=800	y=432	w=16	h=16
-minecraft:block/brown_wool	x=848	y=0	w=16	h=16
-minecraft:block/bubble_coral	x=848	y=48	w=16	h=16
-minecraft:block/bubble_coral_block	x=848	y=96	w=16	h=16
-minecraft:block/bubble_coral_fan	x=848	y=144	w=16	h=16
-minecraft:block/budding_amethyst	x=848	y=192	w=16	h=16
-minecraft:block/bush	x=848	y=240	w=16	h=16
-minecraft:block/cactus_bottom	x=848	y=288	w=16	h=16
-minecraft:block/cactus_flower	x=848	y=336	w=16	h=16
-minecraft:block/cactus_side	x=848	y=384	w=16	h=16
-minecraft:block/cactus_top	x=848	y=432	w=16	h=16
-minecraft:block/cake_bottom	x=896	y=0	w=16	h=16
-minecraft:block/cake_inner	x=896	y=48	w=16	h=16
-minecraft:block/cake_side	x=896	y=96	w=16	h=16
-minecraft:block/cake_top	x=896	y=144	w=16	h=16
-minecraft:block/calcite	x=896	y=192	w=16	h=16
-minecraft:block/calibrated_sculk_sensor_amethyst	x=896	y=240	w=16	h=16
-minecraft:block/calibrated_sculk_sensor_input_side	x=896	y=288	w=16	h=16
-minecraft:block/calibrated_sculk_sensor_top	x=896	y=336	w=16	h=16
-minecraft:block/campfire_fire	x=896	y=384	w=16	h=16
-minecraft:block/campfire_log	x=896	y=432	w=16	h=16
-minecraft:block/campfire_log_lit	x=944	y=0	w=16	h=16
-minecraft:block/candle	x=944	y=48	w=16	h=16
-minecraft:block/candle_lit	x=944	y=96	w=16	h=16
-minecraft:block/carrots_stage0	x=944	y=144	w=16	h=16
-minecraft:block/carrots_stage1	x=944	y=192	w=16	h=16
-minecraft:block/carrots_stage2	x=944	y=240	w=16	h=16
-minecraft:block/carrots_stage3	x=944	y=288	w=16	h=16
-minecraft:block/cartography_table_side1	x=944	y=336	w=16	h=16
-minecraft:block/cartography_table_side2	x=944	y=384	w=16	h=16
-minecraft:block/cartography_table_side3	x=944	y=432	w=16	h=16
-minecraft:block/cartography_table_top	x=0	y=512	w=16	h=16
-minecraft:block/carved_pumpkin	x=48	y=512	w=16	h=16
-minecraft:block/cauldron_bottom	x=96	y=512	w=16	h=16
-minecraft:block/cauldron_inner	x=144	y=512	w=16	h=16
-minecraft:block/cauldron_side	x=192	y=512	w=16	h=16
-minecraft:block/cauldron_top	x=240	y=512	w=16	h=16
-minecraft:block/cave_vines	x=288	y=512	w=16	h=16
-minecraft:block/cave_vines_lit	x=336	y=512	w=16	h=16
-minecraft:block/cave_vines_plant	x=384	y=512	w=16	h=16
-minecraft:block/cave_vines_plant_lit	x=432	y=512	w=16	h=16
-minecraft:block/chain_command_block_back	x=480	y=512	w=16	h=16
-minecraft:block/chain_command_block_conditional	x=528	y=512	w=16	h=16
-minecraft:block/chain_command_block_front	x=576	y=512	w=16	h=16
-minecraft:block/chain_command_block_side	x=624	y=512	w=16	h=16
-minecraft:block/cherry_door_bottom	x=672	y=512	w=16	h=16
-minecraft:block/cherry_door_top	x=720	y=512	w=16	h=16
-minecraft:block/cherry_leaves	x=768	y=512	w=16	h=16
-minecraft:block/cherry_log	x=816	y=512	w=16	h=16
-minecraft:block/cherry_log_top	x=864	y=512	w=16	h=16
-minecraft:block/cherry_planks	x=912	y=512	w=16	h=16
-minecraft:block/cherry_sapling	x=960	y=512	w=16	h=16
-minecraft:block/cherry_shelf	x=128	y=128	w=32	h=32
-minecraft:block/cherry_trapdoor	x=0	y=560	w=16	h=16
-minecraft:block/chipped_anvil_top	x=48	y=560	w=16	h=16
-minecraft:block/chiseled_bookshelf_empty	x=96	y=560	w=16	h=16
-minecraft:block/chiseled_bookshelf_occupied	x=144	y=560	w=16	h=16
-minecraft:block/chiseled_bookshelf_side	x=192	y=560	w=16	h=16
-minecraft:block/chiseled_bookshelf_top	x=240	y=560	w=16	h=16
-minecraft:block/chiseled_copper	x=288	y=560	w=16	h=16
-minecraft:block/chiseled_deepslate	x=336	y=560	w=16	h=16
-minecraft:block/chiseled_nether_bricks	x=384	y=560	w=16	h=16
-minecraft:block/chiseled_polished_blackstone	x=432	y=560	w=16	h=16
-minecraft:block/chiseled_quartz_block	x=480	y=560	w=16	h=16
-minecraft:block/chiseled_quartz_block_top	x=528	y=560	w=16	h=16
-minecraft:block/chiseled_red_sandstone	x=576	y=560	w=16	h=16
-minecraft:block/chiseled_resin_bricks	x=624	y=560	w=16	h=16
-minecraft:block/chiseled_sandstone	x=672	y=560	w=16	h=16
-minecraft:block/chiseled_stone_bricks	x=720	y=560	w=16	h=16
-minecraft:block/chiseled_tuff	x=768	y=560	w=16	h=16
-minecraft:block/chiseled_tuff_bricks	x=816	y=560	w=16	h=16
-minecraft:block/chiseled_tuff_bricks_top	x=864	y=560	w=16	h=16
-minecraft:block/chiseled_tuff_top	x=912	y=560	w=16	h=16
-minecraft:block/chorus_flower	x=960	y=560	w=16	h=16
-minecraft:block/chorus_flower_dead	x=0	y=608	w=16	h=16
-minecraft:block/chorus_plant	x=48	y=608	w=16	h=16
-minecraft:block/clay	x=96	y=608	w=16	h=16
-minecraft:block/closed_eyeblossom	x=144	y=608	w=16	h=16
-minecraft:block/coal_block	x=192	y=608	w=16	h=16
-minecraft:block/coal_ore	x=240	y=608	w=16	h=16
-minecraft:block/coarse_dirt	x=288	y=608	w=16	h=16
-minecraft:block/cobbled_deepslate	x=336	y=608	w=16	h=16
-minecraft:block/cobblestone	x=384	y=608	w=16	h=16
-minecraft:block/cobweb	x=432	y=608	w=16	h=16
-minecraft:block/cocoa_stage0	x=480	y=608	w=16	h=16
-minecraft:block/cocoa_stage1	x=528	y=608	w=16	h=16
-minecraft:block/cocoa_stage2	x=576	y=608	w=16	h=16
-minecraft:block/command_block_back	x=624	y=608	w=16	h=16
-minecraft:block/command_block_conditional	x=672	y=608	w=16	h=16
-minecraft:block/command_block_front	x=720	y=608	w=16	h=16
-minecraft:block/command_block_side	x=768	y=608	w=16	h=16
-minecraft:block/comparator	x=816	y=608	w=16	h=16
-minecraft:block/comparator_on	x=864	y=608	w=16	h=16
-minecraft:block/composter_bottom	x=912	y=608	w=16	h=16
-minecraft:block/composter_compost	x=960	y=608	w=16	h=16
-minecraft:block/composter_ready	x=0	y=656	w=16	h=16
-minecraft:block/composter_side	x=48	y=656	w=16	h=16
-minecraft:block/composter_top	x=96	y=656	w=16	h=16
-minecraft:block/conduit	x=144	y=656	w=16	h=16
-minecraft:block/copper_bars	x=192	y=656	w=16	h=16
-minecraft:block/copper_block	x=240	y=656	w=16	h=16
-minecraft:block/copper_bulb	x=288	y=656	w=16	h=16
-minecraft:block/copper_bulb_lit	x=336	y=656	w=16	h=16
-minecraft:block/copper_bulb_lit_powered	x=384	y=656	w=16	h=16
-minecraft:block/copper_bulb_powered	x=432	y=656	w=16	h=16
-minecraft:block/copper_chain	x=480	y=656	w=16	h=16
-minecraft:block/copper_door_bottom	x=528	y=656	w=16	h=16
-minecraft:block/copper_door_top	x=576	y=656	w=16	h=16
-minecraft:block/copper_grate	x=624	y=656	w=16	h=16
-minecraft:block/copper_lantern	x=672	y=656	w=16	h=16
-minecraft:block/copper_ore	x=720	y=656	w=16	h=16
-minecraft:block/copper_torch	x=768	y=656	w=16	h=16
-minecraft:block/copper_trapdoor	x=816	y=656	w=16	h=16
-minecraft:block/cornflower	x=864	y=656	w=16	h=16
-minecraft:block/cracked_deepslate_bricks	x=912	y=656	w=16	h=16
-minecraft:block/cracked_deepslate_tiles	x=960	y=656	w=16	h=16
-minecraft:block/cracked_nether_bricks	x=0	y=704	w=16	h=16
-minecraft:block/cracked_polished_blackstone_bricks	x=48	y=704	w=16	h=16
-minecraft:block/cracked_stone_bricks	x=96	y=704	w=16	h=16
-minecraft:block/crafter_bottom	x=144	y=704	w=16	h=16
-minecraft:block/crafter_east	x=192	y=704	w=16	h=16
-minecraft:block/crafter_east_crafting	x=240	y=704	w=16	h=16
-minecraft:block/crafter_east_triggered	x=288	y=704	w=16	h=16
-minecraft:block/crafter_north	x=336	y=704	w=16	h=16
-minecraft:block/crafter_north_crafting	x=384	y=704	w=16	h=16
-minecraft:block/crafter_south	x=432	y=704	w=16	h=16
-minecraft:block/crafter_south_triggered	x=480	y=704	w=16	h=16
-minecraft:block/crafter_top	x=528	y=704	w=16	h=16
-minecraft:block/crafter_top_crafting	x=576	y=704	w=16	h=16
-minecraft:block/crafter_top_triggered	x=624	y=704	w=16	h=16
-minecraft:block/crafter_west	x=672	y=704	w=16	h=16
-minecraft:block/crafter_west_crafting	x=720	y=704	w=16	h=16
-minecraft:block/crafter_west_triggered	x=768	y=704	w=16	h=16
-minecraft:block/crafting_table_front	x=816	y=704	w=16	h=16
-minecraft:block/crafting_table_side	x=864	y=704	w=16	h=16
-minecraft:block/crafting_table_top	x=912	y=704	w=16	h=16
-minecraft:block/creaking_heart	x=960	y=704	w=16	h=16
-minecraft:block/creaking_heart_awake	x=0	y=752	w=16	h=16
-minecraft:block/creaking_heart_dormant	x=48	y=752	w=16	h=16
-minecraft:block/creaking_heart_top	x=96	y=752	w=16	h=16
-minecraft:block/creaking_heart_top_awake	x=144	y=752	w=16	h=16
-minecraft:block/creaking_heart_top_dormant	x=192	y=752	w=16	h=16
-minecraft:block/crimson_door_bottom	x=240	y=752	w=16	h=16
-minecraft:block/crimson_door_top	x=288	y=752	w=16	h=16
-minecraft:block/crimson_fungus	x=336	y=752	w=16	h=16
-minecraft:block/crimson_nylium	x=384	y=752	w=16	h=16
-minecraft:block/crimson_nylium_side	x=432	y=752	w=16	h=16
-minecraft:block/crimson_planks	x=480	y=752	w=16	h=16
-minecraft:block/crimson_roots	x=528	y=752	w=16	h=16
-minecraft:block/crimson_roots_pot	x=576	y=752	w=16	h=16
-minecraft:block/crimson_shelf	x=192	y=128	w=32	h=32
-minecraft:block/crimson_stem	x=624	y=752	w=16	h=16
-minecraft:block/crimson_stem_top	x=672	y=752	w=16	h=16
-minecraft:block/crimson_trapdoor	x=720	y=752	w=16	h=16
-minecraft:block/crying_obsidian	x=768	y=752	w=16	h=16
-minecraft:block/cut_copper	x=816	y=752	w=16	h=16
-minecraft:block/cut_red_sandstone	x=864	y=752	w=16	h=16
-minecraft:block/cut_sandstone	x=912	y=752	w=16	h=16
-minecraft:block/cyan_candle	x=960	y=752	w=16	h=16
-minecraft:block/cyan_candle_lit	x=0	y=800	w=16	h=16
-minecraft:block/cyan_concrete	x=48	y=800	w=16	h=16
-minecraft:block/cyan_concrete_powder	x=96	y=800	w=16	h=16
-minecraft:block/cyan_glazed_terracotta	x=144	y=800	w=16	h=16
-minecraft:block/cyan_shulker_box	x=192	y=800	w=16	h=16
-minecraft:block/cyan_stained_glass	x=240	y=800	w=16	h=16
-minecraft:block/cyan_stained_glass_pane_top	x=288	y=800	w=16	h=16
-minecraft:block/cyan_terracotta	x=336	y=800	w=16	h=16
-minecraft:block/cyan_wool	x=384	y=800	w=16	h=16
-minecraft:block/damaged_anvil_top	x=432	y=800	w=16	h=16
-minecraft:block/dandelion	x=480	y=800	w=16	h=16
-minecraft:block/dark_oak_door_bottom	x=528	y=800	w=16	h=16
-minecraft:block/dark_oak_door_top	x=576	y=800	w=16	h=16
-minecraft:block/dark_oak_leaves	x=624	y=800	w=16	h=16
-minecraft:block/dark_oak_log	x=672	y=800	w=16	h=16
-minecraft:block/dark_oak_log_top	x=720	y=800	w=16	h=16
-minecraft:block/dark_oak_planks	x=768	y=800	w=16	h=16
-minecraft:block/dark_oak_sapling	x=816	y=800	w=16	h=16
-minecraft:block/dark_oak_shelf	x=0	y=192	w=32	h=32
-minecraft:block/dark_oak_trapdoor	x=864	y=800	w=16	h=16
-minecraft:block/dark_prismarine	x=912	y=800	w=16	h=16
-minecraft:block/daylight_detector_inverted_top	x=960	y=800	w=16	h=16
-minecraft:block/daylight_detector_side	x=0	y=848	w=16	h=16
-minecraft:block/daylight_detector_top	x=48	y=848	w=16	h=16
-minecraft:block/dead_brain_coral	x=96	y=848	w=16	h=16
-minecraft:block/dead_brain_coral_block	x=144	y=848	w=16	h=16
-minecraft:block/dead_brain_coral_fan	x=192	y=848	w=16	h=16
-minecraft:block/dead_bubble_coral	x=240	y=848	w=16	h=16
-minecraft:block/dead_bubble_coral_block	x=288	y=848	w=16	h=16
-minecraft:block/dead_bubble_coral_fan	x=336	y=848	w=16	h=16
-minecraft:block/dead_bush	x=384	y=848	w=16	h=16
-minecraft:block/dead_fire_coral	x=432	y=848	w=16	h=16
-minecraft:block/dead_fire_coral_block	x=480	y=848	w=16	h=16
-minecraft:block/dead_fire_coral_fan	x=528	y=848	w=16	h=16
-minecraft:block/dead_horn_coral	x=576	y=848	w=16	h=16
-minecraft:block/dead_horn_coral_block	x=624	y=848	w=16	h=16
-minecraft:block/dead_horn_coral_fan	x=672	y=848	w=16	h=16
-minecraft:block/dead_tube_coral	x=720	y=848	w=16	h=16
-minecraft:block/dead_tube_coral_block	x=768	y=848	w=16	h=16
-minecraft:block/dead_tube_coral_fan	x=816	y=848	w=16	h=16
-minecraft:block/debug	x=864	y=848	w=16	h=16
-minecraft:block/debug2	x=912	y=848	w=16	h=16
-minecraft:block/deepslate	x=960	y=848	w=16	h=16
-minecraft:block/deepslate_bricks	x=0	y=896	w=16	h=16
-minecraft:block/deepslate_coal_ore	x=48	y=896	w=16	h=16
-minecraft:block/deepslate_copper_ore	x=96	y=896	w=16	h=16
-minecraft:block/deepslate_diamond_ore	x=144	y=896	w=16	h=16
-minecraft:block/deepslate_emerald_ore	x=192	y=896	w=16	h=16
-minecraft:block/deepslate_gold_ore	x=240	y=896	w=16	h=16
-minecraft:block/deepslate_iron_ore	x=288	y=896	w=16	h=16
-minecraft:block/deepslate_lapis_ore	x=336	y=896	w=16	h=16
-minecraft:block/deepslate_redstone_ore	x=384	y=896	w=16	h=16
-minecraft:block/deepslate_tiles	x=432	y=896	w=16	h=16
-minecraft:block/deepslate_top	x=480	y=896	w=16	h=16
-minecraft:block/destroy_stage_0	x=528	y=896	w=16	h=16
-minecraft:block/destroy_stage_1	x=576	y=896	w=16	h=16
-minecraft:block/destroy_stage_2	x=624	y=896	w=16	h=16
-minecraft:block/destroy_stage_3	x=672	y=896	w=16	h=16
-minecraft:block/destroy_stage_4	x=720	y=896	w=16	h=16
-minecraft:block/destroy_stage_5	x=768	y=896	w=16	h=16
-minecraft:block/destroy_stage_6	x=816	y=896	w=16	h=16
-minecraft:block/destroy_stage_7	x=864	y=896	w=16	h=16
-minecraft:block/destroy_stage_8	x=912	y=896	w=16	h=16
-minecraft:block/destroy_stage_9	x=960	y=896	w=16	h=16
-minecraft:block/detector_rail	x=0	y=944	w=16	h=16
-minecraft:block/detector_rail_on	x=48	y=944	w=16	h=16
-minecraft:block/diamond_block	x=96	y=944	w=16	h=16
-minecraft:block/diamond_ore	x=144	y=944	w=16	h=16
-minecraft:block/diorite	x=192	y=944	w=16	h=16
-minecraft:block/dirt	x=240	y=944	w=16	h=16
-minecraft:block/dirt_path_side	x=288	y=944	w=16	h=16
-minecraft:block/dirt_path_top	x=336	y=944	w=16	h=16
-minecraft:block/dispenser_front	x=384	y=944	w=16	h=16
-minecraft:block/dispenser_front_vertical	x=432	y=944	w=16	h=16
-minecraft:block/dragon_egg	x=480	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_0_bottom	x=528	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_0_east	x=576	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_0_north	x=624	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_0_south	x=672	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_0_tentacles	x=64	y=192	w=32	h=32
-minecraft:block/dried_ghast_hydration_0_top	x=720	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_0_west	x=768	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_1_bottom	x=816	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_1_east	x=864	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_1_north	x=912	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_1_south	x=960	y=944	w=16	h=16
-minecraft:block/dried_ghast_hydration_1_tentacles	x=128	y=192	w=32	h=32
-minecraft:block/dried_ghast_hydration_1_top	x=1024	y=0	w=16	h=16
-minecraft:block/dried_ghast_hydration_1_west	x=1024	y=48	w=16	h=16
-minecraft:block/dried_ghast_hydration_2_bottom	x=1024	y=96	w=16	h=16
-minecraft:block/dried_ghast_hydration_2_east	x=1024	y=144	w=16	h=16
-minecraft:block/dried_ghast_hydration_2_north	x=1024	y=192	w=16	h=16
-minecraft:block/dried_ghast_hydration_2_south	x=1024	y=240	w=16	h=16
-minecraft:block/dried_ghast_hydration_2_tentacles	x=192	y=192	w=32	h=32
-minecraft:block/dried_ghast_hydration_2_top	x=1024	y=288	w=16	h=16
-minecraft:block/dried_ghast_hydration_2_west	x=1024	y=336	w=16	h=16
-minecraft:block/dried_ghast_hydration_3_bottom	x=1024	y=384	w=16	h=16
-minecraft:block/dried_ghast_hydration_3_east	x=1024	y=432	w=16	h=16
-minecraft:block/dried_ghast_hydration_3_north	x=1024	y=480	w=16	h=16
-minecraft:block/dried_ghast_hydration_3_south	x=1024	y=528	w=16	h=16
-minecraft:block/dried_ghast_hydration_3_tentacles	x=256	y=0	w=32	h=32
-minecraft:block/dried_ghast_hydration_3_top	x=1024	y=576	w=16	h=16
-minecraft:block/dried_ghast_hydration_3_west	x=1024	y=624	w=16	h=16
-minecraft:block/dried_kelp_bottom	x=1024	y=672	w=16	h=16
-minecraft:block/dried_kelp_side	x=1024	y=720	w=16	h=16
-minecraft:block/dried_kelp_top	x=1024	y=768	w=16	h=16
-minecraft:block/dripstone_block	x=1024	y=816	w=16	h=16
-minecraft:block/dropper_front	x=1024	y=864	w=16	h=16
-minecraft:block/dropper_front_vertical	x=1024	y=912	w=16	h=16
-minecraft:block/emerald_block	x=1024	y=960	w=16	h=16
-minecraft:block/emerald_ore	x=1072	y=0	w=16	h=16
-minecraft:block/enchanting_table_bottom	x=1072	y=48	w=16	h=16
-minecraft:block/enchanting_table_side	x=1072	y=96	w=16	h=16
-minecraft:block/enchanting_table_top	x=1072	y=144	w=16	h=16
-minecraft:block/end_portal_frame_eye	x=1072	y=192	w=16	h=16
-minecraft:block/end_portal_frame_side	x=1072	y=240	w=16	h=16
-minecraft:block/end_portal_frame_top	x=1072	y=288	w=16	h=16
-minecraft:block/end_rod	x=1072	y=336	w=16	h=16
-minecraft:block/end_stone	x=1072	y=384	w=16	h=16
-minecraft:block/end_stone_bricks	x=1072	y=432	w=16	h=16
-minecraft:block/exposed_chiseled_copper	x=1072	y=480	w=16	h=16
-minecraft:block/exposed_copper	x=1072	y=528	w=16	h=16
-minecraft:block/exposed_copper_bars	x=1072	y=576	w=16	h=16
-minecraft:block/exposed_copper_bulb	x=1072	y=624	w=16	h=16
-minecraft:block/exposed_copper_bulb_lit	x=1072	y=672	w=16	h=16
-minecraft:block/exposed_copper_bulb_lit_powered	x=1072	y=720	w=16	h=16
-minecraft:block/exposed_copper_bulb_powered	x=1072	y=768	w=16	h=16
-minecraft:block/exposed_copper_chain	x=1072	y=816	w=16	h=16
-minecraft:block/exposed_copper_door_bottom	x=1072	y=864	w=16	h=16
-minecraft:block/exposed_copper_door_top	x=1072	y=912	w=16	h=16
-minecraft:block/exposed_copper_grate	x=1072	y=960	w=16	h=16
-minecraft:block/exposed_copper_lantern	x=1120	y=0	w=16	h=16
-minecraft:block/exposed_copper_trapdoor	x=1120	y=48	w=16	h=16
-minecraft:block/exposed_cut_copper	x=1120	y=96	w=16	h=16
-minecraft:block/exposed_lightning_rod	x=1120	y=144	w=16	h=16
-minecraft:block/farmland	x=1120	y=192	w=16	h=16
-minecraft:block/farmland_moist	x=1120	y=240	w=16	h=16
-minecraft:block/fern	x=1120	y=288	w=16	h=16
-minecraft:block/fire_0	x=1120	y=336	w=16	h=16
-minecraft:block/fire_1	x=1120	y=384	w=16	h=16
-minecraft:block/fire_coral	x=1120	y=432	w=16	h=16
-minecraft:block/fire_coral_block	x=1120	y=480	w=16	h=16
-minecraft:block/fire_coral_fan	x=1120	y=528	w=16	h=16
-minecraft:block/firefly_bush	x=1120	y=576	w=16	h=16
-minecraft:block/firefly_bush_emissive	x=1120	y=624	w=16	h=16
-minecraft:block/fletching_table_front	x=1120	y=672	w=16	h=16
-minecraft:block/fletching_table_side	x=1120	y=720	w=16	h=16
-minecraft:block/fletching_table_top	x=1120	y=768	w=16	h=16
-minecraft:block/flower_pot	x=1120	y=816	w=16	h=16
-minecraft:block/flowering_azalea_leaves	x=1120	y=864	w=16	h=16
-minecraft:block/flowering_azalea_side	x=1120	y=912	w=16	h=16
-minecraft:block/flowering_azalea_top	x=1120	y=960	w=16	h=16
-minecraft:block/frogspawn	x=1168	y=0	w=16	h=16
-minecraft:block/frosted_ice_0	x=1168	y=48	w=16	h=16
-minecraft:block/frosted_ice_1	x=1168	y=96	w=16	h=16
-minecraft:block/frosted_ice_2	x=1168	y=144	w=16	h=16
-minecraft:block/frosted_ice_3	x=1168	y=192	w=16	h=16
-minecraft:block/furnace_front	x=1168	y=240	w=16	h=16
-minecraft:block/furnace_front_on	x=1168	y=288	w=16	h=16
-minecraft:block/furnace_side	x=1168	y=336	w=16	h=16
-minecraft:block/furnace_top	x=1168	y=384	w=16	h=16
-minecraft:block/gilded_blackstone	x=1168	y=432	w=16	h=16
-minecraft:block/glass	x=1168	y=480	w=16	h=16
-minecraft:block/glass_pane_top	x=1168	y=528	w=16	h=16
-minecraft:block/glow_item_frame	x=1168	y=576	w=16	h=16
-minecraft:block/glow_lichen	x=1168	y=624	w=16	h=16
-minecraft:block/glowstone	x=1168	y=672	w=16	h=16
-minecraft:block/gold_block	x=1168	y=720	w=16	h=16
-minecraft:block/gold_ore	x=1168	y=768	w=16	h=16
-minecraft:block/granite	x=1168	y=816	w=16	h=16
-minecraft:block/grass_block_side	x=1168	y=864	w=16	h=16
-minecraft:block/grass_block_side_overlay	x=1168	y=912	w=16	h=16
-minecraft:block/grass_block_snow	x=1168	y=960	w=16	h=16
-minecraft:block/grass_block_top	x=1216	y=0	w=16	h=16
-minecraft:block/gravel	x=1216	y=48	w=16	h=16
-minecraft:block/gray_candle	x=1216	y=96	w=16	h=16
-minecraft:block/gray_candle_lit	x=1216	y=144	w=16	h=16
-minecraft:block/gray_concrete	x=1216	y=192	w=16	h=16
-minecraft:block/gray_concrete_powder	x=1216	y=240	w=16	h=16
-minecraft:block/gray_glazed_terracotta	x=1216	y=288	w=16	h=16
-minecraft:block/gray_shulker_box	x=1216	y=336	w=16	h=16
-minecraft:block/gray_stained_glass	x=1216	y=384	w=16	h=16
-minecraft:block/gray_stained_glass_pane_top	x=1216	y=432	w=16	h=16
-minecraft:block/gray_terracotta	x=1216	y=480	w=16	h=16
-minecraft:block/gray_wool	x=1216	y=528	w=16	h=16
-minecraft:block/green_candle	x=1216	y=576	w=16	h=16
-minecraft:block/green_candle_lit	x=1216	y=624	w=16	h=16
-minecraft:block/green_concrete	x=1216	y=672	w=16	h=16
-minecraft:block/green_concrete_powder	x=1216	y=720	w=16	h=16
-minecraft:block/green_glazed_terracotta	x=1216	y=768	w=16	h=16
-minecraft:block/green_shulker_box	x=1216	y=816	w=16	h=16
-minecraft:block/green_stained_glass	x=1216	y=864	w=16	h=16
-minecraft:block/green_stained_glass_pane_top	x=1216	y=912	w=16	h=16
-minecraft:block/green_terracotta	x=1216	y=960	w=16	h=16
-minecraft:block/green_wool	x=1264	y=0	w=16	h=16
-minecraft:block/grindstone_pivot	x=1264	y=48	w=16	h=16
-minecraft:block/grindstone_round	x=1264	y=96	w=16	h=16
-minecraft:block/grindstone_side	x=1264	y=144	w=16	h=16
-minecraft:block/hanging_roots	x=1264	y=192	w=16	h=16
-minecraft:block/hay_block_side	x=1264	y=240	w=16	h=16
-minecraft:block/hay_block_top	x=1264	y=288	w=16	h=16
-minecraft:block/heavy_core	x=1264	y=336	w=16	h=16
-minecraft:block/honey_block_bottom	x=1264	y=384	w=16	h=16
-minecraft:block/honey_block_side	x=1264	y=432	w=16	h=16
-minecraft:block/honey_block_top	x=1264	y=480	w=16	h=16
-minecraft:block/honeycomb_block	x=1264	y=528	w=16	h=16
-minecraft:block/hopper_inside	x=1264	y=576	w=16	h=16
-minecraft:block/hopper_outside	x=1264	y=624	w=16	h=16
-minecraft:block/hopper_top	x=1264	y=672	w=16	h=16
-minecraft:block/horn_coral	x=1264	y=720	w=16	h=16
-minecraft:block/horn_coral_block	x=1264	y=768	w=16	h=16
-minecraft:block/horn_coral_fan	x=1264	y=816	w=16	h=16
-minecraft:block/ice	x=1264	y=864	w=16	h=16
-minecraft:block/iron_bars	x=1264	y=912	w=16	h=16
-minecraft:block/iron_block	x=1264	y=960	w=16	h=16
-minecraft:block/iron_chain	x=1312	y=0	w=16	h=16
-minecraft:block/iron_door_bottom	x=1312	y=48	w=16	h=16
-minecraft:block/iron_door_top	x=1312	y=96	w=16	h=16
-minecraft:block/iron_ore	x=1312	y=144	w=16	h=16
-minecraft:block/iron_trapdoor	x=1312	y=192	w=16	h=16
-minecraft:block/item_frame	x=1312	y=240	w=16	h=16
-minecraft:block/jack_o_lantern	x=1312	y=288	w=16	h=16
-minecraft:block/jigsaw_bottom	x=1312	y=336	w=16	h=16
-minecraft:block/jigsaw_lock	x=1312	y=384	w=16	h=16
-minecraft:block/jigsaw_side	x=1312	y=432	w=16	h=16
-minecraft:block/jigsaw_top	x=1312	y=480	w=16	h=16
-minecraft:block/jukebox_side	x=1312	y=528	w=16	h=16
-minecraft:block/jukebox_top	x=1312	y=576	w=16	h=16
-minecraft:block/jungle_door_bottom	x=1312	y=624	w=16	h=16
-minecraft:block/jungle_door_top	x=1312	y=672	w=16	h=16
-minecraft:block/jungle_leaves	x=1312	y=720	w=16	h=16
-minecraft:block/jungle_log	x=1312	y=768	w=16	h=16
-minecraft:block/jungle_log_top	x=1312	y=816	w=16	h=16
-minecraft:block/jungle_planks	x=1312	y=864	w=16	h=16
-minecraft:block/jungle_sapling	x=1312	y=912	w=16	h=16
-minecraft:block/jungle_shelf	x=256	y=64	w=32	h=32
-minecraft:block/jungle_trapdoor	x=1312	y=960	w=16	h=16
-minecraft:block/kelp	x=1360	y=0	w=16	h=16
-minecraft:block/kelp_plant	x=1360	y=48	w=16	h=16
-minecraft:block/ladder	x=1360	y=96	w=16	h=16
-minecraft:block/lantern	x=1360	y=144	w=16	h=16
-minecraft:block/lapis_block	x=1360	y=192	w=16	h=16
-minecraft:block/lapis_ore	x=1360	y=240	w=16	h=16
-minecraft:block/large_amethyst_bud	x=1360	y=288	w=16	h=16
-minecraft:block/large_fern_bottom	x=1360	y=336	w=16	h=16
-minecraft:block/large_fern_top	x=1360	y=384	w=16	h=16
-minecraft:block/lava_flow	x=256	y=128	w=32	h=32
-minecraft:block/lava_still	x=1360	y=432	w=16	h=16
-minecraft:block/leaf_litter	x=1360	y=480	w=16	h=16
-minecraft:block/lectern_base	x=1360	y=528	w=16	h=16
-minecraft:block/lectern_front	x=1360	y=576	w=16	h=16
-minecraft:block/lectern_sides	x=1360	y=624	w=16	h=16
-minecraft:block/lectern_top	x=1360	y=672	w=16	h=16
-minecraft:block/lever	x=1360	y=720	w=16	h=16
-minecraft:block/light_blue_candle	x=1360	y=768	w=16	h=16
-minecraft:block/light_blue_candle_lit	x=1360	y=816	w=16	h=16
-minecraft:block/light_blue_concrete	x=1360	y=864	w=16	h=16
-minecraft:block/light_blue_concrete_powder	x=1360	y=912	w=16	h=16
-minecraft:block/light_blue_glazed_terracotta	x=1360	y=960	w=16	h=16
-minecraft:block/light_blue_shulker_box	x=1408	y=0	w=16	h=16
-minecraft:block/light_blue_stained_glass	x=1408	y=48	w=16	h=16
-minecraft:block/light_blue_stained_glass_pane_top	x=1408	y=96	w=16	h=16
-minecraft:block/light_blue_terracotta	x=1408	y=144	w=16	h=16
-minecraft:block/light_blue_wool	x=1408	y=192	w=16	h=16
-minecraft:block/light_gray_candle	x=1408	y=240	w=16	h=16
-minecraft:block/light_gray_candle_lit	x=1408	y=288	w=16	h=16
-minecraft:block/light_gray_concrete	x=1408	y=336	w=16	h=16
-minecraft:block/light_gray_concrete_powder	x=1408	y=384	w=16	h=16
-minecraft:block/light_gray_glazed_terracotta	x=1408	y=432	w=16	h=16
-minecraft:block/light_gray_shulker_box	x=1408	y=480	w=16	h=16
-minecraft:block/light_gray_stained_glass	x=1408	y=528	w=16	h=16
-minecraft:block/light_gray_stained_glass_pane_top	x=1408	y=576	w=16	h=16
-minecraft:block/light_gray_terracotta	x=1408	y=624	w=16	h=16
-minecraft:block/light_gray_wool	x=1408	y=672	w=16	h=16
-minecraft:block/lightning_rod	x=1408	y=720	w=16	h=16
-minecraft:block/lightning_rod_on	x=1408	y=768	w=16	h=16
-minecraft:block/lilac_bottom	x=1408	y=816	w=16	h=16
-minecraft:block/lilac_top	x=1408	y=864	w=16	h=16
-minecraft:block/lily_of_the_valley	x=1408	y=912	w=16	h=16
-minecraft:block/lily_pad	x=1408	y=960	w=16	h=16
-minecraft:block/lime_candle	x=1456	y=0	w=16	h=16
-minecraft:block/lime_candle_lit	x=1456	y=48	w=16	h=16
-minecraft:block/lime_concrete	x=1456	y=96	w=16	h=16
-minecraft:block/lime_concrete_powder	x=1456	y=144	w=16	h=16
-minecraft:block/lime_glazed_terracotta	x=1456	y=192	w=16	h=16
-minecraft:block/lime_shulker_box	x=1456	y=240	w=16	h=16
-minecraft:block/lime_stained_glass	x=1456	y=288	w=16	h=16
-minecraft:block/lime_stained_glass_pane_top	x=1456	y=336	w=16	h=16
-minecraft:block/lime_terracotta	x=1456	y=384	w=16	h=16
-minecraft:block/lime_wool	x=1456	y=432	w=16	h=16
-minecraft:block/lodestone_side	x=1456	y=480	w=16	h=16
-minecraft:block/lodestone_top	x=1456	y=528	w=16	h=16
-minecraft:block/loom_bottom	x=1456	y=576	w=16	h=16
-minecraft:block/loom_front	x=1456	y=624	w=16	h=16
-minecraft:block/loom_side	x=1456	y=672	w=16	h=16
-minecraft:block/loom_top	x=1456	y=720	w=16	h=16
-minecraft:block/magenta_candle	x=1456	y=768	w=16	h=16
-minecraft:block/magenta_candle_lit	x=1456	y=816	w=16	h=16
-minecraft:block/magenta_concrete	x=1456	y=864	w=16	h=16
-minecraft:block/magenta_concrete_powder	x=1456	y=912	w=16	h=16
-minecraft:block/magenta_glazed_terracotta	x=1456	y=960	w=16	h=16
-minecraft:block/magenta_shulker_box	x=1504	y=0	w=16	h=16
-minecraft:block/magenta_stained_glass	x=1504	y=48	w=16	h=16
-minecraft:block/magenta_stained_glass_pane_top	x=1504	y=96	w=16	h=16
-minecraft:block/magenta_terracotta	x=1504	y=144	w=16	h=16
-minecraft:block/magenta_wool	x=1504	y=192	w=16	h=16
-minecraft:block/magma	x=1504	y=240	w=16	h=16
-minecraft:block/mangrove_door_bottom	x=1504	y=288	w=16	h=16
-minecraft:block/mangrove_door_top	x=1504	y=336	w=16	h=16
-minecraft:block/mangrove_leaves	x=1504	y=384	w=16	h=16
-minecraft:block/mangrove_log	x=1504	y=432	w=16	h=16
-minecraft:block/mangrove_log_top	x=1504	y=480	w=16	h=16
-minecraft:block/mangrove_planks	x=1504	y=528	w=16	h=16
-minecraft:block/mangrove_propagule	x=1504	y=576	w=16	h=16
-minecraft:block/mangrove_propagule_hanging	x=1504	y=624	w=16	h=16
-minecraft:block/mangrove_roots_side	x=1504	y=672	w=16	h=16
-minecraft:block/mangrove_roots_top	x=1504	y=720	w=16	h=16
-minecraft:block/mangrove_shelf	x=256	y=192	w=32	h=32
-minecraft:block/mangrove_trapdoor	x=1504	y=768	w=16	h=16
-minecraft:block/medium_amethyst_bud	x=1504	y=816	w=16	h=16
-minecraft:block/melon_side	x=1504	y=864	w=16	h=16
-minecraft:block/melon_stem	x=1504	y=912	w=16	h=16
-minecraft:block/melon_top	x=1504	y=960	w=16	h=16
-minecraft:block/moss_block	x=1552	y=0	w=16	h=16
-minecraft:block/mossy_cobblestone	x=1552	y=48	w=16	h=16
-minecraft:block/mossy_stone_bricks	x=1552	y=96	w=16	h=16
-minecraft:block/mud	x=1552	y=144	w=16	h=16
-minecraft:block/mud_bricks	x=1552	y=192	w=16	h=16
-minecraft:block/muddy_mangrove_roots_side	x=1552	y=240	w=16	h=16
-minecraft:block/muddy_mangrove_roots_top	x=1552	y=288	w=16	h=16
-minecraft:block/mushroom_block_inside	x=1552	y=336	w=16	h=16
-minecraft:block/mushroom_stem	x=1552	y=384	w=16	h=16
-minecraft:block/mycelium_side	x=1552	y=432	w=16	h=16
-minecraft:block/mycelium_top	x=1552	y=480	w=16	h=16
-minecraft:block/nether_bricks	x=1552	y=528	w=16	h=16
-minecraft:block/nether_gold_ore	x=1552	y=576	w=16	h=16
-minecraft:block/nether_portal	x=1552	y=624	w=16	h=16
-minecraft:block/nether_quartz_ore	x=1552	y=672	w=16	h=16
-minecraft:block/nether_sprouts	x=1552	y=720	w=16	h=16
-minecraft:block/nether_wart_block	x=1552	y=768	w=16	h=16
-minecraft:block/nether_wart_stage0	x=1552	y=816	w=16	h=16
-minecraft:block/nether_wart_stage1	x=1552	y=864	w=16	h=16
-minecraft:block/nether_wart_stage2	x=1552	y=912	w=16	h=16
-minecraft:block/netherite_block	x=1552	y=960	w=16	h=16
-minecraft:block/netherrack	x=1600	y=0	w=16	h=16
-minecraft:block/note_block	x=1600	y=48	w=16	h=16
-minecraft:block/oak_door_bottom	x=1600	y=96	w=16	h=16
-minecraft:block/oak_door_top	x=1600	y=144	w=16	h=16
-minecraft:block/oak_leaves	x=1600	y=192	w=16	h=16
-minecraft:block/oak_log	x=1600	y=240	w=16	h=16
-minecraft:block/oak_log_top	x=1600	y=288	w=16	h=16
-minecraft:block/oak_planks	x=1600	y=336	w=16	h=16
-minecraft:block/oak_sapling	x=1600	y=384	w=16	h=16
-minecraft:block/oak_shelf	x=320	y=0	w=32	h=32
-minecraft:block/oak_trapdoor	x=1600	y=432	w=16	h=16
-minecraft:block/observer_back	x=1600	y=480	w=16	h=16
-minecraft:block/observer_back_on	x=1600	y=528	w=16	h=16
-minecraft:block/observer_front	x=1600	y=576	w=16	h=16
-minecraft:block/observer_side	x=1600	y=624	w=16	h=16
-minecraft:block/observer_top	x=1600	y=672	w=16	h=16
-minecraft:block/obsidian	x=1600	y=720	w=16	h=16
-minecraft:block/ochre_froglight_side	x=1600	y=768	w=16	h=16
-minecraft:block/ochre_froglight_top	x=1600	y=816	w=16	h=16
-minecraft:block/open_eyeblossom	x=1600	y=864	w=16	h=16
-minecraft:block/open_eyeblossom_emissive	x=1600	y=912	w=16	h=16
-minecraft:block/orange_candle	x=1600	y=960	w=16	h=16
-minecraft:block/orange_candle_lit	x=1648	y=0	w=16	h=16
-minecraft:block/orange_concrete	x=1648	y=48	w=16	h=16
-minecraft:block/orange_concrete_powder	x=1648	y=96	w=16	h=16
-minecraft:block/orange_glazed_terracotta	x=1648	y=144	w=16	h=16
-minecraft:block/orange_shulker_box	x=1648	y=192	w=16	h=16
-minecraft:block/orange_stained_glass	x=1648	y=240	w=16	h=16
-minecraft:block/orange_stained_glass_pane_top	x=1648	y=288	w=16	h=16
-minecraft:block/orange_terracotta	x=1648	y=336	w=16	h=16
-minecraft:block/orange_tulip	x=1648	y=384	w=16	h=16
-minecraft:block/orange_wool	x=1648	y=432	w=16	h=16
-minecraft:block/oxeye_daisy	x=1648	y=480	w=16	h=16
-minecraft:block/oxidized_chiseled_copper	x=1648	y=528	w=16	h=16
-minecraft:block/oxidized_copper	x=1648	y=576	w=16	h=16
-minecraft:block/oxidized_copper_bars	x=1648	y=624	w=16	h=16
-minecraft:block/oxidized_copper_bulb	x=1648	y=672	w=16	h=16
-minecraft:block/oxidized_copper_bulb_lit	x=1648	y=720	w=16	h=16
-minecraft:block/oxidized_copper_bulb_lit_powered	x=1648	y=768	w=16	h=16
-minecraft:block/oxidized_copper_bulb_powered	x=1648	y=816	w=16	h=16
-minecraft:block/oxidized_copper_chain	x=1648	y=864	w=16	h=16
-minecraft:block/oxidized_copper_door_bottom	x=1648	y=912	w=16	h=16
-minecraft:block/oxidized_copper_door_top	x=1648	y=960	w=16	h=16
-minecraft:block/oxidized_copper_grate	x=1696	y=0	w=16	h=16
-minecraft:block/oxidized_copper_lantern	x=1696	y=48	w=16	h=16
-minecraft:block/oxidized_copper_trapdoor	x=1696	y=96	w=16	h=16
-minecraft:block/oxidized_cut_copper	x=1696	y=144	w=16	h=16
-minecraft:block/oxidized_lightning_rod	x=1696	y=192	w=16	h=16
-minecraft:block/packed_ice	x=1696	y=240	w=16	h=16
-minecraft:block/packed_mud	x=1696	y=288	w=16	h=16
-minecraft:block/pale_hanging_moss	x=1696	y=336	w=16	h=16
-minecraft:block/pale_hanging_moss_tip	x=1696	y=384	w=16	h=16
-minecraft:block/pale_moss_block	x=1696	y=432	w=16	h=16
-minecraft:block/pale_moss_carpet	x=1696	y=480	w=16	h=16
-minecraft:block/pale_moss_carpet_side_small	x=1696	y=528	w=16	h=16
-minecraft:block/pale_moss_carpet_side_tall	x=1696	y=576	w=16	h=16
-minecraft:block/pale_oak_door_bottom	x=1696	y=624	w=16	h=16
-minecraft:block/pale_oak_door_top	x=1696	y=672	w=16	h=16
-minecraft:block/pale_oak_leaves	x=1696	y=720	w=16	h=16
-minecraft:block/pale_oak_log	x=1696	y=768	w=16	h=16
-minecraft:block/pale_oak_log_top	x=1696	y=816	w=16	h=16
-minecraft:block/pale_oak_planks	x=1696	y=864	w=16	h=16
-minecraft:block/pale_oak_sapling	x=1696	y=912	w=16	h=16
-minecraft:block/pale_oak_shelf	x=320	y=64	w=32	h=32
-minecraft:block/pale_oak_trapdoor	x=1696	y=960	w=16	h=16
-minecraft:block/pearlescent_froglight_side	x=1744	y=0	w=16	h=16
-minecraft:block/pearlescent_froglight_top	x=1744	y=48	w=16	h=16
-minecraft:block/peony_bottom	x=1744	y=96	w=16	h=16
-minecraft:block/peony_top	x=1744	y=144	w=16	h=16
-minecraft:block/pink_candle	x=1744	y=192	w=16	h=16
-minecraft:block/pink_candle_lit	x=1744	y=240	w=16	h=16
-minecraft:block/pink_concrete	x=1744	y=288	w=16	h=16
-minecraft:block/pink_concrete_powder	x=1744	y=336	w=16	h=16
-minecraft:block/pink_glazed_terracotta	x=1744	y=384	w=16	h=16
-minecraft:block/pink_petals	x=1744	y=432	w=16	h=16
-minecraft:block/pink_petals_stem	x=1744	y=480	w=16	h=16
-minecraft:block/pink_shulker_box	x=1744	y=528	w=16	h=16
-minecraft:block/pink_stained_glass	x=1744	y=576	w=16	h=16
-minecraft:block/pink_stained_glass_pane_top	x=1744	y=624	w=16	h=16
-minecraft:block/pink_terracotta	x=1744	y=672	w=16	h=16
-minecraft:block/pink_tulip	x=1744	y=720	w=16	h=16
-minecraft:block/pink_wool	x=1744	y=768	w=16	h=16
-minecraft:block/piston_bottom	x=1744	y=816	w=16	h=16
-minecraft:block/piston_inner	x=1744	y=864	w=16	h=16
-minecraft:block/piston_side	x=1744	y=912	w=16	h=16
-minecraft:block/piston_top	x=1744	y=960	w=16	h=16
-minecraft:block/piston_top_sticky	x=1792	y=0	w=16	h=16
-minecraft:block/pitcher_crop_bottom	x=1792	y=48	w=16	h=16
-minecraft:block/pitcher_crop_bottom_stage_1	x=1792	y=96	w=16	h=16
-minecraft:block/pitcher_crop_bottom_stage_2	x=1792	y=144	w=16	h=16
-minecraft:block/pitcher_crop_bottom_stage_3	x=1792	y=192	w=16	h=16
-minecraft:block/pitcher_crop_bottom_stage_4	x=1792	y=240	w=16	h=16
-minecraft:block/pitcher_crop_side	x=1792	y=288	w=16	h=16
-minecraft:block/pitcher_crop_top	x=1792	y=336	w=16	h=16
-minecraft:block/pitcher_crop_top_stage_3	x=1792	y=384	w=16	h=16
-minecraft:block/pitcher_crop_top_stage_4	x=1792	y=432	w=16	h=16
-minecraft:block/podzol_side	x=1792	y=480	w=16	h=16
-minecraft:block/podzol_top	x=1792	y=528	w=16	h=16
-minecraft:block/pointed_dripstone_down_base	x=1792	y=576	w=16	h=16
-minecraft:block/pointed_dripstone_down_frustum	x=1792	y=624	w=16	h=16
-minecraft:block/pointed_dripstone_down_middle	x=1792	y=672	w=16	h=16
-minecraft:block/pointed_dripstone_down_tip	x=1792	y=720	w=16	h=16
-minecraft:block/pointed_dripstone_down_tip_merge	x=1792	y=768	w=16	h=16
-minecraft:block/pointed_dripstone_up_base	x=1792	y=816	w=16	h=16
-minecraft:block/pointed_dripstone_up_frustum	x=1792	y=864	w=16	h=16
-minecraft:block/pointed_dripstone_up_middle	x=1792	y=912	w=16	h=16
-minecraft:block/pointed_dripstone_up_tip	x=1792	y=960	w=16	h=16
-minecraft:block/pointed_dripstone_up_tip_merge	x=1840	y=0	w=16	h=16
-minecraft:block/polished_andesite	x=1840	y=48	w=16	h=16
-minecraft:block/polished_basalt_side	x=1840	y=96	w=16	h=16
-minecraft:block/polished_basalt_top	x=1840	y=144	w=16	h=16
-minecraft:block/polished_blackstone	x=1840	y=192	w=16	h=16
-minecraft:block/polished_blackstone_bricks	x=1840	y=240	w=16	h=16
-minecraft:block/polished_deepslate	x=1840	y=288	w=16	h=16
-minecraft:block/polished_diorite	x=1840	y=336	w=16	h=16
-minecraft:block/polished_granite	x=1840	y=384	w=16	h=16
-minecraft:block/polished_tuff	x=1840	y=432	w=16	h=16
-minecraft:block/poppy	x=1840	y=480	w=16	h=16
-minecraft:block/potatoes_stage0	x=1840	y=528	w=16	h=16
-minecraft:block/potatoes_stage1	x=1840	y=576	w=16	h=16
-minecraft:block/potatoes_stage2	x=1840	y=624	w=16	h=16
-minecraft:block/potatoes_stage3	x=1840	y=672	w=16	h=16
-minecraft:block/potted_azalea_bush_plant	x=1840	y=720	w=16	h=16
-minecraft:block/potted_azalea_bush_side	x=1840	y=768	w=16	h=16
-minecraft:block/potted_azalea_bush_top	x=1840	y=816	w=16	h=16
-minecraft:block/potted_flowering_azalea_bush_plant	x=1840	y=864	w=16	h=16
-minecraft:block/potted_flowering_azalea_bush_side	x=1840	y=912	w=16	h=16
-minecraft:block/potted_flowering_azalea_bush_top	x=1840	y=960	w=16	h=16
-minecraft:block/powder_snow	x=1888	y=0	w=16	h=16
-minecraft:block/powered_rail	x=1888	y=48	w=16	h=16
-minecraft:block/powered_rail_on	x=1888	y=96	w=16	h=16
-minecraft:block/prismarine	x=1888	y=144	w=16	h=16
-minecraft:block/prismarine_bricks	x=1888	y=192	w=16	h=16
-minecraft:block/pumpkin_side	x=1888	y=240	w=16	h=16
-minecraft:block/pumpkin_stem	x=1888	y=288	w=16	h=16
-minecraft:block/pumpkin_top	x=1888	y=336	w=16	h=16
-minecraft:block/purple_candle	x=1888	y=384	w=16	h=16
-minecraft:block/purple_candle_lit	x=1888	y=432	w=16	h=16
-minecraft:block/purple_concrete	x=1888	y=480	w=16	h=16
-minecraft:block/purple_concrete_powder	x=1888	y=528	w=16	h=16
-minecraft:block/purple_glazed_terracotta	x=1888	y=576	w=16	h=16
-minecraft:block/purple_shulker_box	x=1888	y=624	w=16	h=16
-minecraft:block/purple_stained_glass	x=1888	y=672	w=16	h=16
-minecraft:block/purple_stained_glass_pane_top	x=1888	y=720	w=16	h=16
-minecraft:block/purple_terracotta	x=1888	y=768	w=16	h=16
-minecraft:block/purple_wool	x=1888	y=816	w=16	h=16
-minecraft:block/purpur_block	x=1888	y=864	w=16	h=16
-minecraft:block/purpur_pillar	x=1888	y=912	w=16	h=16
-minecraft:block/purpur_pillar_top	x=1888	y=960	w=16	h=16
-minecraft:block/quartz_block_bottom	x=1936	y=0	w=16	h=16
-minecraft:block/quartz_block_side	x=1936	y=48	w=16	h=16
-minecraft:block/quartz_block_top	x=1936	y=96	w=16	h=16
-minecraft:block/quartz_bricks	x=1936	y=144	w=16	h=16
-minecraft:block/quartz_pillar	x=1936	y=192	w=16	h=16
-minecraft:block/quartz_pillar_top	x=1936	y=240	w=16	h=16
-minecraft:block/rail	x=1936	y=288	w=16	h=16
-minecraft:block/rail_corner	x=1936	y=336	w=16	h=16
-minecraft:block/raw_copper_block	x=1936	y=384	w=16	h=16
-minecraft:block/raw_gold_block	x=1936	y=432	w=16	h=16
-minecraft:block/raw_iron_block	x=1936	y=480	w=16	h=16
-minecraft:block/red_candle	x=1936	y=528	w=16	h=16
-minecraft:block/red_candle_lit	x=1936	y=576	w=16	h=16
-minecraft:block/red_concrete	x=1936	y=624	w=16	h=16
-minecraft:block/red_concrete_powder	x=1936	y=672	w=16	h=16
-minecraft:block/red_glazed_terracotta	x=1936	y=720	w=16	h=16
-minecraft:block/red_mushroom	x=1936	y=768	w=16	h=16
-minecraft:block/red_mushroom_block	x=1936	y=816	w=16	h=16
-minecraft:block/red_nether_bricks	x=1936	y=864	w=16	h=16
-minecraft:block/red_sand	x=1936	y=912	w=16	h=16
-minecraft:block/red_sandstone	x=1936	y=960	w=16	h=16
-minecraft:block/red_sandstone_bottom	x=1984	y=0	w=16	h=16
-minecraft:block/red_sandstone_top	x=1984	y=48	w=16	h=16
-minecraft:block/red_shulker_box	x=1984	y=96	w=16	h=16
-minecraft:block/red_stained_glass	x=1984	y=144	w=16	h=16
-minecraft:block/red_stained_glass_pane_top	x=1984	y=192	w=16	h=16
-minecraft:block/red_terracotta	x=1984	y=240	w=16	h=16
-minecraft:block/red_tulip	x=1984	y=288	w=16	h=16
-minecraft:block/red_wool	x=1984	y=336	w=16	h=16
-minecraft:block/redstone_block	x=1984	y=384	w=16	h=16
-minecraft:block/redstone_dust_dot	x=1984	y=432	w=16	h=16
-minecraft:block/redstone_dust_line0	x=1984	y=480	w=16	h=16
-minecraft:block/redstone_dust_line1	x=1984	y=528	w=16	h=16
-minecraft:block/redstone_dust_overlay	x=1984	y=576	w=16	h=16
-minecraft:block/redstone_lamp	x=1984	y=624	w=16	h=16
-minecraft:block/redstone_lamp_on	x=1984	y=672	w=16	h=16
-minecraft:block/redstone_ore	x=1984	y=720	w=16	h=16
-minecraft:block/redstone_torch	x=1984	y=768	w=16	h=16
-minecraft:block/redstone_torch_off	x=1984	y=816	w=16	h=16
-minecraft:block/reinforced_deepslate_bottom	x=1984	y=864	w=16	h=16
-minecraft:block/reinforced_deepslate_side	x=1984	y=912	w=16	h=16
-minecraft:block/reinforced_deepslate_top	x=1984	y=960	w=16	h=16
-minecraft:block/repeater	x=0	y=1024	w=16	h=16
-minecraft:block/repeater_on	x=48	y=1024	w=16	h=16
-minecraft:block/repeating_command_block_back	x=96	y=1024	w=16	h=16
-minecraft:block/repeating_command_block_conditional	x=144	y=1024	w=16	h=16
-minecraft:block/repeating_command_block_front	x=192	y=1024	w=16	h=16
-minecraft:block/repeating_command_block_side	x=240	y=1024	w=16	h=16
-minecraft:block/resin_block	x=288	y=1024	w=16	h=16
-minecraft:block/resin_bricks	x=336	y=1024	w=16	h=16
-minecraft:block/resin_clump	x=384	y=1024	w=16	h=16
-minecraft:block/respawn_anchor_bottom	x=432	y=1024	w=16	h=16
-minecraft:block/respawn_anchor_side0	x=480	y=1024	w=16	h=16
-minecraft:block/respawn_anchor_side1	x=528	y=1024	w=16	h=16
-minecraft:block/respawn_anchor_side2	x=576	y=1024	w=16	h=16
-minecraft:block/respawn_anchor_side3	x=624	y=1024	w=16	h=16
-minecraft:block/respawn_anchor_side4	x=672	y=1024	w=16	h=16
-minecraft:block/respawn_anchor_top	x=720	y=1024	w=16	h=16
-minecraft:block/respawn_anchor_top_off	x=768	y=1024	w=16	h=16
-minecraft:block/rooted_dirt	x=816	y=1024	w=16	h=16
-minecraft:block/rose_bush_bottom	x=864	y=1024	w=16	h=16
-minecraft:block/rose_bush_top	x=912	y=1024	w=16	h=16
-minecraft:block/sand	x=960	y=1024	w=16	h=16
-minecraft:block/sandstone	x=1008	y=1024	w=16	h=16
-minecraft:block/sandstone_bottom	x=1056	y=1024	w=16	h=16
-minecraft:block/sandstone_top	x=1104	y=1024	w=16	h=16
-minecraft:block/scaffolding_bottom	x=1152	y=1024	w=16	h=16
-minecraft:block/scaffolding_side	x=1200	y=1024	w=16	h=16
-minecraft:block/scaffolding_top	x=1248	y=1024	w=16	h=16
-minecraft:block/sculk	x=1296	y=1024	w=16	h=16
-minecraft:block/sculk_catalyst_bottom	x=1344	y=1024	w=16	h=16
-minecraft:block/sculk_catalyst_side	x=1392	y=1024	w=16	h=16
-minecraft:block/sculk_catalyst_side_bloom	x=1440	y=1024	w=16	h=16
-minecraft:block/sculk_catalyst_top	x=1488	y=1024	w=16	h=16
-minecraft:block/sculk_catalyst_top_bloom	x=1536	y=1024	w=16	h=16
-minecraft:block/sculk_sensor_bottom	x=1584	y=1024	w=16	h=16
-minecraft:block/sculk_sensor_side	x=1632	y=1024	w=16	h=16
-minecraft:block/sculk_sensor_tendril_active	x=1680	y=1024	w=16	h=16
-minecraft:block/sculk_sensor_tendril_inactive	x=1728	y=1024	w=16	h=16
-minecraft:block/sculk_sensor_top	x=1776	y=1024	w=16	h=16
-minecraft:block/sculk_shrieker_bottom	x=1824	y=1024	w=16	h=16
-minecraft:block/sculk_shrieker_can_summon_inner_top	x=1872	y=1024	w=16	h=16
-minecraft:block/sculk_shrieker_inner_top	x=1920	y=1024	w=16	h=16
-minecraft:block/sculk_shrieker_side	x=1968	y=1024	w=16	h=16
-minecraft:block/sculk_shrieker_top	x=0	y=1072	w=16	h=16
-minecraft:block/sculk_vein	x=48	y=1072	w=16	h=16
-minecraft:block/sea_lantern	x=96	y=1072	w=16	h=16
-minecraft:block/sea_pickle	x=144	y=1072	w=16	h=16
-minecraft:block/seagrass	x=192	y=1072	w=16	h=16
-minecraft:block/short_dry_grass	x=240	y=1072	w=16	h=16
-minecraft:block/short_grass	x=288	y=1072	w=16	h=16
-minecraft:block/shroomlight	x=336	y=1072	w=16	h=16
-minecraft:block/shulker_box	x=384	y=1072	w=16	h=16
-minecraft:block/slime_block	x=432	y=1072	w=16	h=16
-minecraft:block/small_amethyst_bud	x=480	y=1072	w=16	h=16
-minecraft:block/small_dripleaf_side	x=528	y=1072	w=16	h=16
-minecraft:block/small_dripleaf_stem_bottom	x=576	y=1072	w=16	h=16
-minecraft:block/small_dripleaf_stem_top	x=624	y=1072	w=16	h=16
-minecraft:block/small_dripleaf_top	x=672	y=1072	w=16	h=16
-minecraft:block/smithing_table_bottom	x=720	y=1072	w=16	h=16
-minecraft:block/smithing_table_front	x=768	y=1072	w=16	h=16
-minecraft:block/smithing_table_side	x=816	y=1072	w=16	h=16
-minecraft:block/smithing_table_top	x=864	y=1072	w=16	h=16
-minecraft:block/smoker_bottom	x=912	y=1072	w=16	h=16
-minecraft:block/smoker_front	x=960	y=1072	w=16	h=16
-minecraft:block/smoker_front_on	x=1008	y=1072	w=16	h=16
-minecraft:block/smoker_side	x=1056	y=1072	w=16	h=16
-minecraft:block/smoker_top	x=1104	y=1072	w=16	h=16
-minecraft:block/smooth_basalt	x=1152	y=1072	w=16	h=16
-minecraft:block/smooth_stone	x=1200	y=1072	w=16	h=16
-minecraft:block/smooth_stone_slab_side	x=1248	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_not_cracked_bottom	x=1296	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_not_cracked_east	x=1344	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_not_cracked_north	x=1392	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_not_cracked_south	x=1440	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_not_cracked_top	x=1488	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_not_cracked_west	x=1536	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_slightly_cracked_bottom	x=1584	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_slightly_cracked_east	x=1632	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_slightly_cracked_north	x=1680	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_slightly_cracked_south	x=1728	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_slightly_cracked_top	x=1776	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_slightly_cracked_west	x=1824	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_very_cracked_bottom	x=1872	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_very_cracked_east	x=1920	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_very_cracked_north	x=1968	y=1072	w=16	h=16
-minecraft:block/sniffer_egg_very_cracked_south	x=0	y=1120	w=16	h=16
-minecraft:block/sniffer_egg_very_cracked_top	x=48	y=1120	w=16	h=16
-minecraft:block/sniffer_egg_very_cracked_west	x=96	y=1120	w=16	h=16
-minecraft:block/snow	x=144	y=1120	w=16	h=16
-minecraft:block/soul_campfire_fire	x=192	y=1120	w=16	h=16
-minecraft:block/soul_campfire_log_lit	x=240	y=1120	w=16	h=16
-minecraft:block/soul_fire_0	x=288	y=1120	w=16	h=16
-minecraft:block/soul_fire_1	x=336	y=1120	w=16	h=16
-minecraft:block/soul_lantern	x=384	y=1120	w=16	h=16
-minecraft:block/soul_sand	x=432	y=1120	w=16	h=16
-minecraft:block/soul_soil	x=480	y=1120	w=16	h=16
-minecraft:block/soul_torch	x=528	y=1120	w=16	h=16
-minecraft:block/spawner	x=576	y=1120	w=16	h=16
-minecraft:block/sponge	x=624	y=1120	w=16	h=16
-minecraft:block/spore_blossom	x=672	y=1120	w=16	h=16
-minecraft:block/spore_blossom_base	x=720	y=1120	w=16	h=16
-minecraft:block/spruce_door_bottom	x=768	y=1120	w=16	h=16
-minecraft:block/spruce_door_top	x=816	y=1120	w=16	h=16
-minecraft:block/spruce_leaves	x=864	y=1120	w=16	h=16
-minecraft:block/spruce_log	x=912	y=1120	w=16	h=16
-minecraft:block/spruce_log_top	x=960	y=1120	w=16	h=16
-minecraft:block/spruce_planks	x=1008	y=1120	w=16	h=16
-minecraft:block/spruce_sapling	x=1056	y=1120	w=16	h=16
-minecraft:block/spruce_shelf	x=320	y=128	w=32	h=32
-minecraft:block/spruce_trapdoor	x=1104	y=1120	w=16	h=16
-minecraft:block/stone	x=1152	y=1120	w=16	h=16
-minecraft:block/stone_bricks	x=1200	y=1120	w=16	h=16
-minecraft:block/stonecutter_bottom	x=1248	y=1120	w=16	h=16
-minecraft:block/stonecutter_saw	x=1296	y=1120	w=16	h=16
-minecraft:block/stonecutter_side	x=1344	y=1120	w=16	h=16
-minecraft:block/stonecutter_top	x=1392	y=1120	w=16	h=16
-minecraft:block/stripped_acacia_log	x=1440	y=1120	w=16	h=16
-minecraft:block/stripped_acacia_log_top	x=1488	y=1120	w=16	h=16
-minecraft:block/stripped_bamboo_block	x=1536	y=1120	w=16	h=16
-minecraft:block/stripped_bamboo_block_top	x=1584	y=1120	w=16	h=16
-minecraft:block/stripped_birch_log	x=1632	y=1120	w=16	h=16
-minecraft:block/stripped_birch_log_top	x=1680	y=1120	w=16	h=16
-minecraft:block/stripped_cherry_log	x=1728	y=1120	w=16	h=16
-minecraft:block/stripped_cherry_log_top	x=1776	y=1120	w=16	h=16
-minecraft:block/stripped_crimson_stem	x=1824	y=1120	w=16	h=16
-minecraft:block/stripped_crimson_stem_top	x=1872	y=1120	w=16	h=16
-minecraft:block/stripped_dark_oak_log	x=1920	y=1120	w=16	h=16
-minecraft:block/stripped_dark_oak_log_top	x=1968	y=1120	w=16	h=16
-minecraft:block/stripped_jungle_log	x=0	y=1168	w=16	h=16
-minecraft:block/stripped_jungle_log_top	x=48	y=1168	w=16	h=16
-minecraft:block/stripped_mangrove_log	x=96	y=1168	w=16	h=16
-minecraft:block/stripped_mangrove_log_top	x=144	y=1168	w=16	h=16
-minecraft:block/stripped_oak_log	x=192	y=1168	w=16	h=16
-minecraft:block/stripped_oak_log_top	x=240	y=1168	w=16	h=16
-minecraft:block/stripped_pale_oak_log	x=288	y=1168	w=16	h=16
-minecraft:block/stripped_pale_oak_log_top	x=336	y=1168	w=16	h=16
-minecraft:block/stripped_spruce_log	x=384	y=1168	w=16	h=16
-minecraft:block/stripped_spruce_log_top	x=432	y=1168	w=16	h=16
-minecraft:block/stripped_warped_stem	x=480	y=1168	w=16	h=16
-minecraft:block/stripped_warped_stem_top	x=528	y=1168	w=16	h=16
-minecraft:block/structure_block	x=576	y=1168	w=16	h=16
-minecraft:block/structure_block_corner	x=624	y=1168	w=16	h=16
-minecraft:block/structure_block_data	x=672	y=1168	w=16	h=16
-minecraft:block/structure_block_load	x=720	y=1168	w=16	h=16
-minecraft:block/structure_block_save	x=768	y=1168	w=16	h=16
-minecraft:block/sugar_cane	x=816	y=1168	w=16	h=16
-minecraft:block/sunflower_back	x=864	y=1168	w=16	h=16
-minecraft:block/sunflower_bottom	x=912	y=1168	w=16	h=16
-minecraft:block/sunflower_front	x=960	y=1168	w=16	h=16
-minecraft:block/sunflower_top	x=1008	y=1168	w=16	h=16
-minecraft:block/suspicious_gravel_0	x=1056	y=1168	w=16	h=16
-minecraft:block/suspicious_gravel_1	x=1104	y=1168	w=16	h=16
-minecraft:block/suspicious_gravel_2	x=1152	y=1168	w=16	h=16
-minecraft:block/suspicious_gravel_3	x=1200	y=1168	w=16	h=16
-minecraft:block/suspicious_sand_0	x=1248	y=1168	w=16	h=16
-minecraft:block/suspicious_sand_1	x=1296	y=1168	w=16	h=16
-minecraft:block/suspicious_sand_2	x=1344	y=1168	w=16	h=16
-minecraft:block/suspicious_sand_3	x=1392	y=1168	w=16	h=16
-minecraft:block/sweet_berry_bush_stage0	x=1440	y=1168	w=16	h=16
-minecraft:block/sweet_berry_bush_stage1	x=1488	y=1168	w=16	h=16
-minecraft:block/sweet_berry_bush_stage2	x=1536	y=1168	w=16	h=16
-minecraft:block/sweet_berry_bush_stage3	x=1584	y=1168	w=16	h=16
-minecraft:block/tall_dry_grass	x=1632	y=1168	w=16	h=16
-minecraft:block/tall_grass_bottom	x=1680	y=1168	w=16	h=16
-minecraft:block/tall_grass_top	x=1728	y=1168	w=16	h=16
-minecraft:block/tall_seagrass_bottom	x=1776	y=1168	w=16	h=16
-minecraft:block/tall_seagrass_top	x=1824	y=1168	w=16	h=16
-minecraft:block/target_side	x=1872	y=1168	w=16	h=16
-minecraft:block/target_top	x=1920	y=1168	w=16	h=16
-minecraft:block/terracotta	x=1968	y=1168	w=16	h=16
-minecraft:block/test_block_accept	x=0	y=1216	w=16	h=16
-minecraft:block/test_block_fail	x=48	y=1216	w=16	h=16
-minecraft:block/test_block_log	x=96	y=1216	w=16	h=16
-minecraft:block/test_block_start	x=144	y=1216	w=16	h=16
-minecraft:block/test_instance_block	x=192	y=1216	w=16	h=16
-minecraft:block/tinted_glass	x=240	y=1216	w=16	h=16
-minecraft:block/tnt_bottom	x=288	y=1216	w=16	h=16
-minecraft:block/tnt_side	x=336	y=1216	w=16	h=16
-minecraft:block/tnt_top	x=384	y=1216	w=16	h=16
-minecraft:block/torch	x=432	y=1216	w=16	h=16
-minecraft:block/torchflower	x=480	y=1216	w=16	h=16
-minecraft:block/torchflower_crop_stage0	x=528	y=1216	w=16	h=16
-minecraft:block/torchflower_crop_stage1	x=576	y=1216	w=16	h=16
-minecraft:block/trial_spawner_bottom	x=624	y=1216	w=16	h=16
-minecraft:block/trial_spawner_side_active	x=672	y=1216	w=16	h=16
-minecraft:block/trial_spawner_side_active_ominous	x=720	y=1216	w=16	h=16
-minecraft:block/trial_spawner_side_inactive	x=768	y=1216	w=16	h=16
-minecraft:block/trial_spawner_side_inactive_ominous	x=816	y=1216	w=16	h=16
-minecraft:block/trial_spawner_top_active	x=864	y=1216	w=16	h=16
-minecraft:block/trial_spawner_top_active_ominous	x=912	y=1216	w=16	h=16
-minecraft:block/trial_spawner_top_ejecting_reward	x=960	y=1216	w=16	h=16
-minecraft:block/trial_spawner_top_ejecting_reward_ominous	x=1008	y=1216	w=16	h=16
-minecraft:block/trial_spawner_top_inactive	x=1056	y=1216	w=16	h=16
-minecraft:block/trial_spawner_top_inactive_ominous	x=1104	y=1216	w=16	h=16
-minecraft:block/tripwire	x=1152	y=1216	w=16	h=16
-minecraft:block/tripwire_hook	x=1200	y=1216	w=16	h=16
-minecraft:block/tube_coral	x=1248	y=1216	w=16	h=16
-minecraft:block/tube_coral_block	x=1296	y=1216	w=16	h=16
-minecraft:block/tube_coral_fan	x=1344	y=1216	w=16	h=16
-minecraft:block/tuff	x=1392	y=1216	w=16	h=16
-minecraft:block/tuff_bricks	x=1440	y=1216	w=16	h=16
-minecraft:block/turtle_egg	x=1488	y=1216	w=16	h=16
-minecraft:block/turtle_egg_slightly_cracked	x=1536	y=1216	w=16	h=16
-minecraft:block/turtle_egg_very_cracked	x=1584	y=1216	w=16	h=16
-minecraft:block/twisting_vines	x=1632	y=1216	w=16	h=16
-minecraft:block/twisting_vines_plant	x=1680	y=1216	w=16	h=16
-minecraft:block/vault_bottom	x=1728	y=1216	w=16	h=16
-minecraft:block/vault_bottom_ominous	x=1776	y=1216	w=16	h=16
-minecraft:block/vault_front_ejecting	x=1824	y=1216	w=16	h=16
-minecraft:block/vault_front_ejecting_ominous	x=1872	y=1216	w=16	h=16
-minecraft:block/vault_front_off	x=1920	y=1216	w=16	h=16
-minecraft:block/vault_front_off_ominous	x=1968	y=1216	w=16	h=16
-minecraft:block/vault_front_on	x=0	y=1264	w=16	h=16
-minecraft:block/vault_front_on_ominous	x=48	y=1264	w=16	h=16
-minecraft:block/vault_side_off	x=96	y=1264	w=16	h=16
-minecraft:block/vault_side_off_ominous	x=144	y=1264	w=16	h=16
-minecraft:block/vault_side_on	x=192	y=1264	w=16	h=16
-minecraft:block/vault_side_on_ominous	x=240	y=1264	w=16	h=16
-minecraft:block/vault_top	x=288	y=1264	w=16	h=16
-minecraft:block/vault_top_ejecting	x=336	y=1264	w=16	h=16
-minecraft:block/vault_top_ejecting_ominous	x=384	y=1264	w=16	h=16
-minecraft:block/vault_top_ominous	x=432	y=1264	w=16	h=16
-minecraft:block/verdant_froglight_side	x=480	y=1264	w=16	h=16
-minecraft:block/verdant_froglight_top	x=528	y=1264	w=16	h=16
-minecraft:block/vine	x=576	y=1264	w=16	h=16
-minecraft:block/warped_door_bottom	x=624	y=1264	w=16	h=16
-minecraft:block/warped_door_top	x=672	y=1264	w=16	h=16
-minecraft:block/warped_fungus	x=720	y=1264	w=16	h=16
-minecraft:block/warped_nylium	x=768	y=1264	w=16	h=16
-minecraft:block/warped_nylium_side	x=816	y=1264	w=16	h=16
-minecraft:block/warped_planks	x=864	y=1264	w=16	h=16
-minecraft:block/warped_roots	x=912	y=1264	w=16	h=16
-minecraft:block/warped_roots_pot	x=960	y=1264	w=16	h=16
-minecraft:block/warped_shelf	x=320	y=192	w=32	h=32
-minecraft:block/warped_stem	x=1008	y=1264	w=16	h=16
-minecraft:block/warped_stem_top	x=1056	y=1264	w=16	h=16
-minecraft:block/warped_trapdoor	x=1104	y=1264	w=16	h=16
-minecraft:block/warped_wart_block	x=1152	y=1264	w=16	h=16
-minecraft:block/water_flow	x=384	y=0	w=32	h=32
-minecraft:block/water_overlay	x=1200	y=1264	w=16	h=16
-minecraft:block/water_still	x=1248	y=1264	w=16	h=16
-minecraft:block/weathered_chiseled_copper	x=1296	y=1264	w=16	h=16
-minecraft:block/weathered_copper	x=1344	y=1264	w=16	h=16
-minecraft:block/weathered_copper_bars	x=1392	y=1264	w=16	h=16
-minecraft:block/weathered_copper_bulb	x=1440	y=1264	w=16	h=16
-minecraft:block/weathered_copper_bulb_lit	x=1488	y=1264	w=16	h=16
-minecraft:block/weathered_copper_bulb_lit_powered	x=1536	y=1264	w=16	h=16
-minecraft:block/weathered_copper_bulb_powered	x=1584	y=1264	w=16	h=16
-minecraft:block/weathered_copper_chain	x=1632	y=1264	w=16	h=16
-minecraft:block/weathered_copper_door_bottom	x=1680	y=1264	w=16	h=16
-minecraft:block/weathered_copper_door_top	x=1728	y=1264	w=16	h=16
-minecraft:block/weathered_copper_grate	x=1776	y=1264	w=16	h=16
-minecraft:block/weathered_copper_lantern	x=1824	y=1264	w=16	h=16
-minecraft:block/weathered_copper_trapdoor	x=1872	y=1264	w=16	h=16
-minecraft:block/weathered_cut_copper	x=1920	y=1264	w=16	h=16
-minecraft:block/weathered_lightning_rod	x=1968	y=1264	w=16	h=16
-minecraft:block/weeping_vines	x=0	y=1312	w=16	h=16
-minecraft:block/weeping_vines_plant	x=48	y=1312	w=16	h=16
-minecraft:block/wet_sponge	x=96	y=1312	w=16	h=16
-minecraft:block/wheat_stage0	x=144	y=1312	w=16	h=16
-minecraft:block/wheat_stage1	x=192	y=1312	w=16	h=16
-minecraft:block/wheat_stage2	x=240	y=1312	w=16	h=16
-minecraft:block/wheat_stage3	x=288	y=1312	w=16	h=16
-minecraft:block/wheat_stage4	x=336	y=1312	w=16	h=16
-minecraft:block/wheat_stage5	x=384	y=1312	w=16	h=16
-minecraft:block/wheat_stage6	x=432	y=1312	w=16	h=16
-minecraft:block/wheat_stage7	x=480	y=1312	w=16	h=16
-minecraft:block/white_candle	x=528	y=1312	w=16	h=16
-minecraft:block/white_candle_lit	x=576	y=1312	w=16	h=16
-minecraft:block/white_concrete	x=624	y=1312	w=16	h=16
-minecraft:block/white_concrete_powder	x=672	y=1312	w=16	h=16
-minecraft:block/white_glazed_terracotta	x=720	y=1312	w=16	h=16
-minecraft:block/white_shulker_box	x=768	y=1312	w=16	h=16
-minecraft:block/white_stained_glass	x=816	y=1312	w=16	h=16
-minecraft:block/white_stained_glass_pane_top	x=864	y=1312	w=16	h=16
-minecraft:block/white_terracotta	x=912	y=1312	w=16	h=16
-minecraft:block/white_tulip	x=960	y=1312	w=16	h=16
-minecraft:block/white_wool	x=1008	y=1312	w=16	h=16
-minecraft:block/wildflowers	x=1056	y=1312	w=16	h=16
-minecraft:block/wildflowers_stem	x=1104	y=1312	w=16	h=16
-minecraft:block/wither_rose	x=1152	y=1312	w=16	h=16
-minecraft:block/yellow_candle	x=1200	y=1312	w=16	h=16
-minecraft:block/yellow_candle_lit	x=1248	y=1312	w=16	h=16
-minecraft:block/yellow_concrete	x=1296	y=1312	w=16	h=16
-minecraft:block/yellow_concrete_powder	x=1344	y=1312	w=16	h=16
-minecraft:block/yellow_glazed_terracotta	x=1392	y=1312	w=16	h=16
-minecraft:block/yellow_shulker_box	x=1440	y=1312	w=16	h=16
-minecraft:block/yellow_stained_glass	x=1488	y=1312	w=16	h=16
-minecraft:block/yellow_stained_glass_pane_top	x=1536	y=1312	w=16	h=16
-minecraft:block/yellow_terracotta	x=1584	y=1312	w=16	h=16
-minecraft:block/yellow_wool	x=1632	y=1312	w=16	h=16
-minecraft:entity/bell/bell_body	x=384	y=64	w=32	h=32
-minecraft:entity/conduit/base	x=384	y=128	w=32	h=16
-minecraft:entity/conduit/break_particle	x=1680	y=1312	w=16	h=16
-minecraft:entity/conduit/cage	x=384	y=176	w=32	h=16
-minecraft:entity/conduit/closed_eye	x=1728	y=1312	w=16	h=16
-minecraft:entity/conduit/open_eye	x=1776	y=1312	w=16	h=16
-minecraft:entity/conduit/wind	x=0	y=0	w=64	h=32
-minecraft:entity/conduit/wind_vertical	x=0	y=64	w=64	h=32
-minecraft:entity/enchanting_table_book	x=128	y=0	w=64	h=32
-minecraft:missingno	x=1824	y=1312	w=16	h=16
+minecraft:block/acacia_door_bottom
+minecraft:block/acacia_door_top
+minecraft:block/acacia_hanging_sign
+minecraft:block/acacia_leaves
+minecraft:block/acacia_log
+minecraft:block/acacia_log_top
+minecraft:block/acacia_planks
+minecraft:block/acacia_sapling
+minecraft:block/acacia_shelf
+minecraft:block/acacia_sign
+minecraft:block/acacia_trapdoor
+minecraft:block/activator_rail
+minecraft:block/activator_rail_on
+minecraft:block/allium
+minecraft:block/amethyst_block
+minecraft:block/amethyst_cluster
+minecraft:block/ancient_debris_side
+minecraft:block/ancient_debris_top
+minecraft:block/andesite
+minecraft:block/anvil
+minecraft:block/anvil_top
+minecraft:block/attached_melon_stem
+minecraft:block/attached_pumpkin_stem
+minecraft:block/azalea_leaves
+minecraft:block/azalea_plant
+minecraft:block/azalea_side
+minecraft:block/azalea_top
+minecraft:block/azure_bluet
+minecraft:block/bamboo_block
+minecraft:block/bamboo_block_top
+minecraft:block/bamboo_door_bottom
+minecraft:block/bamboo_door_top
+minecraft:block/bamboo_fence
+minecraft:block/bamboo_fence_gate
+minecraft:block/bamboo_fence_gate_particle
+minecraft:block/bamboo_fence_particle
+minecraft:block/bamboo_hanging_sign
+minecraft:block/bamboo_large_leaves
+minecraft:block/bamboo_mosaic
+minecraft:block/bamboo_planks
+minecraft:block/bamboo_shelf
+minecraft:block/bamboo_sign
+minecraft:block/bamboo_singleleaf
+minecraft:block/bamboo_small_leaves
+minecraft:block/bamboo_stage0
+minecraft:block/bamboo_stalk
+minecraft:block/bamboo_trapdoor
+minecraft:block/barrel_bottom
+minecraft:block/barrel_side
+minecraft:block/barrel_top
+minecraft:block/barrel_top_open
+minecraft:block/basalt_side
+minecraft:block/basalt_top
+minecraft:block/beacon
+minecraft:block/bed_down
+minecraft:block/bed_head_north
+minecraft:block/bedrock
+minecraft:block/bee_nest_bottom
+minecraft:block/bee_nest_front
+minecraft:block/bee_nest_front_honey
+minecraft:block/bee_nest_side
+minecraft:block/bee_nest_top
+minecraft:block/beehive_end
+minecraft:block/beehive_front
+minecraft:block/beehive_front_honey
+minecraft:block/beehive_side
+minecraft:block/beetroots_stage0
+minecraft:block/beetroots_stage1
+minecraft:block/beetroots_stage2
+minecraft:block/beetroots_stage3
+minecraft:block/bell_bottom
+minecraft:block/bell_side
+minecraft:block/bell_top
+minecraft:block/big_dripleaf_side
+minecraft:block/big_dripleaf_stem
+minecraft:block/big_dripleaf_tip
+minecraft:block/big_dripleaf_top
+minecraft:block/birch_door_bottom
+minecraft:block/birch_door_top
+minecraft:block/birch_hanging_sign
+minecraft:block/birch_leaves
+minecraft:block/birch_log
+minecraft:block/birch_log_top
+minecraft:block/birch_planks
+minecraft:block/birch_sapling
+minecraft:block/birch_shelf
+minecraft:block/birch_sign
+minecraft:block/birch_trapdoor
+minecraft:block/black_bed_foot_east
+minecraft:block/black_bed_foot_south
+minecraft:block/black_bed_foot_up
+minecraft:block/black_bed_foot_west
+minecraft:block/black_bed_head_east
+minecraft:block/black_bed_head_up
+minecraft:block/black_bed_head_west
+minecraft:block/black_candle
+minecraft:block/black_candle_lit
+minecraft:block/black_concrete
+minecraft:block/black_concrete_powder
+minecraft:block/black_glazed_terracotta
+minecraft:block/black_shulker_box
+minecraft:block/black_stained_glass
+minecraft:block/black_stained_glass_pane_top
+minecraft:block/black_terracotta
+minecraft:block/black_wool
+minecraft:block/blackstone
+minecraft:block/blackstone_top
+minecraft:block/blast_furnace_front
+minecraft:block/blast_furnace_front_on
+minecraft:block/blast_furnace_side
+minecraft:block/blast_furnace_top
+minecraft:block/blue_bed_foot_east
+minecraft:block/blue_bed_foot_south
+minecraft:block/blue_bed_foot_up
+minecraft:block/blue_bed_foot_west
+minecraft:block/blue_bed_head_east
+minecraft:block/blue_bed_head_up
+minecraft:block/blue_bed_head_west
+minecraft:block/blue_candle
+minecraft:block/blue_candle_lit
+minecraft:block/blue_concrete
+minecraft:block/blue_concrete_powder
+minecraft:block/blue_glazed_terracotta
+minecraft:block/blue_ice
+minecraft:block/blue_orchid
+minecraft:block/blue_shulker_box
+minecraft:block/blue_stained_glass
+minecraft:block/blue_stained_glass_pane_top
+minecraft:block/blue_terracotta
+minecraft:block/blue_wool
+minecraft:block/bone_block_side
+minecraft:block/bone_block_top
+minecraft:block/bookshelf
+minecraft:block/brain_coral
+minecraft:block/brain_coral_block
+minecraft:block/brain_coral_fan
+minecraft:block/brewing_stand
+minecraft:block/brewing_stand_base
+minecraft:block/bricks
+minecraft:block/brown_bed_foot_east
+minecraft:block/brown_bed_foot_south
+minecraft:block/brown_bed_foot_up
+minecraft:block/brown_bed_foot_west
+minecraft:block/brown_bed_head_east
+minecraft:block/brown_bed_head_up
+minecraft:block/brown_bed_head_west
+minecraft:block/brown_candle
+minecraft:block/brown_candle_lit
+minecraft:block/brown_concrete
+minecraft:block/brown_concrete_powder
+minecraft:block/brown_glazed_terracotta
+minecraft:block/brown_mushroom
+minecraft:block/brown_mushroom_block
+minecraft:block/brown_shulker_box
+minecraft:block/brown_stained_glass
+minecraft:block/brown_stained_glass_pane_top
+minecraft:block/brown_terracotta
+minecraft:block/brown_wool
+minecraft:block/bubble_coral
+minecraft:block/bubble_coral_block
+minecraft:block/bubble_coral_fan
+minecraft:block/budding_amethyst
+minecraft:block/bush
+minecraft:block/cactus_bottom
+minecraft:block/cactus_flower
+minecraft:block/cactus_side
+minecraft:block/cactus_top
+minecraft:block/cake_bottom
+minecraft:block/cake_inner
+minecraft:block/cake_side
+minecraft:block/cake_top
+minecraft:block/calcite
+minecraft:block/calibrated_sculk_sensor_amethyst
+minecraft:block/calibrated_sculk_sensor_input_side
+minecraft:block/calibrated_sculk_sensor_top
+minecraft:block/campfire_fire
+minecraft:block/campfire_log
+minecraft:block/campfire_log_lit
+minecraft:block/candle
+minecraft:block/candle_lit
+minecraft:block/carrots_stage0
+minecraft:block/carrots_stage1
+minecraft:block/carrots_stage2
+minecraft:block/carrots_stage3
+minecraft:block/cartography_table_side1
+minecraft:block/cartography_table_side2
+minecraft:block/cartography_table_side3
+minecraft:block/cartography_table_top
+minecraft:block/carved_pumpkin
+minecraft:block/cauldron_bottom
+minecraft:block/cauldron_inner
+minecraft:block/cauldron_side
+minecraft:block/cauldron_top
+minecraft:block/cave_vines
+minecraft:block/cave_vines_lit
+minecraft:block/cave_vines_plant
+minecraft:block/cave_vines_plant_lit
+minecraft:block/chain_command_block_back
+minecraft:block/chain_command_block_conditional
+minecraft:block/chain_command_block_front
+minecraft:block/chain_command_block_side
+minecraft:block/cherry_door_bottom
+minecraft:block/cherry_door_top
+minecraft:block/cherry_hanging_sign
+minecraft:block/cherry_leaves
+minecraft:block/cherry_log
+minecraft:block/cherry_log_top
+minecraft:block/cherry_planks
+minecraft:block/cherry_sapling
+minecraft:block/cherry_shelf
+minecraft:block/cherry_sign
+minecraft:block/cherry_trapdoor
+minecraft:block/chipped_anvil_top
+minecraft:block/chiseled_bookshelf_empty
+minecraft:block/chiseled_bookshelf_occupied
+minecraft:block/chiseled_bookshelf_side
+minecraft:block/chiseled_bookshelf_top
+minecraft:block/chiseled_cinnabar
+minecraft:block/chiseled_copper
+minecraft:block/chiseled_deepslate
+minecraft:block/chiseled_nether_bricks
+minecraft:block/chiseled_polished_blackstone
+minecraft:block/chiseled_quartz_block
+minecraft:block/chiseled_quartz_block_top
+minecraft:block/chiseled_red_sandstone
+minecraft:block/chiseled_resin_bricks
+minecraft:block/chiseled_sandstone
+minecraft:block/chiseled_stone_bricks
+minecraft:block/chiseled_sulfur
+minecraft:block/chiseled_tuff
+minecraft:block/chiseled_tuff_bricks
+minecraft:block/chiseled_tuff_bricks_top
+minecraft:block/chiseled_tuff_top
+minecraft:block/chorus_flower
+minecraft:block/chorus_flower_dead
+minecraft:block/chorus_plant
+minecraft:block/cinnabar
+minecraft:block/cinnabar_bricks
+minecraft:block/clay
+minecraft:block/closed_eyeblossom
+minecraft:block/coal_block
+minecraft:block/coal_ore
+minecraft:block/coarse_dirt
+minecraft:block/cobbled_deepslate
+minecraft:block/cobblestone
+minecraft:block/cobweb
+minecraft:block/cocoa_stage0
+minecraft:block/cocoa_stage1
+minecraft:block/cocoa_stage2
+minecraft:block/command_block_back
+minecraft:block/command_block_conditional
+minecraft:block/command_block_front
+minecraft:block/command_block_side
+minecraft:block/comparator
+minecraft:block/comparator_on
+minecraft:block/composter_bottom
+minecraft:block/composter_compost
+minecraft:block/composter_ready
+minecraft:block/composter_side
+minecraft:block/composter_top
+minecraft:block/conduit
+minecraft:block/copper_bars
+minecraft:block/copper_block
+minecraft:block/copper_bulb
+minecraft:block/copper_bulb_lit
+minecraft:block/copper_bulb_lit_powered
+minecraft:block/copper_bulb_powered
+minecraft:block/copper_chain
+minecraft:block/copper_door_bottom
+minecraft:block/copper_door_top
+minecraft:block/copper_grate
+minecraft:block/copper_lantern
+minecraft:block/copper_ore
+minecraft:block/copper_torch
+minecraft:block/copper_trapdoor
+minecraft:block/cornflower
+minecraft:block/cracked_deepslate_bricks
+minecraft:block/cracked_deepslate_tiles
+minecraft:block/cracked_nether_bricks
+minecraft:block/cracked_polished_blackstone_bricks
+minecraft:block/cracked_stone_bricks
+minecraft:block/crafter_bottom
+minecraft:block/crafter_east
+minecraft:block/crafter_east_crafting
+minecraft:block/crafter_east_triggered
+minecraft:block/crafter_north
+minecraft:block/crafter_north_crafting
+minecraft:block/crafter_south
+minecraft:block/crafter_south_triggered
+minecraft:block/crafter_top
+minecraft:block/crafter_top_crafting
+minecraft:block/crafter_top_triggered
+minecraft:block/crafter_west
+minecraft:block/crafter_west_crafting
+minecraft:block/crafter_west_triggered
+minecraft:block/crafting_table_front
+minecraft:block/crafting_table_side
+minecraft:block/crafting_table_top
+minecraft:block/creaking_heart
+minecraft:block/creaking_heart_awake
+minecraft:block/creaking_heart_dormant
+minecraft:block/creaking_heart_top
+minecraft:block/creaking_heart_top_awake
+minecraft:block/creaking_heart_top_dormant
+minecraft:block/crimson_door_bottom
+minecraft:block/crimson_door_top
+minecraft:block/crimson_fungus
+minecraft:block/crimson_hanging_sign
+minecraft:block/crimson_nylium
+minecraft:block/crimson_nylium_side
+minecraft:block/crimson_planks
+minecraft:block/crimson_roots
+minecraft:block/crimson_roots_pot
+minecraft:block/crimson_shelf
+minecraft:block/crimson_sign
+minecraft:block/crimson_stem
+minecraft:block/crimson_stem_top
+minecraft:block/crimson_trapdoor
+minecraft:block/crying_obsidian
+minecraft:block/cut_copper
+minecraft:block/cut_red_sandstone
+minecraft:block/cut_sandstone
+minecraft:block/cyan_bed_foot_east
+minecraft:block/cyan_bed_foot_south
+minecraft:block/cyan_bed_foot_up
+minecraft:block/cyan_bed_foot_west
+minecraft:block/cyan_bed_head_east
+minecraft:block/cyan_bed_head_up
+minecraft:block/cyan_bed_head_west
+minecraft:block/cyan_candle
+minecraft:block/cyan_candle_lit
+minecraft:block/cyan_concrete
+minecraft:block/cyan_concrete_powder
+minecraft:block/cyan_glazed_terracotta
+minecraft:block/cyan_shulker_box
+minecraft:block/cyan_stained_glass
+minecraft:block/cyan_stained_glass_pane_top
+minecraft:block/cyan_terracotta
+minecraft:block/cyan_wool
+minecraft:block/damaged_anvil_top
+minecraft:block/dandelion
+minecraft:block/dark_oak_door_bottom
+minecraft:block/dark_oak_door_top
+minecraft:block/dark_oak_hanging_sign
+minecraft:block/dark_oak_leaves
+minecraft:block/dark_oak_log
+minecraft:block/dark_oak_log_top
+minecraft:block/dark_oak_planks
+minecraft:block/dark_oak_sapling
+minecraft:block/dark_oak_shelf
+minecraft:block/dark_oak_sign
+minecraft:block/dark_oak_trapdoor
+minecraft:block/dark_prismarine
+minecraft:block/daylight_detector_inverted_top
+minecraft:block/daylight_detector_side
+minecraft:block/daylight_detector_top
+minecraft:block/dead_brain_coral
+minecraft:block/dead_brain_coral_block
+minecraft:block/dead_brain_coral_fan
+minecraft:block/dead_bubble_coral
+minecraft:block/dead_bubble_coral_block
+minecraft:block/dead_bubble_coral_fan
+minecraft:block/dead_bush
+minecraft:block/dead_fire_coral
+minecraft:block/dead_fire_coral_block
+minecraft:block/dead_fire_coral_fan
+minecraft:block/dead_horn_coral
+minecraft:block/dead_horn_coral_block
+minecraft:block/dead_horn_coral_fan
+minecraft:block/dead_tube_coral
+minecraft:block/dead_tube_coral_block
+minecraft:block/dead_tube_coral_fan
+minecraft:block/debug
+minecraft:block/debug2
+minecraft:block/deepslate
+minecraft:block/deepslate_bricks
+minecraft:block/deepslate_coal_ore
+minecraft:block/deepslate_copper_ore
+minecraft:block/deepslate_diamond_ore
+minecraft:block/deepslate_emerald_ore
+minecraft:block/deepslate_gold_ore
+minecraft:block/deepslate_iron_ore
+minecraft:block/deepslate_lapis_ore
+minecraft:block/deepslate_redstone_ore
+minecraft:block/deepslate_tiles
+minecraft:block/deepslate_top
+minecraft:block/destroy_oit_stage_0
+minecraft:block/destroy_oit_stage_1
+minecraft:block/destroy_oit_stage_2
+minecraft:block/destroy_oit_stage_3
+minecraft:block/destroy_oit_stage_4
+minecraft:block/destroy_oit_stage_5
+minecraft:block/destroy_oit_stage_6
+minecraft:block/destroy_oit_stage_7
+minecraft:block/destroy_oit_stage_8
+minecraft:block/destroy_oit_stage_9
+minecraft:block/destroy_stage_0
+minecraft:block/destroy_stage_1
+minecraft:block/destroy_stage_2
+minecraft:block/destroy_stage_3
+minecraft:block/destroy_stage_4
+minecraft:block/destroy_stage_5
+minecraft:block/destroy_stage_6
+minecraft:block/destroy_stage_7
+minecraft:block/destroy_stage_8
+minecraft:block/destroy_stage_9
+minecraft:block/detector_rail
+minecraft:block/detector_rail_on
+minecraft:block/diamond_block
+minecraft:block/diamond_ore
+minecraft:block/diorite
+minecraft:block/dirt
+minecraft:block/dirt_path_side
+minecraft:block/dirt_path_top
+minecraft:block/dispenser_front
+minecraft:block/dispenser_front_vertical
+minecraft:block/dragon_egg
+minecraft:block/dried_ghast_hydration_0_bottom
+minecraft:block/dried_ghast_hydration_0_east
+minecraft:block/dried_ghast_hydration_0_north
+minecraft:block/dried_ghast_hydration_0_south
+minecraft:block/dried_ghast_hydration_0_tentacles
+minecraft:block/dried_ghast_hydration_0_top
+minecraft:block/dried_ghast_hydration_0_west
+minecraft:block/dried_ghast_hydration_1_bottom
+minecraft:block/dried_ghast_hydration_1_east
+minecraft:block/dried_ghast_hydration_1_north
+minecraft:block/dried_ghast_hydration_1_south
+minecraft:block/dried_ghast_hydration_1_tentacles
+minecraft:block/dried_ghast_hydration_1_top
+minecraft:block/dried_ghast_hydration_1_west
+minecraft:block/dried_ghast_hydration_2_bottom
+minecraft:block/dried_ghast_hydration_2_east
+minecraft:block/dried_ghast_hydration_2_north
+minecraft:block/dried_ghast_hydration_2_south
+minecraft:block/dried_ghast_hydration_2_tentacles
+minecraft:block/dried_ghast_hydration_2_top
+minecraft:block/dried_ghast_hydration_2_west
+minecraft:block/dried_ghast_hydration_3_bottom
+minecraft:block/dried_ghast_hydration_3_east
+minecraft:block/dried_ghast_hydration_3_north
+minecraft:block/dried_ghast_hydration_3_south
+minecraft:block/dried_ghast_hydration_3_tentacles
+minecraft:block/dried_ghast_hydration_3_top
+minecraft:block/dried_ghast_hydration_3_west
+minecraft:block/dried_kelp_bottom
+minecraft:block/dried_kelp_side
+minecraft:block/dried_kelp_top
+minecraft:block/dripstone_block
+minecraft:block/dropper_front
+minecraft:block/dropper_front_vertical
+minecraft:block/emerald_block
+minecraft:block/emerald_ore
+minecraft:block/enchanting_table_bottom
+minecraft:block/enchanting_table_side
+minecraft:block/enchanting_table_top
+minecraft:block/end_portal_frame_eye
+minecraft:block/end_portal_frame_side
+minecraft:block/end_portal_frame_top
+minecraft:block/end_rod
+minecraft:block/end_stone
+minecraft:block/end_stone_bricks
+minecraft:block/exposed_chiseled_copper
+minecraft:block/exposed_copper
+minecraft:block/exposed_copper_bars
+minecraft:block/exposed_copper_bulb
+minecraft:block/exposed_copper_bulb_lit
+minecraft:block/exposed_copper_bulb_lit_powered
+minecraft:block/exposed_copper_bulb_powered
+minecraft:block/exposed_copper_chain
+minecraft:block/exposed_copper_door_bottom
+minecraft:block/exposed_copper_door_top
+minecraft:block/exposed_copper_grate
+minecraft:block/exposed_copper_lantern
+minecraft:block/exposed_copper_trapdoor
+minecraft:block/exposed_cut_copper
+minecraft:block/exposed_lightning_rod
+minecraft:block/farmland
+minecraft:block/farmland_moist
+minecraft:block/fern
+minecraft:block/fire_0
+minecraft:block/fire_1
+minecraft:block/fire_coral
+minecraft:block/fire_coral_block
+minecraft:block/fire_coral_fan
+minecraft:block/firefly_bush
+minecraft:block/firefly_bush_emissive
+minecraft:block/fletching_table_front
+minecraft:block/fletching_table_side
+minecraft:block/fletching_table_top
+minecraft:block/flower_pot
+minecraft:block/flowering_azalea_leaves
+minecraft:block/flowering_azalea_side
+minecraft:block/flowering_azalea_top
+minecraft:block/frogspawn
+minecraft:block/frosted_ice_0
+minecraft:block/frosted_ice_1
+minecraft:block/frosted_ice_2
+minecraft:block/frosted_ice_3
+minecraft:block/furnace_front
+minecraft:block/furnace_front_on
+minecraft:block/furnace_side
+minecraft:block/furnace_top
+minecraft:block/gilded_blackstone
+minecraft:block/glass
+minecraft:block/glass_pane_top
+minecraft:block/glow_item_frame
+minecraft:block/glow_lichen
+minecraft:block/glowstone
+minecraft:block/gold_block
+minecraft:block/gold_ore
+minecraft:block/golden_dandelion
+minecraft:block/granite
+minecraft:block/grass_block_side
+minecraft:block/grass_block_side_overlay
+minecraft:block/grass_block_snow
+minecraft:block/grass_block_top
+minecraft:block/gravel
+minecraft:block/gray_bed_foot_east
+minecraft:block/gray_bed_foot_south
+minecraft:block/gray_bed_foot_up
+minecraft:block/gray_bed_foot_west
+minecraft:block/gray_bed_head_east
+minecraft:block/gray_bed_head_up
+minecraft:block/gray_bed_head_west
+minecraft:block/gray_candle
+minecraft:block/gray_candle_lit
+minecraft:block/gray_concrete
+minecraft:block/gray_concrete_powder
+minecraft:block/gray_glazed_terracotta
+minecraft:block/gray_shulker_box
+minecraft:block/gray_stained_glass
+minecraft:block/gray_stained_glass_pane_top
+minecraft:block/gray_terracotta
+minecraft:block/gray_wool
+minecraft:block/green_bed_foot_east
+minecraft:block/green_bed_foot_south
+minecraft:block/green_bed_foot_up
+minecraft:block/green_bed_foot_west
+minecraft:block/green_bed_head_east
+minecraft:block/green_bed_head_up
+minecraft:block/green_bed_head_west
+minecraft:block/green_candle
+minecraft:block/green_candle_lit
+minecraft:block/green_concrete
+minecraft:block/green_concrete_powder
+minecraft:block/green_glazed_terracotta
+minecraft:block/green_shulker_box
+minecraft:block/green_stained_glass
+minecraft:block/green_stained_glass_pane_top
+minecraft:block/green_terracotta
+minecraft:block/green_wool
+minecraft:block/grindstone_pivot
+minecraft:block/grindstone_round
+minecraft:block/grindstone_side
+minecraft:block/hanging_roots
+minecraft:block/hay_block_side
+minecraft:block/hay_block_top
+minecraft:block/heavy_core
+minecraft:block/honey_block_bottom
+minecraft:block/honey_block_side
+minecraft:block/honey_block_top
+minecraft:block/honeycomb_block
+minecraft:block/hopper_inside
+minecraft:block/hopper_outside
+minecraft:block/hopper_top
+minecraft:block/horn_coral
+minecraft:block/horn_coral_block
+minecraft:block/horn_coral_fan
+minecraft:block/ice
+minecraft:block/iron_bars
+minecraft:block/iron_block
+minecraft:block/iron_chain
+minecraft:block/iron_door_bottom
+minecraft:block/iron_door_top
+minecraft:block/iron_ore
+minecraft:block/iron_trapdoor
+minecraft:block/item_frame
+minecraft:block/jack_o_lantern
+minecraft:block/jigsaw_bottom
+minecraft:block/jigsaw_lock
+minecraft:block/jigsaw_side
+minecraft:block/jigsaw_top
+minecraft:block/jukebox_side
+minecraft:block/jukebox_top
+minecraft:block/jungle_door_bottom
+minecraft:block/jungle_door_top
+minecraft:block/jungle_hanging_sign
+minecraft:block/jungle_leaves
+minecraft:block/jungle_log
+minecraft:block/jungle_log_top
+minecraft:block/jungle_planks
+minecraft:block/jungle_sapling
+minecraft:block/jungle_shelf
+minecraft:block/jungle_sign
+minecraft:block/jungle_trapdoor
+minecraft:block/kelp
+minecraft:block/kelp_plant
+minecraft:block/ladder
+minecraft:block/lantern
+minecraft:block/lapis_block
+minecraft:block/lapis_ore
+minecraft:block/large_amethyst_bud
+minecraft:block/large_fern_bottom
+minecraft:block/large_fern_top
+minecraft:block/lava_flow
+minecraft:block/lava_still
+minecraft:block/leaf_litter
+minecraft:block/lectern_base
+minecraft:block/lectern_front
+minecraft:block/lectern_sides
+minecraft:block/lectern_top
+minecraft:block/lever
+minecraft:block/light_blue_bed_foot_east
+minecraft:block/light_blue_bed_foot_south
+minecraft:block/light_blue_bed_foot_up
+minecraft:block/light_blue_bed_foot_west
+minecraft:block/light_blue_bed_head_east
+minecraft:block/light_blue_bed_head_up
+minecraft:block/light_blue_bed_head_west
+minecraft:block/light_blue_candle
+minecraft:block/light_blue_candle_lit
+minecraft:block/light_blue_concrete
+minecraft:block/light_blue_concrete_powder
+minecraft:block/light_blue_glazed_terracotta
+minecraft:block/light_blue_shulker_box
+minecraft:block/light_blue_stained_glass
+minecraft:block/light_blue_stained_glass_pane_top
+minecraft:block/light_blue_terracotta
+minecraft:block/light_blue_wool
+minecraft:block/light_gray_bed_foot_east
+minecraft:block/light_gray_bed_foot_south
+minecraft:block/light_gray_bed_foot_up
+minecraft:block/light_gray_bed_foot_west
+minecraft:block/light_gray_bed_head_east
+minecraft:block/light_gray_bed_head_up
+minecraft:block/light_gray_bed_head_west
+minecraft:block/light_gray_candle
+minecraft:block/light_gray_candle_lit
+minecraft:block/light_gray_concrete
+minecraft:block/light_gray_concrete_powder
+minecraft:block/light_gray_glazed_terracotta
+minecraft:block/light_gray_shulker_box
+minecraft:block/light_gray_stained_glass
+minecraft:block/light_gray_stained_glass_pane_top
+minecraft:block/light_gray_terracotta
+minecraft:block/light_gray_wool
+minecraft:block/lightning_rod
+minecraft:block/lightning_rod_on
+minecraft:block/lilac_bottom
+minecraft:block/lilac_top
+minecraft:block/lily_of_the_valley
+minecraft:block/lily_pad
+minecraft:block/lime_bed_foot_east
+minecraft:block/lime_bed_foot_south
+minecraft:block/lime_bed_foot_up
+minecraft:block/lime_bed_foot_west
+minecraft:block/lime_bed_head_east
+minecraft:block/lime_bed_head_up
+minecraft:block/lime_bed_head_west
+minecraft:block/lime_candle
+minecraft:block/lime_candle_lit
+minecraft:block/lime_concrete
+minecraft:block/lime_concrete_powder
+minecraft:block/lime_glazed_terracotta
+minecraft:block/lime_shulker_box
+minecraft:block/lime_stained_glass
+minecraft:block/lime_stained_glass_pane_top
+minecraft:block/lime_terracotta
+minecraft:block/lime_wool
+minecraft:block/lodestone_side
+minecraft:block/lodestone_top
+minecraft:block/loom_bottom
+minecraft:block/loom_front
+minecraft:block/loom_side
+minecraft:block/loom_top
+minecraft:block/magenta_bed_foot_east
+minecraft:block/magenta_bed_foot_south
+minecraft:block/magenta_bed_foot_up
+minecraft:block/magenta_bed_foot_west
+minecraft:block/magenta_bed_head_east
+minecraft:block/magenta_bed_head_up
+minecraft:block/magenta_bed_head_west
+minecraft:block/magenta_candle
+minecraft:block/magenta_candle_lit
+minecraft:block/magenta_concrete
+minecraft:block/magenta_concrete_powder
+minecraft:block/magenta_glazed_terracotta
+minecraft:block/magenta_shulker_box
+minecraft:block/magenta_stained_glass
+minecraft:block/magenta_stained_glass_pane_top
+minecraft:block/magenta_terracotta
+minecraft:block/magenta_wool
+minecraft:block/magma
+minecraft:block/mangrove_door_bottom
+minecraft:block/mangrove_door_top
+minecraft:block/mangrove_hanging_sign
+minecraft:block/mangrove_leaves
+minecraft:block/mangrove_log
+minecraft:block/mangrove_log_top
+minecraft:block/mangrove_planks
+minecraft:block/mangrove_propagule
+minecraft:block/mangrove_propagule_hanging
+minecraft:block/mangrove_roots_side
+minecraft:block/mangrove_roots_top
+minecraft:block/mangrove_shelf
+minecraft:block/mangrove_sign
+minecraft:block/mangrove_trapdoor
+minecraft:block/medium_amethyst_bud
+minecraft:block/melon_side
+minecraft:block/melon_stem
+minecraft:block/melon_top
+minecraft:block/moss_block
+minecraft:block/mossy_cobblestone
+minecraft:block/mossy_stone_bricks
+minecraft:block/mud
+minecraft:block/mud_bricks
+minecraft:block/muddy_mangrove_roots_side
+minecraft:block/muddy_mangrove_roots_top
+minecraft:block/mushroom_block_inside
+minecraft:block/mushroom_stem
+minecraft:block/mycelium_side
+minecraft:block/mycelium_top
+minecraft:block/nether_bricks
+minecraft:block/nether_gold_ore
+minecraft:block/nether_portal
+minecraft:block/nether_quartz_ore
+minecraft:block/nether_sprouts
+minecraft:block/nether_wart_block
+minecraft:block/nether_wart_stage0
+minecraft:block/nether_wart_stage1
+minecraft:block/nether_wart_stage2
+minecraft:block/netherite_block
+minecraft:block/netherrack
+minecraft:block/note_block
+minecraft:block/oak_door_bottom
+minecraft:block/oak_door_top
+minecraft:block/oak_hanging_sign
+minecraft:block/oak_leaves
+minecraft:block/oak_log
+minecraft:block/oak_log_top
+minecraft:block/oak_planks
+minecraft:block/oak_sapling
+minecraft:block/oak_shelf
+minecraft:block/oak_sign
+minecraft:block/oak_trapdoor
+minecraft:block/observer_back
+minecraft:block/observer_back_on
+minecraft:block/observer_front
+minecraft:block/observer_side
+minecraft:block/observer_top
+minecraft:block/obsidian
+minecraft:block/ochre_froglight_side
+minecraft:block/ochre_froglight_top
+minecraft:block/open_eyeblossom
+minecraft:block/open_eyeblossom_emissive
+minecraft:block/orange_bed_foot_east
+minecraft:block/orange_bed_foot_south
+minecraft:block/orange_bed_foot_up
+minecraft:block/orange_bed_foot_west
+minecraft:block/orange_bed_head_east
+minecraft:block/orange_bed_head_up
+minecraft:block/orange_bed_head_west
+minecraft:block/orange_candle
+minecraft:block/orange_candle_lit
+minecraft:block/orange_concrete
+minecraft:block/orange_concrete_powder
+minecraft:block/orange_glazed_terracotta
+minecraft:block/orange_poplar_leaves
+minecraft:block/orange_shulker_box
+minecraft:block/orange_stained_glass
+minecraft:block/orange_stained_glass_pane_top
+minecraft:block/orange_terracotta
+minecraft:block/orange_tulip
+minecraft:block/orange_wool
+minecraft:block/oxeye_daisy
+minecraft:block/oxidized_chiseled_copper
+minecraft:block/oxidized_copper
+minecraft:block/oxidized_copper_bars
+minecraft:block/oxidized_copper_bulb
+minecraft:block/oxidized_copper_bulb_lit
+minecraft:block/oxidized_copper_bulb_lit_powered
+minecraft:block/oxidized_copper_bulb_powered
+minecraft:block/oxidized_copper_chain
+minecraft:block/oxidized_copper_door_bottom
+minecraft:block/oxidized_copper_door_top
+minecraft:block/oxidized_copper_grate
+minecraft:block/oxidized_copper_lantern
+minecraft:block/oxidized_copper_trapdoor
+minecraft:block/oxidized_cut_copper
+minecraft:block/oxidized_lightning_rod
+minecraft:block/packed_ice
+minecraft:block/packed_mud
+minecraft:block/pale_hanging_moss
+minecraft:block/pale_hanging_moss_tip
+minecraft:block/pale_moss_block
+minecraft:block/pale_moss_carpet
+minecraft:block/pale_moss_carpet_side_small
+minecraft:block/pale_moss_carpet_side_tall
+minecraft:block/pale_oak_door_bottom
+minecraft:block/pale_oak_door_top
+minecraft:block/pale_oak_hanging_sign
+minecraft:block/pale_oak_leaves
+minecraft:block/pale_oak_log
+minecraft:block/pale_oak_log_top
+minecraft:block/pale_oak_planks
+minecraft:block/pale_oak_sapling
+minecraft:block/pale_oak_shelf
+minecraft:block/pale_oak_sign
+minecraft:block/pale_oak_trapdoor
+minecraft:block/pearlescent_froglight_side
+minecraft:block/pearlescent_froglight_top
+minecraft:block/peony_bottom
+minecraft:block/peony_top
+minecraft:block/pink_bed_foot_east
+minecraft:block/pink_bed_foot_south
+minecraft:block/pink_bed_foot_up
+minecraft:block/pink_bed_foot_west
+minecraft:block/pink_bed_head_east
+minecraft:block/pink_bed_head_up
+minecraft:block/pink_bed_head_west
+minecraft:block/pink_candle
+minecraft:block/pink_candle_lit
+minecraft:block/pink_concrete
+minecraft:block/pink_concrete_powder
+minecraft:block/pink_glazed_terracotta
+minecraft:block/pink_petals
+minecraft:block/pink_petals_stem
+minecraft:block/pink_shulker_box
+minecraft:block/pink_stained_glass
+minecraft:block/pink_stained_glass_pane_top
+minecraft:block/pink_terracotta
+minecraft:block/pink_tulip
+minecraft:block/pink_wool
+minecraft:block/piston_bottom
+minecraft:block/piston_inner
+minecraft:block/piston_side
+minecraft:block/piston_top
+minecraft:block/piston_top_sticky
+minecraft:block/pitcher_crop_bottom
+minecraft:block/pitcher_crop_bottom_stage_1
+minecraft:block/pitcher_crop_bottom_stage_2
+minecraft:block/pitcher_crop_bottom_stage_3
+minecraft:block/pitcher_crop_bottom_stage_4
+minecraft:block/pitcher_crop_side
+minecraft:block/pitcher_crop_top
+minecraft:block/pitcher_crop_top_stage_3
+minecraft:block/pitcher_crop_top_stage_4
+minecraft:block/podzol_side
+minecraft:block/podzol_top
+minecraft:block/pointed_dripstone_down_base
+minecraft:block/pointed_dripstone_down_frustum
+minecraft:block/pointed_dripstone_down_middle
+minecraft:block/pointed_dripstone_down_tip
+minecraft:block/pointed_dripstone_down_tip_merge
+minecraft:block/pointed_dripstone_up_base
+minecraft:block/pointed_dripstone_up_frustum
+minecraft:block/pointed_dripstone_up_middle
+minecraft:block/pointed_dripstone_up_tip
+minecraft:block/pointed_dripstone_up_tip_merge
+minecraft:block/polished_andesite
+minecraft:block/polished_basalt_side
+minecraft:block/polished_basalt_top
+minecraft:block/polished_blackstone
+minecraft:block/polished_blackstone_bricks
+minecraft:block/polished_cinnabar
+minecraft:block/polished_deepslate
+minecraft:block/polished_diorite
+minecraft:block/polished_granite
+minecraft:block/polished_sulfur
+minecraft:block/polished_tuff
+minecraft:block/poplar_door_bottom
+minecraft:block/poplar_door_top
+minecraft:block/poplar_hanging_sign
+minecraft:block/poplar_log
+minecraft:block/poplar_log_top
+minecraft:block/poplar_planks
+minecraft:block/poplar_sapling
+minecraft:block/poplar_shelf
+minecraft:block/poplar_sign
+minecraft:block/poplar_trapdoor
+minecraft:block/poppy
+minecraft:block/potatoes_stage0
+minecraft:block/potatoes_stage1
+minecraft:block/potatoes_stage2
+minecraft:block/potatoes_stage3
+minecraft:block/potent_sulfur
+minecraft:block/potted_azalea_bush_plant
+minecraft:block/potted_azalea_bush_side
+minecraft:block/potted_azalea_bush_top
+minecraft:block/potted_flowering_azalea_bush_plant
+minecraft:block/potted_flowering_azalea_bush_side
+minecraft:block/potted_flowering_azalea_bush_top
+minecraft:block/powder_snow
+minecraft:block/powered_rail
+minecraft:block/powered_rail_on
+minecraft:block/prismarine
+minecraft:block/prismarine_bricks
+minecraft:block/pumpkin_side
+minecraft:block/pumpkin_stem
+minecraft:block/pumpkin_top
+minecraft:block/purple_bed_foot_east
+minecraft:block/purple_bed_foot_south
+minecraft:block/purple_bed_foot_up
+minecraft:block/purple_bed_foot_west
+minecraft:block/purple_bed_head_east
+minecraft:block/purple_bed_head_up
+minecraft:block/purple_bed_head_west
+minecraft:block/purple_candle
+minecraft:block/purple_candle_lit
+minecraft:block/purple_concrete
+minecraft:block/purple_concrete_powder
+minecraft:block/purple_glazed_terracotta
+minecraft:block/purple_shulker_box
+minecraft:block/purple_stained_glass
+minecraft:block/purple_stained_glass_pane_top
+minecraft:block/purple_terracotta
+minecraft:block/purple_wool
+minecraft:block/purpur_block
+minecraft:block/purpur_pillar_side
+minecraft:block/purpur_pillar_top
+minecraft:block/quartz_block_bottom
+minecraft:block/quartz_block_side
+minecraft:block/quartz_block_top
+minecraft:block/quartz_bricks
+minecraft:block/quartz_pillar_side
+minecraft:block/quartz_pillar_top
+minecraft:block/rail
+minecraft:block/rail_corner
+minecraft:block/raw_copper_block
+minecraft:block/raw_gold_block
+minecraft:block/raw_iron_block
+minecraft:block/red_bed_foot_east
+minecraft:block/red_bed_foot_south
+minecraft:block/red_bed_foot_up
+minecraft:block/red_bed_foot_west
+minecraft:block/red_bed_head_east
+minecraft:block/red_bed_head_up
+minecraft:block/red_bed_head_west
+minecraft:block/red_candle
+minecraft:block/red_candle_lit
+minecraft:block/red_concrete
+minecraft:block/red_concrete_powder
+minecraft:block/red_glazed_terracotta
+minecraft:block/red_mushroom
+minecraft:block/red_mushroom_block
+minecraft:block/red_nether_bricks
+minecraft:block/red_poplar_leaves
+minecraft:block/red_sand
+minecraft:block/red_sandstone
+minecraft:block/red_sandstone_bottom
+minecraft:block/red_sandstone_top
+minecraft:block/red_shrub
+minecraft:block/red_shulker_box
+minecraft:block/red_stained_glass
+minecraft:block/red_stained_glass_pane_top
+minecraft:block/red_terracotta
+minecraft:block/red_tulip
+minecraft:block/red_wool
+minecraft:block/redstone_block
+minecraft:block/redstone_dust_dot
+minecraft:block/redstone_dust_line0
+minecraft:block/redstone_dust_line1
+minecraft:block/redstone_dust_overlay
+minecraft:block/redstone_lamp
+minecraft:block/redstone_lamp_on
+minecraft:block/redstone_ore
+minecraft:block/redstone_torch
+minecraft:block/redstone_torch_off
+minecraft:block/reinforced_deepslate_bottom
+minecraft:block/reinforced_deepslate_side
+minecraft:block/reinforced_deepslate_top
+minecraft:block/repeater
+minecraft:block/repeater_on
+minecraft:block/repeating_command_block_back
+minecraft:block/repeating_command_block_conditional
+minecraft:block/repeating_command_block_front
+minecraft:block/repeating_command_block_side
+minecraft:block/resin_block
+minecraft:block/resin_bricks
+minecraft:block/resin_clump
+minecraft:block/respawn_anchor_bottom
+minecraft:block/respawn_anchor_side0
+minecraft:block/respawn_anchor_side1
+minecraft:block/respawn_anchor_side2
+minecraft:block/respawn_anchor_side3
+minecraft:block/respawn_anchor_side4
+minecraft:block/respawn_anchor_top
+minecraft:block/respawn_anchor_top_off
+minecraft:block/rooted_dirt
+minecraft:block/rose_bush_bottom
+minecraft:block/rose_bush_top
+minecraft:block/sand
+minecraft:block/sandstone
+minecraft:block/sandstone_bottom
+minecraft:block/sandstone_top
+minecraft:block/scaffolding_bottom
+minecraft:block/scaffolding_side
+minecraft:block/scaffolding_top
+minecraft:block/sculk
+minecraft:block/sculk_catalyst_bottom
+minecraft:block/sculk_catalyst_side
+minecraft:block/sculk_catalyst_side_bloom
+minecraft:block/sculk_catalyst_top
+minecraft:block/sculk_catalyst_top_bloom
+minecraft:block/sculk_sensor_bottom
+minecraft:block/sculk_sensor_side
+minecraft:block/sculk_sensor_tendril_active
+minecraft:block/sculk_sensor_tendril_inactive
+minecraft:block/sculk_sensor_top
+minecraft:block/sculk_shrieker_bottom
+minecraft:block/sculk_shrieker_can_summon_inner_top
+minecraft:block/sculk_shrieker_inner_top
+minecraft:block/sculk_shrieker_side
+minecraft:block/sculk_shrieker_top
+minecraft:block/sculk_vein
+minecraft:block/sea_lantern
+minecraft:block/sea_pickle
+minecraft:block/seagrass
+minecraft:block/shelf_mushroom_particle
+minecraft:block/shelf_mushroom_stage0
+minecraft:block/shelf_mushroom_stage1
+minecraft:block/short_dry_grass
+minecraft:block/short_grass
+minecraft:block/shroomlight
+minecraft:block/shulker_box
+minecraft:block/slime_block
+minecraft:block/small_amethyst_bud
+minecraft:block/small_dripleaf_side
+minecraft:block/small_dripleaf_stem_bottom
+minecraft:block/small_dripleaf_stem_top
+minecraft:block/small_dripleaf_top
+minecraft:block/smithing_table_bottom
+minecraft:block/smithing_table_front
+minecraft:block/smithing_table_side
+minecraft:block/smithing_table_top
+minecraft:block/smoker_bottom
+minecraft:block/smoker_front
+minecraft:block/smoker_front_on
+minecraft:block/smoker_side
+minecraft:block/smoker_top
+minecraft:block/smooth_basalt
+minecraft:block/smooth_stone
+minecraft:block/smooth_stone_slab_side
+minecraft:block/sniffer_egg_not_cracked_bottom
+minecraft:block/sniffer_egg_not_cracked_east
+minecraft:block/sniffer_egg_not_cracked_north
+minecraft:block/sniffer_egg_not_cracked_south
+minecraft:block/sniffer_egg_not_cracked_top
+minecraft:block/sniffer_egg_not_cracked_west
+minecraft:block/sniffer_egg_slightly_cracked_bottom
+minecraft:block/sniffer_egg_slightly_cracked_east
+minecraft:block/sniffer_egg_slightly_cracked_north
+minecraft:block/sniffer_egg_slightly_cracked_south
+minecraft:block/sniffer_egg_slightly_cracked_top
+minecraft:block/sniffer_egg_slightly_cracked_west
+minecraft:block/sniffer_egg_very_cracked_bottom
+minecraft:block/sniffer_egg_very_cracked_east
+minecraft:block/sniffer_egg_very_cracked_north
+minecraft:block/sniffer_egg_very_cracked_south
+minecraft:block/sniffer_egg_very_cracked_top
+minecraft:block/sniffer_egg_very_cracked_west
+minecraft:block/snow
+minecraft:block/soul_campfire_fire
+minecraft:block/soul_campfire_log_lit
+minecraft:block/soul_fire_0
+minecraft:block/soul_fire_1
+minecraft:block/soul_lantern
+minecraft:block/soul_sand
+minecraft:block/soul_soil
+minecraft:block/soul_torch
+minecraft:block/spawner
+minecraft:block/sponge
+minecraft:block/spore_blossom
+minecraft:block/spore_blossom_base
+minecraft:block/spruce_door_bottom
+minecraft:block/spruce_door_top
+minecraft:block/spruce_hanging_sign
+minecraft:block/spruce_leaves
+minecraft:block/spruce_log
+minecraft:block/spruce_log_top
+minecraft:block/spruce_planks
+minecraft:block/spruce_sapling
+minecraft:block/spruce_shelf
+minecraft:block/spruce_sign
+minecraft:block/spruce_trapdoor
+minecraft:block/stone
+minecraft:block/stone_bricks
+minecraft:block/stonecutter_bottom
+minecraft:block/stonecutter_saw
+minecraft:block/stonecutter_side
+minecraft:block/stonecutter_top
+minecraft:block/straw_bed
+minecraft:block/straw_bed_particle
+minecraft:block/stripped_acacia_log
+minecraft:block/stripped_acacia_log_top
+minecraft:block/stripped_bamboo_block
+minecraft:block/stripped_bamboo_block_top
+minecraft:block/stripped_birch_log
+minecraft:block/stripped_birch_log_top
+minecraft:block/stripped_cherry_log
+minecraft:block/stripped_cherry_log_top
+minecraft:block/stripped_crimson_stem
+minecraft:block/stripped_crimson_stem_top
+minecraft:block/stripped_dark_oak_log
+minecraft:block/stripped_dark_oak_log_top
+minecraft:block/stripped_jungle_log
+minecraft:block/stripped_jungle_log_top
+minecraft:block/stripped_mangrove_log
+minecraft:block/stripped_mangrove_log_top
+minecraft:block/stripped_oak_log
+minecraft:block/stripped_oak_log_top
+minecraft:block/stripped_pale_oak_log
+minecraft:block/stripped_pale_oak_log_top
+minecraft:block/stripped_poplar_log
+minecraft:block/stripped_poplar_log_top
+minecraft:block/stripped_spruce_log
+minecraft:block/stripped_spruce_log_top
+minecraft:block/stripped_warped_stem
+minecraft:block/stripped_warped_stem_top
+minecraft:block/structure_block
+minecraft:block/structure_block_corner
+minecraft:block/structure_block_data
+minecraft:block/structure_block_load
+minecraft:block/structure_block_save
+minecraft:block/sugar_cane
+minecraft:block/sulfur
+minecraft:block/sulfur_bricks
+minecraft:block/sulfur_spike_down_base
+minecraft:block/sulfur_spike_down_frustum
+minecraft:block/sulfur_spike_down_middle
+minecraft:block/sulfur_spike_down_tip
+minecraft:block/sulfur_spike_down_tip_merge
+minecraft:block/sulfur_spike_up_base
+minecraft:block/sulfur_spike_up_frustum
+minecraft:block/sulfur_spike_up_middle
+minecraft:block/sulfur_spike_up_tip
+minecraft:block/sulfur_spike_up_tip_merge
+minecraft:block/sunflower_back
+minecraft:block/sunflower_bottom
+minecraft:block/sunflower_front
+minecraft:block/sunflower_top
+minecraft:block/suspicious_gravel_0
+minecraft:block/suspicious_gravel_1
+minecraft:block/suspicious_gravel_2
+minecraft:block/suspicious_gravel_3
+minecraft:block/suspicious_sand_0
+minecraft:block/suspicious_sand_1
+minecraft:block/suspicious_sand_2
+minecraft:block/suspicious_sand_3
+minecraft:block/sweet_berry_bush_stage0
+minecraft:block/sweet_berry_bush_stage1
+minecraft:block/sweet_berry_bush_stage2
+minecraft:block/sweet_berry_bush_stage3
+minecraft:block/tall_dry_grass
+minecraft:block/tall_grass_bottom
+minecraft:block/tall_grass_top
+minecraft:block/tall_seagrass_bottom
+minecraft:block/tall_seagrass_top
+minecraft:block/target_side
+minecraft:block/target_top
+minecraft:block/terracotta
+minecraft:block/test_block_accept
+minecraft:block/test_block_fail
+minecraft:block/test_block_log
+minecraft:block/test_block_start
+minecraft:block/test_instance_block
+minecraft:block/tinted_glass
+minecraft:block/tnt_bottom
+minecraft:block/tnt_side
+minecraft:block/tnt_top
+minecraft:block/torch
+minecraft:block/torchflower
+minecraft:block/torchflower_crop_stage0
+minecraft:block/torchflower_crop_stage1
+minecraft:block/trial_spawner_bottom
+minecraft:block/trial_spawner_side_active
+minecraft:block/trial_spawner_side_active_ominous
+minecraft:block/trial_spawner_side_inactive
+minecraft:block/trial_spawner_side_inactive_ominous
+minecraft:block/trial_spawner_top_active
+minecraft:block/trial_spawner_top_active_ominous
+minecraft:block/trial_spawner_top_ejecting_reward
+minecraft:block/trial_spawner_top_ejecting_reward_ominous
+minecraft:block/trial_spawner_top_inactive
+minecraft:block/trial_spawner_top_inactive_ominous
+minecraft:block/tripwire
+minecraft:block/tripwire_hook
+minecraft:block/tube_coral
+minecraft:block/tube_coral_block
+minecraft:block/tube_coral_fan
+minecraft:block/tuff
+minecraft:block/tuff_bricks
+minecraft:block/turtle_egg
+minecraft:block/turtle_egg_slightly_cracked
+minecraft:block/turtle_egg_very_cracked
+minecraft:block/twisting_vines
+minecraft:block/twisting_vines_plant
+minecraft:block/vault_bottom
+minecraft:block/vault_bottom_ominous
+minecraft:block/vault_front_ejecting
+minecraft:block/vault_front_ejecting_ominous
+minecraft:block/vault_front_off
+minecraft:block/vault_front_off_ominous
+minecraft:block/vault_front_on
+minecraft:block/vault_front_on_ominous
+minecraft:block/vault_side_off
+minecraft:block/vault_side_off_ominous
+minecraft:block/vault_side_on
+minecraft:block/vault_side_on_ominous
+minecraft:block/vault_top
+minecraft:block/vault_top_ejecting
+minecraft:block/vault_top_ejecting_ominous
+minecraft:block/vault_top_ominous
+minecraft:block/verdant_froglight_side
+minecraft:block/verdant_froglight_top
+minecraft:block/vine
+minecraft:block/warped_door_bottom
+minecraft:block/warped_door_top
+minecraft:block/warped_fungus
+minecraft:block/warped_hanging_sign
+minecraft:block/warped_nylium
+minecraft:block/warped_nylium_side
+minecraft:block/warped_planks
+minecraft:block/warped_roots
+minecraft:block/warped_roots_pot
+minecraft:block/warped_shelf
+minecraft:block/warped_sign
+minecraft:block/warped_stem
+minecraft:block/warped_stem_top
+minecraft:block/warped_trapdoor
+minecraft:block/warped_wart_block
+minecraft:block/water_flow
+minecraft:block/water_overlay
+minecraft:block/water_still
+minecraft:block/weathered_chiseled_copper
+minecraft:block/weathered_copper
+minecraft:block/weathered_copper_bars
+minecraft:block/weathered_copper_bulb
+minecraft:block/weathered_copper_bulb_lit
+minecraft:block/weathered_copper_bulb_lit_powered
+minecraft:block/weathered_copper_bulb_powered
+minecraft:block/weathered_copper_chain
+minecraft:block/weathered_copper_door_bottom
+minecraft:block/weathered_copper_door_top
+minecraft:block/weathered_copper_grate
+minecraft:block/weathered_copper_lantern
+minecraft:block/weathered_copper_trapdoor
+minecraft:block/weathered_cut_copper
+minecraft:block/weathered_lightning_rod
+minecraft:block/weeping_vines
+minecraft:block/weeping_vines_plant
+minecraft:block/wet_sponge
+minecraft:block/wheat_stage0
+minecraft:block/wheat_stage1
+minecraft:block/wheat_stage2
+minecraft:block/wheat_stage3
+minecraft:block/wheat_stage4
+minecraft:block/wheat_stage5
+minecraft:block/wheat_stage6
+minecraft:block/wheat_stage7
+minecraft:block/white_bed_foot_east
+minecraft:block/white_bed_foot_south
+minecraft:block/white_bed_foot_up
+minecraft:block/white_bed_foot_west
+minecraft:block/white_bed_head_east
+minecraft:block/white_bed_head_up
+minecraft:block/white_bed_head_west
+minecraft:block/white_candle
+minecraft:block/white_candle_lit
+minecraft:block/white_concrete
+minecraft:block/white_concrete_powder
+minecraft:block/white_glazed_terracotta
+minecraft:block/white_shulker_box
+minecraft:block/white_stained_glass
+minecraft:block/white_stained_glass_pane_top
+minecraft:block/white_terracotta
+minecraft:block/white_tulip
+minecraft:block/white_wool
+minecraft:block/wildflowers
+minecraft:block/wildflowers_stem
+minecraft:block/wither_rose
+minecraft:block/yellow_bed_foot_east
+minecraft:block/yellow_bed_foot_south
+minecraft:block/yellow_bed_foot_up
+minecraft:block/yellow_bed_foot_west
+minecraft:block/yellow_bed_head_east
+minecraft:block/yellow_bed_head_up
+minecraft:block/yellow_bed_head_west
+minecraft:block/yellow_candle
+minecraft:block/yellow_candle_lit
+minecraft:block/yellow_concrete
+minecraft:block/yellow_concrete_powder
+minecraft:block/yellow_glazed_terracotta
+minecraft:block/yellow_poplar_leaves
+minecraft:block/yellow_shulker_box
+minecraft:block/yellow_stained_glass
+minecraft:block/yellow_stained_glass_pane_top
+minecraft:block/yellow_terracotta
+minecraft:block/yellow_wool
+minecraft:entity/bell/bell_body
+minecraft:entity/conduit/base
+minecraft:entity/conduit/break_particle
+minecraft:entity/conduit/cage
+minecraft:entity/conduit/closed_eye
+minecraft:entity/conduit/open_eye
+minecraft:entity/conduit/wind
+minecraft:entity/conduit/wind_vertical
+minecraft:entity/enchantment/enchanting_table_book
+minecraft:missingno

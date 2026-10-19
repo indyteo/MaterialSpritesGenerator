@@ -18,6 +18,17 @@ You should get the generated mappings in the plugin's folder.
 
 You can also optionally customize the `config.yml` file to edit generation options, or the Java template file.
 
+### Updating atlases for a new Minecraft version
+
+The atlas files in `src/main/resources/atlases` can be regenerated from the vanilla client jar, without launching the game:
+
+```sh
+python3 scripts/extract_atlases.py 26.3          # download the client jar for this version
+python3 scripts/extract_atlases.py client.jar    # or use a local client jar
+```
+
+The script resolves the atlas definitions the same way the game does, so it produces the same sprite names as an `F3 + S` dump (only the texture coordinates are omitted, as they are not used).
+
 ## Why is this needed?
 
 Naive approaches like using the material name or ID as a sprite key won't work for most of them.

@@ -165,6 +165,7 @@ public class MaterialSpritesGenerator extends JavaPlugin {
 			rule().exact(Material.CROSSBOW).prepend(ITEM).append("_standby").sprite().atlas(ITEMS_ATLAS),
 			rule().exact(Material.CHISELED_BOOKSHELF).prepend(BLOCK).append("_occupied").sprite(),
 			rule().exact(Material.CALIBRATED_SCULK_SENSOR).prepend(BLOCK).append("_input_side").sprite(),
+			rule().either(Material.SHELF_MUSHROOM, Material.STRAW_BED).prepend(BLOCK).append("_particle").sprite(),
 			rule().regex("smooth_quartz(_slab|_stairs)?").overwrite(BLOCK + "quartz_block_bottom").sprite(),
 			rule().regex("smooth_sandstone(_slab|_stairs)?").overwrite(BLOCK + "sandstone_top").sprite(),
 			rule().regex("smooth_red_sandstone(_slab|_stairs)?").overwrite(BLOCK + "red_sandstone_top").sprite(),

@@ -1,36 +1,41 @@
-minecraft:black_banner	x=0	y=18	w=8	h=8
-minecraft:blue_banner	x=18	y=0	w=8	h=8
-minecraft:blue_marker	x=18	y=10	w=8	h=8
-minecraft:brown_banner	x=18	y=20	w=8	h=8
-minecraft:cyan_banner	x=32	y=0	w=8	h=8
-minecraft:desert_village	x=32	y=10	w=8	h=8
-minecraft:frame	x=32	y=20	w=8	h=8
-minecraft:gray_banner	x=42	y=0	w=8	h=8
-minecraft:green_banner	x=42	y=10	w=8	h=8
-minecraft:jungle_temple	x=42	y=20	w=8	h=8
-minecraft:light_blue_banner	x=52	y=0	w=8	h=8
-minecraft:light_gray_banner	x=52	y=10	w=8	h=8
-minecraft:lime_banner	x=52	y=20	w=8	h=8
-minecraft:magenta_banner	x=0	y=32	w=8	h=8
-minecraft:missingno	x=0	y=0	w=16	h=16
-minecraft:ocean_monument	x=10	y=32	w=8	h=8
-minecraft:orange_banner	x=20	y=32	w=8	h=8
-minecraft:pink_banner	x=30	y=32	w=8	h=8
-minecraft:plains_village	x=40	y=32	w=8	h=8
-minecraft:player	x=50	y=32	w=8	h=8
-minecraft:player_off_limits	x=0	y=42	w=8	h=8
-minecraft:player_off_map	x=10	y=42	w=8	h=8
-minecraft:purple_banner	x=20	y=42	w=8	h=8
-minecraft:red_banner	x=30	y=42	w=8	h=8
-minecraft:red_marker	x=40	y=42	w=8	h=8
-minecraft:red_x	x=50	y=42	w=8	h=8
-minecraft:savanna_village	x=0	y=52	w=8	h=8
-minecraft:snowy_village	x=10	y=52	w=8	h=8
-minecraft:swamp_hut	x=20	y=52	w=8	h=8
-minecraft:taiga_village	x=30	y=52	w=8	h=8
-minecraft:target_point	x=40	y=52	w=8	h=8
-minecraft:target_x	x=50	y=52	w=8	h=8
-minecraft:trial_chambers	x=64	y=0	w=8	h=8
-minecraft:white_banner	x=64	y=10	w=8	h=8
-minecraft:woodland_mansion	x=64	y=20	w=8	h=8
-minecraft:yellow_banner	x=64	y=30	w=8	h=8
+minecraft:abandoned_camp
+minecraft:ancient_city
+minecraft:black_banner
+minecraft:blue_banner
+minecraft:blue_marker
+minecraft:brown_banner
+minecraft:cyan_banner
+minecraft:desert_pyramid
+minecraft:desert_village
+minecraft:frame
+minecraft:gray_banner
+minecraft:green_banner
+minecraft:jungle_temple
+minecraft:light_blue_banner
+minecraft:light_gray_banner
+minecraft:lime_banner
+minecraft:magenta_banner
+minecraft:mineshaft
+minecraft:missingno
+minecraft:ocean_monument
+minecraft:orange_banner
+minecraft:pink_banner
+minecraft:plains_village
+minecraft:player
+minecraft:player_off_limits
+minecraft:player_off_map
+minecraft:purple_banner
+minecraft:red_banner
+minecraft:red_marker
+minecraft:red_x
+minecraft:savanna_village
+minecraft:snowy_village
+minecraft:swamp_hut
+minecraft:taiga_village
+minecraft:target_point
+minecraft:target_x
+minecraft:trial_chambers
+minecraft:warm_ocean_ruins
+minecraft:white_banner
+minecraft:woodland_mansion
+minecraft:yellow_banner
