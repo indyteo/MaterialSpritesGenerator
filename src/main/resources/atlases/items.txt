@@ -1,857 +1,896 @@
-minecraft:item/acacia_boat	x=0	y=34	w=16	h=16
-minecraft:item/acacia_chest_boat	x=34	y=0	w=16	h=16
-minecraft:item/acacia_door	x=34	y=18	w=16	h=16
-minecraft:item/acacia_hanging_sign	x=34	y=36	w=16	h=16
-minecraft:item/acacia_sign	x=64	y=34	w=16	h=16
-minecraft:item/allay_spawn_egg	x=98	y=0	w=16	h=16
-minecraft:item/amethyst_shard	x=98	y=18	w=16	h=16
-minecraft:item/angler_pottery_sherd	x=98	y=36	w=16	h=16
-minecraft:item/apple	x=102	y=64	w=16	h=16
-minecraft:item/archer_pottery_sherd	x=0	y=98	w=16	h=16
-minecraft:item/armadillo_scute	x=18	y=98	w=16	h=16
-minecraft:item/armadillo_spawn_egg	x=36	y=98	w=16	h=16
-minecraft:item/armor_stand	x=54	y=98	w=16	h=16
-minecraft:item/arms_up_pottery_sherd	x=72	y=98	w=16	h=16
-minecraft:item/arrow	x=90	y=98	w=16	h=16
-minecraft:item/axolotl_bucket	x=108	y=98	w=16	h=16
-minecraft:item/axolotl_spawn_egg	x=128	y=68	w=16	h=16
-minecraft:item/baked_potato	x=128	y=86	w=16	h=16
-minecraft:item/bamboo	x=128	y=104	w=16	h=16
-minecraft:item/bamboo_chest_raft	x=162	y=0	w=16	h=16
-minecraft:item/bamboo_door	x=162	y=18	w=16	h=16
-minecraft:item/bamboo_hanging_sign	x=162	y=36	w=16	h=16
-minecraft:item/bamboo_raft	x=162	y=54	w=16	h=16
-minecraft:item/bamboo_sign	x=162	y=72	w=16	h=16
-minecraft:item/barrier	x=162	y=90	w=16	h=16
-minecraft:item/bat_spawn_egg	x=162	y=108	w=16	h=16
-minecraft:item/bee_spawn_egg	x=180	y=0	w=16	h=16
-minecraft:item/beef	x=180	y=18	w=16	h=16
-minecraft:item/beetroot	x=180	y=36	w=16	h=16
-minecraft:item/beetroot_seeds	x=180	y=54	w=16	h=16
-minecraft:item/beetroot_soup	x=180	y=72	w=16	h=16
-minecraft:item/bell	x=180	y=90	w=16	h=16
-minecraft:item/birch_boat	x=180	y=108	w=16	h=16
-minecraft:item/birch_chest_boat	x=198	y=0	w=16	h=16
-minecraft:item/birch_door	x=198	y=18	w=16	h=16
-minecraft:item/birch_hanging_sign	x=198	y=36	w=16	h=16
-minecraft:item/birch_sign	x=198	y=54	w=16	h=16
-minecraft:item/black_bundle	x=198	y=72	w=16	h=16
-minecraft:item/black_bundle_open_back	x=198	y=90	w=16	h=16
-minecraft:item/black_bundle_open_front	x=198	y=108	w=16	h=16
-minecraft:item/black_candle	x=216	y=0	w=16	h=16
-minecraft:item/black_dye	x=216	y=18	w=16	h=16
-minecraft:item/black_harness	x=216	y=36	w=16	h=16
-minecraft:item/blade_pottery_sherd	x=216	y=54	w=16	h=16
-minecraft:item/blaze_powder	x=216	y=72	w=16	h=16
-minecraft:item/blaze_rod	x=216	y=90	w=16	h=16
-minecraft:item/blaze_spawn_egg	x=216	y=108	w=16	h=16
-minecraft:item/blue_bundle	x=234	y=0	w=16	h=16
-minecraft:item/blue_bundle_open_back	x=234	y=18	w=16	h=16
-minecraft:item/blue_bundle_open_front	x=234	y=36	w=16	h=16
-minecraft:item/blue_candle	x=234	y=54	w=16	h=16
-minecraft:item/blue_dye	x=234	y=72	w=16	h=16
-minecraft:item/blue_egg	x=234	y=90	w=16	h=16
-minecraft:item/blue_harness	x=234	y=108	w=16	h=16
-minecraft:item/bogged_spawn_egg	x=0	y=128	w=16	h=16
-minecraft:item/bolt_armor_trim_smithing_template	x=18	y=128	w=16	h=16
-minecraft:item/bone	x=36	y=128	w=16	h=16
-minecraft:item/bone_meal	x=54	y=128	w=16	h=16
-minecraft:item/book	x=72	y=128	w=16	h=16
-minecraft:item/bordure_indented_banner_pattern	x=90	y=128	w=16	h=16
-minecraft:item/bow	x=108	y=128	w=16	h=16
-minecraft:item/bow_pulling_0	x=126	y=128	w=16	h=16
-minecraft:item/bow_pulling_1	x=144	y=128	w=16	h=16
-minecraft:item/bow_pulling_2	x=162	y=128	w=16	h=16
-minecraft:item/bowl	x=180	y=128	w=16	h=16
-minecraft:item/bread	x=198	y=128	w=16	h=16
-minecraft:item/breeze_rod	x=216	y=128	w=16	h=16
-minecraft:item/breeze_spawn_egg	x=234	y=128	w=16	h=16
-minecraft:item/brewer_pottery_sherd	x=0	y=146	w=16	h=16
-minecraft:item/brewing_stand	x=18	y=146	w=16	h=16
-minecraft:item/brick	x=36	y=146	w=16	h=16
-minecraft:item/brown_bundle	x=54	y=146	w=16	h=16
-minecraft:item/brown_bundle_open_back	x=72	y=146	w=16	h=16
-minecraft:item/brown_bundle_open_front	x=90	y=146	w=16	h=16
-minecraft:item/brown_candle	x=108	y=146	w=16	h=16
-minecraft:item/brown_dye	x=126	y=146	w=16	h=16
-minecraft:item/brown_egg	x=144	y=146	w=16	h=16
-minecraft:item/brown_harness	x=162	y=146	w=16	h=16
-minecraft:item/brush	x=180	y=146	w=16	h=16
-minecraft:item/bucket	x=198	y=146	w=16	h=16
-minecraft:item/bundle	x=216	y=146	w=16	h=16
-minecraft:item/bundle_open_back	x=234	y=146	w=16	h=16
-minecraft:item/bundle_open_front	x=0	y=164	w=16	h=16
-minecraft:item/burn_pottery_sherd	x=18	y=164	w=16	h=16
-minecraft:item/cake	x=36	y=164	w=16	h=16
-minecraft:item/camel_husk_spawn_egg	x=54	y=164	w=16	h=16
-minecraft:item/camel_spawn_egg	x=72	y=164	w=16	h=16
-minecraft:item/campfire	x=90	y=164	w=16	h=16
-minecraft:item/candle	x=108	y=164	w=16	h=16
-minecraft:item/carrot	x=126	y=164	w=16	h=16
-minecraft:item/carrot_on_a_stick	x=144	y=164	w=16	h=16
-minecraft:item/cat_spawn_egg	x=162	y=164	w=16	h=16
-minecraft:item/cauldron	x=180	y=164	w=16	h=16
-minecraft:item/cave_spider_spawn_egg	x=198	y=164	w=16	h=16
-minecraft:item/chainmail_boots	x=216	y=164	w=16	h=16
-minecraft:item/chainmail_chestplate	x=234	y=164	w=16	h=16
-minecraft:item/chainmail_helmet	x=0	y=182	w=16	h=16
-minecraft:item/chainmail_leggings	x=18	y=182	w=16	h=16
-minecraft:item/charcoal	x=36	y=182	w=16	h=16
-minecraft:item/cherry_boat	x=54	y=182	w=16	h=16
-minecraft:item/cherry_chest_boat	x=72	y=182	w=16	h=16
-minecraft:item/cherry_door	x=90	y=182	w=16	h=16
-minecraft:item/cherry_hanging_sign	x=108	y=182	w=16	h=16
-minecraft:item/cherry_sign	x=126	y=182	w=16	h=16
-minecraft:item/chest_minecart	x=144	y=182	w=16	h=16
-minecraft:item/chicken	x=162	y=182	w=16	h=16
-minecraft:item/chicken_spawn_egg	x=180	y=182	w=16	h=16
-minecraft:item/chorus_fruit	x=198	y=182	w=16	h=16
-minecraft:item/clay_ball	x=216	y=182	w=16	h=16
-minecraft:item/clock_00	x=234	y=182	w=16	h=16
-minecraft:item/clock_01	x=0	y=200	w=16	h=16
-minecraft:item/clock_02	x=18	y=200	w=16	h=16
-minecraft:item/clock_03	x=36	y=200	w=16	h=16
-minecraft:item/clock_04	x=54	y=200	w=16	h=16
-minecraft:item/clock_05	x=72	y=200	w=16	h=16
-minecraft:item/clock_06	x=90	y=200	w=16	h=16
-minecraft:item/clock_07	x=108	y=200	w=16	h=16
-minecraft:item/clock_08	x=126	y=200	w=16	h=16
-minecraft:item/clock_09	x=144	y=200	w=16	h=16
-minecraft:item/clock_10	x=162	y=200	w=16	h=16
-minecraft:item/clock_11	x=180	y=200	w=16	h=16
-minecraft:item/clock_12	x=198	y=200	w=16	h=16
-minecraft:item/clock_13	x=216	y=200	w=16	h=16
-minecraft:item/clock_14	x=234	y=200	w=16	h=16
-minecraft:item/clock_15	x=0	y=218	w=16	h=16
-minecraft:item/clock_16	x=18	y=218	w=16	h=16
-minecraft:item/clock_17	x=36	y=218	w=16	h=16
-minecraft:item/clock_18	x=54	y=218	w=16	h=16
-minecraft:item/clock_19	x=72	y=218	w=16	h=16
-minecraft:item/clock_20	x=90	y=218	w=16	h=16
-minecraft:item/clock_21	x=108	y=218	w=16	h=16
-minecraft:item/clock_22	x=126	y=218	w=16	h=16
-minecraft:item/clock_23	x=144	y=218	w=16	h=16
-minecraft:item/clock_24	x=162	y=218	w=16	h=16
-minecraft:item/clock_25	x=180	y=218	w=16	h=16
-minecraft:item/clock_26	x=198	y=218	w=16	h=16
-minecraft:item/clock_27	x=216	y=218	w=16	h=16
-minecraft:item/clock_28	x=234	y=218	w=16	h=16
-minecraft:item/clock_29	x=0	y=236	w=16	h=16
-minecraft:item/clock_30	x=18	y=236	w=16	h=16
-minecraft:item/clock_31	x=36	y=236	w=16	h=16
-minecraft:item/clock_32	x=54	y=236	w=16	h=16
-minecraft:item/clock_33	x=72	y=236	w=16	h=16
-minecraft:item/clock_34	x=90	y=236	w=16	h=16
-minecraft:item/clock_35	x=108	y=236	w=16	h=16
-minecraft:item/clock_36	x=126	y=236	w=16	h=16
-minecraft:item/clock_37	x=144	y=236	w=16	h=16
-minecraft:item/clock_38	x=162	y=236	w=16	h=16
-minecraft:item/clock_39	x=180	y=236	w=16	h=16
-minecraft:item/clock_40	x=198	y=236	w=16	h=16
-minecraft:item/clock_41	x=216	y=236	w=16	h=16
-minecraft:item/clock_42	x=234	y=236	w=16	h=16
-minecraft:item/clock_43	x=256	y=0	w=16	h=16
-minecraft:item/clock_44	x=256	y=18	w=16	h=16
-minecraft:item/clock_45	x=256	y=36	w=16	h=16
-minecraft:item/clock_46	x=256	y=54	w=16	h=16
-minecraft:item/clock_47	x=256	y=72	w=16	h=16
-minecraft:item/clock_48	x=256	y=90	w=16	h=16
-minecraft:item/clock_49	x=256	y=108	w=16	h=16
-minecraft:item/clock_50	x=256	y=126	w=16	h=16
-minecraft:item/clock_51	x=256	y=144	w=16	h=16
-minecraft:item/clock_52	x=256	y=162	w=16	h=16
-minecraft:item/clock_53	x=256	y=180	w=16	h=16
-minecraft:item/clock_54	x=256	y=198	w=16	h=16
-minecraft:item/clock_55	x=256	y=216	w=16	h=16
-minecraft:item/clock_56	x=256	y=234	w=16	h=16
-minecraft:item/clock_57	x=274	y=0	w=16	h=16
-minecraft:item/clock_58	x=274	y=18	w=16	h=16
-minecraft:item/clock_59	x=274	y=36	w=16	h=16
-minecraft:item/clock_60	x=274	y=54	w=16	h=16
-minecraft:item/clock_61	x=274	y=72	w=16	h=16
-minecraft:item/clock_62	x=274	y=90	w=16	h=16
-minecraft:item/clock_63	x=274	y=108	w=16	h=16
-minecraft:item/coal	x=274	y=126	w=16	h=16
-minecraft:item/coast_armor_trim_smithing_template	x=274	y=144	w=16	h=16
-minecraft:item/cocoa_beans	x=274	y=162	w=16	h=16
-minecraft:item/cod	x=274	y=180	w=16	h=16
-minecraft:item/cod_bucket	x=274	y=198	w=16	h=16
-minecraft:item/cod_spawn_egg	x=274	y=216	w=16	h=16
-minecraft:item/command_block_minecart	x=274	y=234	w=16	h=16
-minecraft:item/comparator	x=292	y=0	w=16	h=16
-minecraft:item/compass_00	x=292	y=18	w=16	h=16
-minecraft:item/compass_01	x=292	y=36	w=16	h=16
-minecraft:item/compass_02	x=292	y=54	w=16	h=16
-minecraft:item/compass_03	x=292	y=72	w=16	h=16
-minecraft:item/compass_04	x=292	y=90	w=16	h=16
-minecraft:item/compass_05	x=292	y=108	w=16	h=16
-minecraft:item/compass_06	x=292	y=126	w=16	h=16
-minecraft:item/compass_07	x=292	y=144	w=16	h=16
-minecraft:item/compass_08	x=292	y=162	w=16	h=16
-minecraft:item/compass_09	x=292	y=180	w=16	h=16
-minecraft:item/compass_10	x=292	y=198	w=16	h=16
-minecraft:item/compass_11	x=292	y=216	w=16	h=16
-minecraft:item/compass_12	x=292	y=234	w=16	h=16
-minecraft:item/compass_13	x=310	y=0	w=16	h=16
-minecraft:item/compass_14	x=310	y=18	w=16	h=16
-minecraft:item/compass_15	x=310	y=36	w=16	h=16
-minecraft:item/compass_16	x=310	y=54	w=16	h=16
-minecraft:item/compass_17	x=310	y=72	w=16	h=16
-minecraft:item/compass_18	x=310	y=90	w=16	h=16
-minecraft:item/compass_19	x=310	y=108	w=16	h=16
-minecraft:item/compass_20	x=310	y=126	w=16	h=16
-minecraft:item/compass_21	x=310	y=144	w=16	h=16
-minecraft:item/compass_22	x=310	y=162	w=16	h=16
-minecraft:item/compass_23	x=310	y=180	w=16	h=16
-minecraft:item/compass_24	x=310	y=198	w=16	h=16
-minecraft:item/compass_25	x=310	y=216	w=16	h=16
-minecraft:item/compass_26	x=310	y=234	w=16	h=16
-minecraft:item/compass_27	x=328	y=0	w=16	h=16
-minecraft:item/compass_28	x=328	y=18	w=16	h=16
-minecraft:item/compass_29	x=328	y=36	w=16	h=16
-minecraft:item/compass_30	x=328	y=54	w=16	h=16
-minecraft:item/compass_31	x=328	y=72	w=16	h=16
-minecraft:item/cooked_beef	x=328	y=90	w=16	h=16
-minecraft:item/cooked_chicken	x=328	y=108	w=16	h=16
-minecraft:item/cooked_cod	x=328	y=126	w=16	h=16
-minecraft:item/cooked_mutton	x=328	y=144	w=16	h=16
-minecraft:item/cooked_porkchop	x=328	y=162	w=16	h=16
-minecraft:item/cooked_rabbit	x=328	y=180	w=16	h=16
-minecraft:item/cooked_salmon	x=328	y=198	w=16	h=16
-minecraft:item/cookie	x=328	y=216	w=16	h=16
-minecraft:item/copper_axe	x=328	y=234	w=16	h=16
-minecraft:item/copper_boots	x=346	y=0	w=16	h=16
-minecraft:item/copper_chain	x=346	y=18	w=16	h=16
-minecraft:item/copper_chestplate	x=346	y=36	w=16	h=16
-minecraft:item/copper_door	x=346	y=54	w=16	h=16
-minecraft:item/copper_golem_spawn_egg	x=346	y=72	w=16	h=16
-minecraft:item/copper_helmet	x=346	y=90	w=16	h=16
-minecraft:item/copper_hoe	x=346	y=108	w=16	h=16
-minecraft:item/copper_horse_armor	x=346	y=126	w=16	h=16
-minecraft:item/copper_ingot	x=346	y=144	w=16	h=16
-minecraft:item/copper_lantern	x=346	y=162	w=16	h=16
-minecraft:item/copper_leggings	x=346	y=180	w=16	h=16
-minecraft:item/copper_nautilus_armor	x=346	y=198	w=16	h=16
-minecraft:item/copper_nugget	x=346	y=216	w=16	h=16
-minecraft:item/copper_pickaxe	x=346	y=234	w=16	h=16
-minecraft:item/copper_shovel	x=364	y=0	w=16	h=16
-minecraft:item/copper_spear	x=364	y=18	w=16	h=16
-minecraft:item/copper_spear_in_hand	x=0	y=0	w=32	h=32
-minecraft:item/copper_sword	x=364	y=36	w=16	h=16
-minecraft:item/cow_spawn_egg	x=364	y=54	w=16	h=16
-minecraft:item/creaking_spawn_egg	x=364	y=72	w=16	h=16
-minecraft:item/creeper_banner_pattern	x=364	y=90	w=16	h=16
-minecraft:item/creeper_spawn_egg	x=364	y=108	w=16	h=16
-minecraft:item/crimson_door	x=364	y=126	w=16	h=16
-minecraft:item/crimson_hanging_sign	x=364	y=144	w=16	h=16
-minecraft:item/crimson_sign	x=364	y=162	w=16	h=16
-minecraft:item/crossbow_arrow	x=364	y=180	w=16	h=16
-minecraft:item/crossbow_firework	x=364	y=198	w=16	h=16
-minecraft:item/crossbow_pulling_0	x=364	y=216	w=16	h=16
-minecraft:item/crossbow_pulling_1	x=364	y=234	w=16	h=16
-minecraft:item/crossbow_pulling_2	x=382	y=0	w=16	h=16
-minecraft:item/crossbow_standby	x=382	y=18	w=16	h=16
-minecraft:item/cyan_bundle	x=382	y=36	w=16	h=16
-minecraft:item/cyan_bundle_open_back	x=382	y=54	w=16	h=16
-minecraft:item/cyan_bundle_open_front	x=382	y=72	w=16	h=16
-minecraft:item/cyan_candle	x=382	y=90	w=16	h=16
-minecraft:item/cyan_dye	x=382	y=108	w=16	h=16
-minecraft:item/cyan_harness	x=382	y=126	w=16	h=16
-minecraft:item/danger_pottery_sherd	x=382	y=144	w=16	h=16
-minecraft:item/dark_oak_boat	x=382	y=162	w=16	h=16
-minecraft:item/dark_oak_chest_boat	x=382	y=180	w=16	h=16
-minecraft:item/dark_oak_door	x=382	y=198	w=16	h=16
-minecraft:item/dark_oak_hanging_sign	x=382	y=216	w=16	h=16
-minecraft:item/dark_oak_sign	x=382	y=234	w=16	h=16
-minecraft:item/diamond	x=400	y=0	w=16	h=16
-minecraft:item/diamond_axe	x=400	y=18	w=16	h=16
-minecraft:item/diamond_boots	x=400	y=36	w=16	h=16
-minecraft:item/diamond_chestplate	x=400	y=54	w=16	h=16
-minecraft:item/diamond_helmet	x=400	y=72	w=16	h=16
-minecraft:item/diamond_hoe	x=400	y=90	w=16	h=16
-minecraft:item/diamond_horse_armor	x=400	y=108	w=16	h=16
-minecraft:item/diamond_leggings	x=400	y=126	w=16	h=16
-minecraft:item/diamond_nautilus_armor	x=400	y=144	w=16	h=16
-minecraft:item/diamond_pickaxe	x=400	y=162	w=16	h=16
-minecraft:item/diamond_shovel	x=400	y=180	w=16	h=16
-minecraft:item/diamond_spear	x=400	y=198	w=16	h=16
-minecraft:item/diamond_spear_in_hand	x=64	y=0	w=32	h=32
-minecraft:item/diamond_sword	x=400	y=216	w=16	h=16
-minecraft:item/disc_fragment_5	x=400	y=234	w=16	h=16
-minecraft:item/dolphin_spawn_egg	x=418	y=0	w=16	h=16
-minecraft:item/donkey_spawn_egg	x=418	y=18	w=16	h=16
-minecraft:item/dragon_breath	x=418	y=36	w=16	h=16
-minecraft:item/dried_kelp	x=418	y=54	w=16	h=16
-minecraft:item/drowned_spawn_egg	x=418	y=72	w=16	h=16
-minecraft:item/dune_armor_trim_smithing_template	x=418	y=90	w=16	h=16
-minecraft:item/echo_shard	x=418	y=108	w=16	h=16
-minecraft:item/egg	x=418	y=126	w=16	h=16
-minecraft:item/elder_guardian_spawn_egg	x=418	y=144	w=16	h=16
-minecraft:item/elytra	x=418	y=162	w=16	h=16
-minecraft:item/elytra_broken	x=418	y=180	w=16	h=16
-minecraft:item/emerald	x=418	y=198	w=16	h=16
-minecraft:item/enchanted_book	x=418	y=216	w=16	h=16
-minecraft:item/end_crystal	x=418	y=234	w=16	h=16
-minecraft:item/ender_dragon_spawn_egg	x=436	y=0	w=16	h=16
-minecraft:item/ender_eye	x=436	y=18	w=16	h=16
-minecraft:item/ender_pearl	x=436	y=36	w=16	h=16
-minecraft:item/enderman_spawn_egg	x=436	y=54	w=16	h=16
-minecraft:item/endermite_spawn_egg	x=436	y=72	w=16	h=16
-minecraft:item/evoker_spawn_egg	x=436	y=90	w=16	h=16
-minecraft:item/experience_bottle	x=436	y=108	w=16	h=16
-minecraft:item/explorer_pottery_sherd	x=436	y=126	w=16	h=16
-minecraft:item/exposed_copper_chain	x=436	y=144	w=16	h=16
-minecraft:item/exposed_copper_door	x=436	y=162	w=16	h=16
-minecraft:item/exposed_copper_lantern	x=436	y=180	w=16	h=16
-minecraft:item/eye_armor_trim_smithing_template	x=436	y=198	w=16	h=16
-minecraft:item/feather	x=436	y=216	w=16	h=16
-minecraft:item/fermented_spider_eye	x=436	y=234	w=16	h=16
-minecraft:item/field_masoned_banner_pattern	x=454	y=0	w=16	h=16
-minecraft:item/filled_map	x=454	y=18	w=16	h=16
-minecraft:item/filled_map_markings	x=454	y=36	w=16	h=16
-minecraft:item/fire_charge	x=454	y=54	w=16	h=16
-minecraft:item/firefly_bush	x=454	y=72	w=16	h=16
-minecraft:item/firework_rocket	x=454	y=90	w=16	h=16
-minecraft:item/firework_star	x=454	y=108	w=16	h=16
-minecraft:item/firework_star_overlay	x=454	y=126	w=16	h=16
-minecraft:item/fishing_rod	x=454	y=144	w=16	h=16
-minecraft:item/fishing_rod_cast	x=454	y=162	w=16	h=16
-minecraft:item/flint	x=454	y=180	w=16	h=16
-minecraft:item/flint_and_steel	x=454	y=198	w=16	h=16
-minecraft:item/flow_armor_trim_smithing_template	x=454	y=216	w=16	h=16
-minecraft:item/flow_banner_pattern	x=454	y=234	w=16	h=16
-minecraft:item/flow_pottery_sherd	x=472	y=0	w=16	h=16
-minecraft:item/flower_banner_pattern	x=472	y=18	w=16	h=16
-minecraft:item/flower_pot	x=472	y=36	w=16	h=16
-minecraft:item/fox_spawn_egg	x=472	y=54	w=16	h=16
-minecraft:item/friend_pottery_sherd	x=472	y=72	w=16	h=16
-minecraft:item/frog_spawn_egg	x=472	y=90	w=16	h=16
-minecraft:item/furnace_minecart	x=472	y=108	w=16	h=16
-minecraft:item/ghast_spawn_egg	x=472	y=126	w=16	h=16
-minecraft:item/ghast_tear	x=472	y=144	w=16	h=16
-minecraft:item/glass_bottle	x=472	y=162	w=16	h=16
-minecraft:item/glistering_melon_slice	x=472	y=180	w=16	h=16
-minecraft:item/globe_banner_pattern	x=472	y=198	w=16	h=16
-minecraft:item/glow_berries	x=472	y=216	w=16	h=16
-minecraft:item/glow_ink_sac	x=472	y=234	w=16	h=16
-minecraft:item/glow_item_frame	x=490	y=0	w=16	h=16
-minecraft:item/glow_squid_spawn_egg	x=490	y=18	w=16	h=16
-minecraft:item/glowstone_dust	x=490	y=36	w=16	h=16
-minecraft:item/goat_horn	x=490	y=54	w=16	h=16
-minecraft:item/goat_spawn_egg	x=490	y=72	w=16	h=16
-minecraft:item/gold_ingot	x=490	y=90	w=16	h=16
-minecraft:item/gold_nugget	x=490	y=108	w=16	h=16
-minecraft:item/golden_apple	x=490	y=126	w=16	h=16
-minecraft:item/golden_axe	x=490	y=144	w=16	h=16
-minecraft:item/golden_boots	x=490	y=162	w=16	h=16
-minecraft:item/golden_carrot	x=490	y=180	w=16	h=16
-minecraft:item/golden_chestplate	x=490	y=198	w=16	h=16
-minecraft:item/golden_helmet	x=490	y=216	w=16	h=16
-minecraft:item/golden_hoe	x=490	y=234	w=16	h=16
-minecraft:item/golden_horse_armor	x=0	y=256	w=16	h=16
-minecraft:item/golden_leggings	x=18	y=256	w=16	h=16
-minecraft:item/golden_nautilus_armor	x=36	y=256	w=16	h=16
-minecraft:item/golden_pickaxe	x=54	y=256	w=16	h=16
-minecraft:item/golden_shovel	x=72	y=256	w=16	h=16
-minecraft:item/golden_spear	x=90	y=256	w=16	h=16
-minecraft:item/golden_spear_in_hand	x=0	y=64	w=32	h=32
-minecraft:item/golden_sword	x=108	y=256	w=16	h=16
-minecraft:item/gray_bundle	x=126	y=256	w=16	h=16
-minecraft:item/gray_bundle_open_back	x=144	y=256	w=16	h=16
-minecraft:item/gray_bundle_open_front	x=162	y=256	w=16	h=16
-minecraft:item/gray_candle	x=180	y=256	w=16	h=16
-minecraft:item/gray_dye	x=198	y=256	w=16	h=16
-minecraft:item/gray_harness	x=216	y=256	w=16	h=16
-minecraft:item/green_bundle	x=234	y=256	w=16	h=16
-minecraft:item/green_bundle_open_back	x=252	y=256	w=16	h=16
-minecraft:item/green_bundle_open_front	x=270	y=256	w=16	h=16
-minecraft:item/green_candle	x=288	y=256	w=16	h=16
-minecraft:item/green_dye	x=306	y=256	w=16	h=16
-minecraft:item/green_harness	x=324	y=256	w=16	h=16
-minecraft:item/guardian_spawn_egg	x=342	y=256	w=16	h=16
-minecraft:item/gunpowder	x=360	y=256	w=16	h=16
-minecraft:item/guster_banner_pattern	x=378	y=256	w=16	h=16
-minecraft:item/guster_pottery_sherd	x=396	y=256	w=16	h=16
-minecraft:item/happy_ghast_spawn_egg	x=414	y=256	w=16	h=16
-minecraft:item/heart_of_the_sea	x=432	y=256	w=16	h=16
-minecraft:item/heart_pottery_sherd	x=450	y=256	w=16	h=16
-minecraft:item/heartbreak_pottery_sherd	x=468	y=256	w=16	h=16
-minecraft:item/hoglin_spawn_egg	x=486	y=256	w=16	h=16
-minecraft:item/honey_bottle	x=0	y=274	w=16	h=16
-minecraft:item/honeycomb	x=18	y=274	w=16	h=16
-minecraft:item/hopper	x=36	y=274	w=16	h=16
-minecraft:item/hopper_minecart	x=54	y=274	w=16	h=16
-minecraft:item/horse_spawn_egg	x=72	y=274	w=16	h=16
-minecraft:item/host_armor_trim_smithing_template	x=90	y=274	w=16	h=16
-minecraft:item/howl_pottery_sherd	x=108	y=274	w=16	h=16
-minecraft:item/husk_spawn_egg	x=126	y=274	w=16	h=16
-minecraft:item/ink_sac	x=144	y=274	w=16	h=16
-minecraft:item/iron_axe	x=162	y=274	w=16	h=16
-minecraft:item/iron_boots	x=180	y=274	w=16	h=16
-minecraft:item/iron_chain	x=198	y=274	w=16	h=16
-minecraft:item/iron_chestplate	x=216	y=274	w=16	h=16
-minecraft:item/iron_door	x=234	y=274	w=16	h=16
-minecraft:item/iron_golem_spawn_egg	x=252	y=274	w=16	h=16
-minecraft:item/iron_helmet	x=270	y=274	w=16	h=16
-minecraft:item/iron_hoe	x=288	y=274	w=16	h=16
-minecraft:item/iron_horse_armor	x=306	y=274	w=16	h=16
-minecraft:item/iron_ingot	x=324	y=274	w=16	h=16
-minecraft:item/iron_leggings	x=342	y=274	w=16	h=16
-minecraft:item/iron_nautilus_armor	x=360	y=274	w=16	h=16
-minecraft:item/iron_nugget	x=378	y=274	w=16	h=16
-minecraft:item/iron_pickaxe	x=396	y=274	w=16	h=16
-minecraft:item/iron_shovel	x=414	y=274	w=16	h=16
-minecraft:item/iron_spear	x=432	y=274	w=16	h=16
-minecraft:item/iron_spear_in_hand	x=34	y=64	w=32	h=32
-minecraft:item/iron_sword	x=450	y=274	w=16	h=16
-minecraft:item/item_frame	x=468	y=274	w=16	h=16
-minecraft:item/jungle_boat	x=486	y=274	w=16	h=16
-minecraft:item/jungle_chest_boat	x=0	y=292	w=16	h=16
-minecraft:item/jungle_door	x=18	y=292	w=16	h=16
-minecraft:item/jungle_hanging_sign	x=36	y=292	w=16	h=16
-minecraft:item/jungle_sign	x=54	y=292	w=16	h=16
-minecraft:item/kelp	x=72	y=292	w=16	h=16
-minecraft:item/knowledge_book	x=90	y=292	w=16	h=16
-minecraft:item/lantern	x=108	y=292	w=16	h=16
-minecraft:item/lapis_lazuli	x=126	y=292	w=16	h=16
-minecraft:item/lava_bucket	x=144	y=292	w=16	h=16
-minecraft:item/lead	x=162	y=292	w=16	h=16
-minecraft:item/leaf_litter	x=180	y=292	w=16	h=16
-minecraft:item/leather	x=198	y=292	w=16	h=16
-minecraft:item/leather_boots	x=216	y=292	w=16	h=16
-minecraft:item/leather_boots_overlay	x=234	y=292	w=16	h=16
-minecraft:item/leather_chestplate	x=252	y=292	w=16	h=16
-minecraft:item/leather_chestplate_overlay	x=270	y=292	w=16	h=16
-minecraft:item/leather_helmet	x=288	y=292	w=16	h=16
-minecraft:item/leather_helmet_overlay	x=306	y=292	w=16	h=16
-minecraft:item/leather_horse_armor	x=324	y=292	w=16	h=16
-minecraft:item/leather_horse_armor_overlay	x=342	y=292	w=16	h=16
-minecraft:item/leather_leggings	x=360	y=292	w=16	h=16
-minecraft:item/leather_leggings_overlay	x=378	y=292	w=16	h=16
-minecraft:item/light	x=396	y=292	w=16	h=16
-minecraft:item/light_00	x=414	y=292	w=16	h=16
-minecraft:item/light_01	x=432	y=292	w=16	h=16
-minecraft:item/light_02	x=450	y=292	w=16	h=16
-minecraft:item/light_03	x=468	y=292	w=16	h=16
-minecraft:item/light_04	x=486	y=292	w=16	h=16
-minecraft:item/light_05	x=0	y=310	w=16	h=16
-minecraft:item/light_06	x=18	y=310	w=16	h=16
-minecraft:item/light_07	x=36	y=310	w=16	h=16
-minecraft:item/light_08	x=54	y=310	w=16	h=16
-minecraft:item/light_09	x=72	y=310	w=16	h=16
-minecraft:item/light_10	x=90	y=310	w=16	h=16
-minecraft:item/light_11	x=108	y=310	w=16	h=16
-minecraft:item/light_12	x=126	y=310	w=16	h=16
-minecraft:item/light_13	x=144	y=310	w=16	h=16
-minecraft:item/light_14	x=162	y=310	w=16	h=16
-minecraft:item/light_15	x=180	y=310	w=16	h=16
-minecraft:item/light_blue_bundle	x=198	y=310	w=16	h=16
-minecraft:item/light_blue_bundle_open_back	x=216	y=310	w=16	h=16
-minecraft:item/light_blue_bundle_open_front	x=234	y=310	w=16	h=16
-minecraft:item/light_blue_candle	x=252	y=310	w=16	h=16
-minecraft:item/light_blue_dye	x=270	y=310	w=16	h=16
-minecraft:item/light_blue_harness	x=288	y=310	w=16	h=16
-minecraft:item/light_gray_bundle	x=306	y=310	w=16	h=16
-minecraft:item/light_gray_bundle_open_back	x=324	y=310	w=16	h=16
-minecraft:item/light_gray_bundle_open_front	x=342	y=310	w=16	h=16
-minecraft:item/light_gray_candle	x=360	y=310	w=16	h=16
-minecraft:item/light_gray_dye	x=378	y=310	w=16	h=16
-minecraft:item/light_gray_harness	x=396	y=310	w=16	h=16
-minecraft:item/lime_bundle	x=414	y=310	w=16	h=16
-minecraft:item/lime_bundle_open_back	x=432	y=310	w=16	h=16
-minecraft:item/lime_bundle_open_front	x=450	y=310	w=16	h=16
-minecraft:item/lime_candle	x=468	y=310	w=16	h=16
-minecraft:item/lime_dye	x=486	y=310	w=16	h=16
-minecraft:item/lime_harness	x=0	y=328	w=16	h=16
-minecraft:item/lingering_potion	x=18	y=328	w=16	h=16
-minecraft:item/llama_spawn_egg	x=36	y=328	w=16	h=16
-minecraft:item/mace	x=54	y=328	w=16	h=16
-minecraft:item/magenta_bundle	x=72	y=328	w=16	h=16
-minecraft:item/magenta_bundle_open_back	x=90	y=328	w=16	h=16
-minecraft:item/magenta_bundle_open_front	x=108	y=328	w=16	h=16
-minecraft:item/magenta_candle	x=126	y=328	w=16	h=16
-minecraft:item/magenta_dye	x=144	y=328	w=16	h=16
-minecraft:item/magenta_harness	x=162	y=328	w=16	h=16
-minecraft:item/magma_cream	x=180	y=328	w=16	h=16
-minecraft:item/magma_cube_spawn_egg	x=198	y=328	w=16	h=16
-minecraft:item/mangrove_boat	x=216	y=328	w=16	h=16
-minecraft:item/mangrove_chest_boat	x=234	y=328	w=16	h=16
-minecraft:item/mangrove_door	x=252	y=328	w=16	h=16
-minecraft:item/mangrove_hanging_sign	x=270	y=328	w=16	h=16
-minecraft:item/mangrove_propagule	x=288	y=328	w=16	h=16
-minecraft:item/mangrove_sign	x=306	y=328	w=16	h=16
-minecraft:item/map	x=324	y=328	w=16	h=16
-minecraft:item/melon_seeds	x=342	y=328	w=16	h=16
-minecraft:item/melon_slice	x=360	y=328	w=16	h=16
-minecraft:item/milk_bucket	x=378	y=328	w=16	h=16
-minecraft:item/minecart	x=396	y=328	w=16	h=16
-minecraft:item/miner_pottery_sherd	x=414	y=328	w=16	h=16
-minecraft:item/mojang_banner_pattern	x=432	y=328	w=16	h=16
-minecraft:item/mooshroom_spawn_egg	x=450	y=328	w=16	h=16
-minecraft:item/mourner_pottery_sherd	x=468	y=328	w=16	h=16
-minecraft:item/mule_spawn_egg	x=486	y=328	w=16	h=16
-minecraft:item/mushroom_stew	x=0	y=346	w=16	h=16
-minecraft:item/music_disc_11	x=18	y=346	w=16	h=16
-minecraft:item/music_disc_13	x=36	y=346	w=16	h=16
-minecraft:item/music_disc_5	x=54	y=346	w=16	h=16
-minecraft:item/music_disc_blocks	x=72	y=346	w=16	h=16
-minecraft:item/music_disc_cat	x=90	y=346	w=16	h=16
-minecraft:item/music_disc_chirp	x=108	y=346	w=16	h=16
-minecraft:item/music_disc_creator	x=126	y=346	w=16	h=16
-minecraft:item/music_disc_creator_music_box	x=144	y=346	w=16	h=16
-minecraft:item/music_disc_far	x=162	y=346	w=16	h=16
-minecraft:item/music_disc_lava_chicken	x=180	y=346	w=16	h=16
-minecraft:item/music_disc_mall	x=198	y=346	w=16	h=16
-minecraft:item/music_disc_mellohi	x=216	y=346	w=16	h=16
-minecraft:item/music_disc_otherside	x=234	y=346	w=16	h=16
-minecraft:item/music_disc_pigstep	x=252	y=346	w=16	h=16
-minecraft:item/music_disc_precipice	x=270	y=346	w=16	h=16
-minecraft:item/music_disc_relic	x=288	y=346	w=16	h=16
-minecraft:item/music_disc_stal	x=306	y=346	w=16	h=16
-minecraft:item/music_disc_strad	x=324	y=346	w=16	h=16
-minecraft:item/music_disc_tears	x=342	y=346	w=16	h=16
-minecraft:item/music_disc_wait	x=360	y=346	w=16	h=16
-minecraft:item/music_disc_ward	x=378	y=346	w=16	h=16
-minecraft:item/mutton	x=396	y=346	w=16	h=16
-minecraft:item/name_tag	x=414	y=346	w=16	h=16
-minecraft:item/nautilus_shell	x=432	y=346	w=16	h=16
-minecraft:item/nautilus_spawn_egg	x=450	y=346	w=16	h=16
-minecraft:item/nether_brick	x=468	y=346	w=16	h=16
-minecraft:item/nether_sprouts	x=486	y=346	w=16	h=16
-minecraft:item/nether_star	x=0	y=364	w=16	h=16
-minecraft:item/nether_wart	x=18	y=364	w=16	h=16
-minecraft:item/netherite_axe	x=36	y=364	w=16	h=16
-minecraft:item/netherite_boots	x=54	y=364	w=16	h=16
-minecraft:item/netherite_chestplate	x=72	y=364	w=16	h=16
-minecraft:item/netherite_helmet	x=90	y=364	w=16	h=16
-minecraft:item/netherite_hoe	x=108	y=364	w=16	h=16
-minecraft:item/netherite_horse_armor	x=126	y=364	w=16	h=16
-minecraft:item/netherite_ingot	x=144	y=364	w=16	h=16
-minecraft:item/netherite_leggings	x=162	y=364	w=16	h=16
-minecraft:item/netherite_nautilus_armor	x=180	y=364	w=16	h=16
-minecraft:item/netherite_pickaxe	x=198	y=364	w=16	h=16
-minecraft:item/netherite_scrap	x=216	y=364	w=16	h=16
-minecraft:item/netherite_shovel	x=234	y=364	w=16	h=16
-minecraft:item/netherite_spear	x=252	y=364	w=16	h=16
-minecraft:item/netherite_spear_in_hand	x=68	y=64	w=32	h=32
-minecraft:item/netherite_sword	x=270	y=364	w=16	h=16
-minecraft:item/netherite_upgrade_smithing_template	x=288	y=364	w=16	h=16
-minecraft:item/oak_boat	x=306	y=364	w=16	h=16
-minecraft:item/oak_chest_boat	x=324	y=364	w=16	h=16
-minecraft:item/oak_door	x=342	y=364	w=16	h=16
-minecraft:item/oak_hanging_sign	x=360	y=364	w=16	h=16
-minecraft:item/oak_sign	x=378	y=364	w=16	h=16
-minecraft:item/ocelot_spawn_egg	x=396	y=364	w=16	h=16
-minecraft:item/ominous_bottle	x=414	y=364	w=16	h=16
-minecraft:item/ominous_trial_key	x=432	y=364	w=16	h=16
-minecraft:item/orange_bundle	x=450	y=364	w=16	h=16
-minecraft:item/orange_bundle_open_back	x=468	y=364	w=16	h=16
-minecraft:item/orange_bundle_open_front	x=486	y=364	w=16	h=16
-minecraft:item/orange_candle	x=0	y=382	w=16	h=16
-minecraft:item/orange_dye	x=18	y=382	w=16	h=16
-minecraft:item/orange_harness	x=36	y=382	w=16	h=16
-minecraft:item/oxidized_copper_chain	x=54	y=382	w=16	h=16
-minecraft:item/oxidized_copper_door	x=72	y=382	w=16	h=16
-minecraft:item/oxidized_copper_lantern	x=90	y=382	w=16	h=16
-minecraft:item/painting	x=108	y=382	w=16	h=16
-minecraft:item/pale_oak_boat	x=126	y=382	w=16	h=16
-minecraft:item/pale_oak_chest_boat	x=144	y=382	w=16	h=16
-minecraft:item/pale_oak_door	x=162	y=382	w=16	h=16
-minecraft:item/pale_oak_hanging_sign	x=180	y=382	w=16	h=16
-minecraft:item/pale_oak_sign	x=198	y=382	w=16	h=16
-minecraft:item/panda_spawn_egg	x=216	y=382	w=16	h=16
-minecraft:item/paper	x=234	y=382	w=16	h=16
-minecraft:item/parched_spawn_egg	x=252	y=382	w=16	h=16
-minecraft:item/parrot_spawn_egg	x=270	y=382	w=16	h=16
-minecraft:item/phantom_membrane	x=288	y=382	w=16	h=16
-minecraft:item/phantom_spawn_egg	x=306	y=382	w=16	h=16
-minecraft:item/pig_spawn_egg	x=324	y=382	w=16	h=16
-minecraft:item/piglin_banner_pattern	x=342	y=382	w=16	h=16
-minecraft:item/piglin_brute_spawn_egg	x=360	y=382	w=16	h=16
-minecraft:item/piglin_spawn_egg	x=378	y=382	w=16	h=16
-minecraft:item/pillager_spawn_egg	x=396	y=382	w=16	h=16
-minecraft:item/pink_bundle	x=414	y=382	w=16	h=16
-minecraft:item/pink_bundle_open_back	x=432	y=382	w=16	h=16
-minecraft:item/pink_bundle_open_front	x=450	y=382	w=16	h=16
-minecraft:item/pink_candle	x=468	y=382	w=16	h=16
-minecraft:item/pink_dye	x=486	y=382	w=16	h=16
-minecraft:item/pink_harness	x=0	y=400	w=16	h=16
-minecraft:item/pink_petals	x=18	y=400	w=16	h=16
-minecraft:item/pitcher_plant	x=36	y=400	w=16	h=16
-minecraft:item/pitcher_pod	x=54	y=400	w=16	h=16
-minecraft:item/plenty_pottery_sherd	x=72	y=400	w=16	h=16
-minecraft:item/pointed_dripstone	x=90	y=400	w=16	h=16
-minecraft:item/poisonous_potato	x=108	y=400	w=16	h=16
-minecraft:item/polar_bear_spawn_egg	x=126	y=400	w=16	h=16
-minecraft:item/popped_chorus_fruit	x=144	y=400	w=16	h=16
-minecraft:item/porkchop	x=162	y=400	w=16	h=16
-minecraft:item/potato	x=180	y=400	w=16	h=16
-minecraft:item/potion	x=198	y=400	w=16	h=16
-minecraft:item/potion_overlay	x=216	y=400	w=16	h=16
-minecraft:item/powder_snow_bucket	x=234	y=400	w=16	h=16
-minecraft:item/prismarine_crystals	x=252	y=400	w=16	h=16
-minecraft:item/prismarine_shard	x=270	y=400	w=16	h=16
-minecraft:item/prize_pottery_sherd	x=288	y=400	w=16	h=16
-minecraft:item/pufferfish	x=306	y=400	w=16	h=16
-minecraft:item/pufferfish_bucket	x=324	y=400	w=16	h=16
-minecraft:item/pufferfish_spawn_egg	x=342	y=400	w=16	h=16
-minecraft:item/pumpkin_pie	x=360	y=400	w=16	h=16
-minecraft:item/pumpkin_seeds	x=378	y=400	w=16	h=16
-minecraft:item/purple_bundle	x=396	y=400	w=16	h=16
-minecraft:item/purple_bundle_open_back	x=414	y=400	w=16	h=16
-minecraft:item/purple_bundle_open_front	x=432	y=400	w=16	h=16
-minecraft:item/purple_candle	x=450	y=400	w=16	h=16
-minecraft:item/purple_dye	x=468	y=400	w=16	h=16
-minecraft:item/purple_harness	x=486	y=400	w=16	h=16
-minecraft:item/quartz	x=0	y=418	w=16	h=16
-minecraft:item/rabbit	x=18	y=418	w=16	h=16
-minecraft:item/rabbit_foot	x=36	y=418	w=16	h=16
-minecraft:item/rabbit_hide	x=54	y=418	w=16	h=16
-minecraft:item/rabbit_spawn_egg	x=72	y=418	w=16	h=16
-minecraft:item/rabbit_stew	x=90	y=418	w=16	h=16
-minecraft:item/raiser_armor_trim_smithing_template	x=108	y=418	w=16	h=16
-minecraft:item/ravager_spawn_egg	x=126	y=418	w=16	h=16
-minecraft:item/raw_copper	x=144	y=418	w=16	h=16
-minecraft:item/raw_gold	x=162	y=418	w=16	h=16
-minecraft:item/raw_iron	x=180	y=418	w=16	h=16
-minecraft:item/recovery_compass_00	x=198	y=418	w=16	h=16
-minecraft:item/recovery_compass_01	x=216	y=418	w=16	h=16
-minecraft:item/recovery_compass_02	x=234	y=418	w=16	h=16
-minecraft:item/recovery_compass_03	x=252	y=418	w=16	h=16
-minecraft:item/recovery_compass_04	x=270	y=418	w=16	h=16
-minecraft:item/recovery_compass_05	x=288	y=418	w=16	h=16
-minecraft:item/recovery_compass_06	x=306	y=418	w=16	h=16
-minecraft:item/recovery_compass_07	x=324	y=418	w=16	h=16
-minecraft:item/recovery_compass_08	x=342	y=418	w=16	h=16
-minecraft:item/recovery_compass_09	x=360	y=418	w=16	h=16
-minecraft:item/recovery_compass_10	x=378	y=418	w=16	h=16
-minecraft:item/recovery_compass_11	x=396	y=418	w=16	h=16
-minecraft:item/recovery_compass_12	x=414	y=418	w=16	h=16
-minecraft:item/recovery_compass_13	x=432	y=418	w=16	h=16
-minecraft:item/recovery_compass_14	x=450	y=418	w=16	h=16
-minecraft:item/recovery_compass_15	x=468	y=418	w=16	h=16
-minecraft:item/recovery_compass_16	x=486	y=418	w=16	h=16
-minecraft:item/recovery_compass_17	x=0	y=436	w=16	h=16
-minecraft:item/recovery_compass_18	x=18	y=436	w=16	h=16
-minecraft:item/recovery_compass_19	x=36	y=436	w=16	h=16
-minecraft:item/recovery_compass_20	x=54	y=436	w=16	h=16
-minecraft:item/recovery_compass_21	x=72	y=436	w=16	h=16
-minecraft:item/recovery_compass_22	x=90	y=436	w=16	h=16
-minecraft:item/recovery_compass_23	x=108	y=436	w=16	h=16
-minecraft:item/recovery_compass_24	x=126	y=436	w=16	h=16
-minecraft:item/recovery_compass_25	x=144	y=436	w=16	h=16
-minecraft:item/recovery_compass_26	x=162	y=436	w=16	h=16
-minecraft:item/recovery_compass_27	x=180	y=436	w=16	h=16
-minecraft:item/recovery_compass_28	x=198	y=436	w=16	h=16
-minecraft:item/recovery_compass_29	x=216	y=436	w=16	h=16
-minecraft:item/recovery_compass_30	x=234	y=436	w=16	h=16
-minecraft:item/recovery_compass_31	x=252	y=436	w=16	h=16
-minecraft:item/red_bundle	x=270	y=436	w=16	h=16
-minecraft:item/red_bundle_open_back	x=288	y=436	w=16	h=16
-minecraft:item/red_bundle_open_front	x=306	y=436	w=16	h=16
-minecraft:item/red_candle	x=324	y=436	w=16	h=16
-minecraft:item/red_dye	x=342	y=436	w=16	h=16
-minecraft:item/red_harness	x=360	y=436	w=16	h=16
-minecraft:item/redstone	x=378	y=436	w=16	h=16
-minecraft:item/repeater	x=396	y=436	w=16	h=16
-minecraft:item/resin_brick	x=414	y=436	w=16	h=16
-minecraft:item/resin_clump	x=432	y=436	w=16	h=16
-minecraft:item/rib_armor_trim_smithing_template	x=450	y=436	w=16	h=16
-minecraft:item/rotten_flesh	x=468	y=436	w=16	h=16
-minecraft:item/saddle	x=486	y=436	w=16	h=16
-minecraft:item/salmon	x=0	y=454	w=16	h=16
-minecraft:item/salmon_bucket	x=18	y=454	w=16	h=16
-minecraft:item/salmon_spawn_egg	x=36	y=454	w=16	h=16
-minecraft:item/scrape_pottery_sherd	x=54	y=454	w=16	h=16
-minecraft:item/sea_pickle	x=72	y=454	w=16	h=16
-minecraft:item/seagrass	x=90	y=454	w=16	h=16
-minecraft:item/sentry_armor_trim_smithing_template	x=108	y=454	w=16	h=16
-minecraft:item/shaper_armor_trim_smithing_template	x=126	y=454	w=16	h=16
-minecraft:item/sheaf_pottery_sherd	x=144	y=454	w=16	h=16
-minecraft:item/shears	x=162	y=454	w=16	h=16
-minecraft:item/sheep_spawn_egg	x=180	y=454	w=16	h=16
-minecraft:item/shelter_pottery_sherd	x=198	y=454	w=16	h=16
-minecraft:item/shulker_shell	x=216	y=454	w=16	h=16
-minecraft:item/shulker_spawn_egg	x=234	y=454	w=16	h=16
-minecraft:item/silence_armor_trim_smithing_template	x=252	y=454	w=16	h=16
-minecraft:item/silverfish_spawn_egg	x=270	y=454	w=16	h=16
-minecraft:item/skeleton_horse_spawn_egg	x=288	y=454	w=16	h=16
-minecraft:item/skeleton_spawn_egg	x=306	y=454	w=16	h=16
-minecraft:item/skull_banner_pattern	x=324	y=454	w=16	h=16
-minecraft:item/skull_pottery_sherd	x=342	y=454	w=16	h=16
-minecraft:item/slime_ball	x=360	y=454	w=16	h=16
-minecraft:item/slime_spawn_egg	x=378	y=454	w=16	h=16
-minecraft:item/sniffer_egg	x=396	y=454	w=16	h=16
-minecraft:item/sniffer_spawn_egg	x=414	y=454	w=16	h=16
-minecraft:item/snort_pottery_sherd	x=432	y=454	w=16	h=16
-minecraft:item/snout_armor_trim_smithing_template	x=450	y=454	w=16	h=16
-minecraft:item/snow_golem_spawn_egg	x=468	y=454	w=16	h=16
-minecraft:item/snowball	x=486	y=454	w=16	h=16
-minecraft:item/soul_campfire	x=0	y=472	w=16	h=16
-minecraft:item/soul_lantern	x=18	y=472	w=16	h=16
-minecraft:item/spectral_arrow	x=36	y=472	w=16	h=16
-minecraft:item/spider_eye	x=54	y=472	w=16	h=16
-minecraft:item/spider_spawn_egg	x=72	y=472	w=16	h=16
-minecraft:item/spire_armor_trim_smithing_template	x=90	y=472	w=16	h=16
-minecraft:item/splash_potion	x=108	y=472	w=16	h=16
-minecraft:item/spruce_boat	x=126	y=472	w=16	h=16
-minecraft:item/spruce_chest_boat	x=144	y=472	w=16	h=16
-minecraft:item/spruce_door	x=162	y=472	w=16	h=16
-minecraft:item/spruce_hanging_sign	x=180	y=472	w=16	h=16
-minecraft:item/spruce_sign	x=198	y=472	w=16	h=16
-minecraft:item/spyglass	x=216	y=472	w=16	h=16
-minecraft:item/spyglass_model	x=234	y=472	w=16	h=16
-minecraft:item/squid_spawn_egg	x=252	y=472	w=16	h=16
-minecraft:item/stick	x=270	y=472	w=16	h=16
-minecraft:item/stone_axe	x=288	y=472	w=16	h=16
-minecraft:item/stone_hoe	x=306	y=472	w=16	h=16
-minecraft:item/stone_pickaxe	x=324	y=472	w=16	h=16
-minecraft:item/stone_shovel	x=342	y=472	w=16	h=16
-minecraft:item/stone_spear	x=360	y=472	w=16	h=16
-minecraft:item/stone_spear_in_hand	x=128	y=0	w=32	h=32
-minecraft:item/stone_sword	x=378	y=472	w=16	h=16
-minecraft:item/stray_spawn_egg	x=396	y=472	w=16	h=16
-minecraft:item/strider_spawn_egg	x=414	y=472	w=16	h=16
-minecraft:item/string	x=432	y=472	w=16	h=16
-minecraft:item/structure_void	x=450	y=472	w=16	h=16
-minecraft:item/sugar	x=468	y=472	w=16	h=16
-minecraft:item/sugar_cane	x=486	y=472	w=16	h=16
-minecraft:item/suspicious_stew	x=0	y=490	w=16	h=16
-minecraft:item/sweet_berries	x=18	y=490	w=16	h=16
-minecraft:item/tadpole_bucket	x=36	y=490	w=16	h=16
-minecraft:item/tadpole_spawn_egg	x=54	y=490	w=16	h=16
-minecraft:item/tide_armor_trim_smithing_template	x=72	y=490	w=16	h=16
-minecraft:item/tipped_arrow_base	x=90	y=490	w=16	h=16
-minecraft:item/tipped_arrow_head	x=108	y=490	w=16	h=16
-minecraft:item/tnt_minecart	x=126	y=490	w=16	h=16
-minecraft:item/torchflower_seeds	x=144	y=490	w=16	h=16
-minecraft:item/totem_of_undying	x=162	y=490	w=16	h=16
-minecraft:item/trader_llama_spawn_egg	x=180	y=490	w=16	h=16
-minecraft:item/trial_key	x=198	y=490	w=16	h=16
-minecraft:item/trident	x=216	y=490	w=16	h=16
-minecraft:item/tropical_fish	x=234	y=490	w=16	h=16
-minecraft:item/tropical_fish_bucket	x=252	y=490	w=16	h=16
-minecraft:item/tropical_fish_spawn_egg	x=270	y=490	w=16	h=16
-minecraft:item/turtle_egg	x=288	y=490	w=16	h=16
-minecraft:item/turtle_helmet	x=306	y=490	w=16	h=16
-minecraft:item/turtle_scute	x=324	y=490	w=16	h=16
-minecraft:item/turtle_spawn_egg	x=342	y=490	w=16	h=16
-minecraft:item/vex_armor_trim_smithing_template	x=360	y=490	w=16	h=16
-minecraft:item/vex_spawn_egg	x=378	y=490	w=16	h=16
-minecraft:item/villager_spawn_egg	x=396	y=490	w=16	h=16
-minecraft:item/vindicator_spawn_egg	x=414	y=490	w=16	h=16
-minecraft:item/wandering_trader_spawn_egg	x=432	y=490	w=16	h=16
-minecraft:item/ward_armor_trim_smithing_template	x=450	y=490	w=16	h=16
-minecraft:item/warden_spawn_egg	x=468	y=490	w=16	h=16
-minecraft:item/warped_door	x=486	y=490	w=16	h=16
-minecraft:item/warped_fungus_on_a_stick	x=512	y=0	w=16	h=16
-minecraft:item/warped_hanging_sign	x=512	y=18	w=16	h=16
-minecraft:item/warped_sign	x=512	y=36	w=16	h=16
-minecraft:item/water_bucket	x=512	y=54	w=16	h=16
-minecraft:item/wayfinder_armor_trim_smithing_template	x=512	y=72	w=16	h=16
-minecraft:item/weathered_copper_chain	x=512	y=90	w=16	h=16
-minecraft:item/weathered_copper_door	x=512	y=108	w=16	h=16
-minecraft:item/weathered_copper_lantern	x=512	y=126	w=16	h=16
-minecraft:item/wheat	x=512	y=144	w=16	h=16
-minecraft:item/wheat_seeds	x=512	y=162	w=16	h=16
-minecraft:item/white_bundle	x=512	y=180	w=16	h=16
-minecraft:item/white_bundle_open_back	x=512	y=198	w=16	h=16
-minecraft:item/white_bundle_open_front	x=512	y=216	w=16	h=16
-minecraft:item/white_candle	x=512	y=234	w=16	h=16
-minecraft:item/white_dye	x=512	y=252	w=16	h=16
-minecraft:item/white_harness	x=512	y=270	w=16	h=16
-minecraft:item/wild_armor_trim_smithing_template	x=512	y=288	w=16	h=16
-minecraft:item/wildflowers	x=512	y=306	w=16	h=16
-minecraft:item/wind_charge	x=512	y=324	w=16	h=16
-minecraft:item/witch_spawn_egg	x=512	y=342	w=16	h=16
-minecraft:item/wither_skeleton_spawn_egg	x=512	y=360	w=16	h=16
-minecraft:item/wither_spawn_egg	x=512	y=378	w=16	h=16
-minecraft:item/wolf_armor	x=512	y=396	w=16	h=16
-minecraft:item/wolf_armor_overlay	x=512	y=414	w=16	h=16
-minecraft:item/wolf_spawn_egg	x=512	y=432	w=16	h=16
-minecraft:item/wooden_axe	x=512	y=450	w=16	h=16
-minecraft:item/wooden_hoe	x=512	y=468	w=16	h=16
-minecraft:item/wooden_pickaxe	x=512	y=486	w=16	h=16
-minecraft:item/wooden_shovel	x=530	y=0	w=16	h=16
-minecraft:item/wooden_spear	x=530	y=18	w=16	h=16
-minecraft:item/wooden_spear_in_hand	x=128	y=34	w=32	h=32
-minecraft:item/wooden_sword	x=530	y=36	w=16	h=16
-minecraft:item/writable_book	x=530	y=54	w=16	h=16
-minecraft:item/written_book	x=530	y=72	w=16	h=16
-minecraft:item/yellow_bundle	x=530	y=90	w=16	h=16
-minecraft:item/yellow_bundle_open_back	x=530	y=108	w=16	h=16
-minecraft:item/yellow_bundle_open_front	x=530	y=126	w=16	h=16
-minecraft:item/yellow_candle	x=530	y=144	w=16	h=16
-minecraft:item/yellow_dye	x=530	y=162	w=16	h=16
-minecraft:item/yellow_harness	x=530	y=180	w=16	h=16
-minecraft:item/zoglin_spawn_egg	x=530	y=198	w=16	h=16
-minecraft:item/zombie_horse_spawn_egg	x=530	y=216	w=16	h=16
-minecraft:item/zombie_nautilus_spawn_egg	x=530	y=234	w=16	h=16
-minecraft:item/zombie_spawn_egg	x=530	y=252	w=16	h=16
-minecraft:item/zombie_villager_spawn_egg	x=530	y=270	w=16	h=16
-minecraft:item/zombified_piglin_spawn_egg	x=530	y=288	w=16	h=16
-minecraft:missingno	x=530	y=306	w=16	h=16
-minecraft:trims/items/boots_trim_amethyst	x=530	y=324	w=16	h=16
-minecraft:trims/items/boots_trim_copper	x=530	y=342	w=16	h=16
-minecraft:trims/items/boots_trim_copper_darker	x=530	y=360	w=16	h=16
-minecraft:trims/items/boots_trim_diamond	x=530	y=378	w=16	h=16
-minecraft:trims/items/boots_trim_diamond_darker	x=530	y=396	w=16	h=16
-minecraft:trims/items/boots_trim_emerald	x=530	y=414	w=16	h=16
-minecraft:trims/items/boots_trim_gold	x=530	y=432	w=16	h=16
-minecraft:trims/items/boots_trim_gold_darker	x=530	y=450	w=16	h=16
-minecraft:trims/items/boots_trim_iron	x=530	y=468	w=16	h=16
-minecraft:trims/items/boots_trim_iron_darker	x=530	y=486	w=16	h=16
-minecraft:trims/items/boots_trim_lapis	x=548	y=0	w=16	h=16
-minecraft:trims/items/boots_trim_netherite	x=548	y=18	w=16	h=16
-minecraft:trims/items/boots_trim_netherite_darker	x=548	y=36	w=16	h=16
-minecraft:trims/items/boots_trim_quartz	x=548	y=54	w=16	h=16
-minecraft:trims/items/boots_trim_redstone	x=548	y=72	w=16	h=16
-minecraft:trims/items/boots_trim_resin	x=548	y=90	w=16	h=16
-minecraft:trims/items/chestplate_trim_amethyst	x=548	y=108	w=16	h=16
-minecraft:trims/items/chestplate_trim_copper	x=548	y=126	w=16	h=16
-minecraft:trims/items/chestplate_trim_copper_darker	x=548	y=144	w=16	h=16
-minecraft:trims/items/chestplate_trim_diamond	x=548	y=162	w=16	h=16
-minecraft:trims/items/chestplate_trim_diamond_darker	x=548	y=180	w=16	h=16
-minecraft:trims/items/chestplate_trim_emerald	x=548	y=198	w=16	h=16
-minecraft:trims/items/chestplate_trim_gold	x=548	y=216	w=16	h=16
-minecraft:trims/items/chestplate_trim_gold_darker	x=548	y=234	w=16	h=16
-minecraft:trims/items/chestplate_trim_iron	x=548	y=252	w=16	h=16
-minecraft:trims/items/chestplate_trim_iron_darker	x=548	y=270	w=16	h=16
-minecraft:trims/items/chestplate_trim_lapis	x=548	y=288	w=16	h=16
-minecraft:trims/items/chestplate_trim_netherite	x=548	y=306	w=16	h=16
-minecraft:trims/items/chestplate_trim_netherite_darker	x=548	y=324	w=16	h=16
-minecraft:trims/items/chestplate_trim_quartz	x=548	y=342	w=16	h=16
-minecraft:trims/items/chestplate_trim_redstone	x=548	y=360	w=16	h=16
-minecraft:trims/items/chestplate_trim_resin	x=548	y=378	w=16	h=16
-minecraft:trims/items/helmet_trim_amethyst	x=548	y=396	w=16	h=16
-minecraft:trims/items/helmet_trim_copper	x=548	y=414	w=16	h=16
-minecraft:trims/items/helmet_trim_copper_darker	x=548	y=432	w=16	h=16
-minecraft:trims/items/helmet_trim_diamond	x=548	y=450	w=16	h=16
-minecraft:trims/items/helmet_trim_diamond_darker	x=548	y=468	w=16	h=16
-minecraft:trims/items/helmet_trim_emerald	x=548	y=486	w=16	h=16
-minecraft:trims/items/helmet_trim_gold	x=566	y=0	w=16	h=16
-minecraft:trims/items/helmet_trim_gold_darker	x=566	y=18	w=16	h=16
-minecraft:trims/items/helmet_trim_iron	x=566	y=36	w=16	h=16
-minecraft:trims/items/helmet_trim_iron_darker	x=566	y=54	w=16	h=16
-minecraft:trims/items/helmet_trim_lapis	x=566	y=72	w=16	h=16
-minecraft:trims/items/helmet_trim_netherite	x=566	y=90	w=16	h=16
-minecraft:trims/items/helmet_trim_netherite_darker	x=566	y=108	w=16	h=16
-minecraft:trims/items/helmet_trim_quartz	x=566	y=126	w=16	h=16
-minecraft:trims/items/helmet_trim_redstone	x=566	y=144	w=16	h=16
-minecraft:trims/items/helmet_trim_resin	x=566	y=162	w=16	h=16
-minecraft:trims/items/leggings_trim_amethyst	x=566	y=180	w=16	h=16
-minecraft:trims/items/leggings_trim_copper	x=566	y=198	w=16	h=16
-minecraft:trims/items/leggings_trim_copper_darker	x=566	y=216	w=16	h=16
-minecraft:trims/items/leggings_trim_diamond	x=566	y=234	w=16	h=16
-minecraft:trims/items/leggings_trim_diamond_darker	x=566	y=252	w=16	h=16
-minecraft:trims/items/leggings_trim_emerald	x=566	y=270	w=16	h=16
-minecraft:trims/items/leggings_trim_gold	x=566	y=288	w=16	h=16
-minecraft:trims/items/leggings_trim_gold_darker	x=566	y=306	w=16	h=16
-minecraft:trims/items/leggings_trim_iron	x=566	y=324	w=16	h=16
-minecraft:trims/items/leggings_trim_iron_darker	x=566	y=342	w=16	h=16
-minecraft:trims/items/leggings_trim_lapis	x=566	y=360	w=16	h=16
-minecraft:trims/items/leggings_trim_netherite	x=566	y=378	w=16	h=16
-minecraft:trims/items/leggings_trim_netherite_darker	x=566	y=396	w=16	h=16
-minecraft:trims/items/leggings_trim_quartz	x=566	y=414	w=16	h=16
-minecraft:trims/items/leggings_trim_redstone	x=566	y=432	w=16	h=16
-minecraft:trims/items/leggings_trim_resin	x=566	y=450	w=16	h=16
+minecraft:item/abandoned_camp_map
+minecraft:item/acacia_boat
+minecraft:item/acacia_chest_boat
+minecraft:item/acacia_door
+minecraft:item/acacia_hanging_sign
+minecraft:item/acacia_sign
+minecraft:item/allay_spawn_egg
+minecraft:item/amethyst_shard
+minecraft:item/angler_pottery_sherd
+minecraft:item/apple
+minecraft:item/archer_pottery_sherd
+minecraft:item/armadillo_scute
+minecraft:item/armadillo_spawn_egg
+minecraft:item/armor_stand
+minecraft:item/arms_up_pottery_sherd
+minecraft:item/arrow
+minecraft:item/axolotl_bucket
+minecraft:item/axolotl_spawn_egg
+minecraft:item/baked_potato
+minecraft:item/bamboo
+minecraft:item/bamboo_chest_raft
+minecraft:item/bamboo_door
+minecraft:item/bamboo_hanging_sign
+minecraft:item/bamboo_raft
+minecraft:item/bamboo_sign
+minecraft:item/barrier
+minecraft:item/bat_spawn_egg
+minecraft:item/bee_spawn_egg
+minecraft:item/beef
+minecraft:item/beetroot
+minecraft:item/beetroot_seeds
+minecraft:item/beetroot_soup
+minecraft:item/bell
+minecraft:item/birch_boat
+minecraft:item/birch_chest_boat
+minecraft:item/birch_door
+minecraft:item/birch_hanging_sign
+minecraft:item/birch_sign
+minecraft:item/black_bundle
+minecraft:item/black_bundle_open_back
+minecraft:item/black_bundle_open_front
+minecraft:item/black_candle
+minecraft:item/black_cushion
+minecraft:item/black_dye
+minecraft:item/black_harness
+minecraft:item/blade_pottery_sherd
+minecraft:item/blaze_powder
+minecraft:item/blaze_rod
+minecraft:item/blaze_spawn_egg
+minecraft:item/blue_bundle
+minecraft:item/blue_bundle_open_back
+minecraft:item/blue_bundle_open_front
+minecraft:item/blue_candle
+minecraft:item/blue_cushion
+minecraft:item/blue_dye
+minecraft:item/blue_egg
+minecraft:item/blue_harness
+minecraft:item/bogged_spawn_egg
+minecraft:item/bolt_armor_trim_smithing_template
+minecraft:item/bone
+minecraft:item/bone_meal
+minecraft:item/book
+minecraft:item/bordure_indented_banner_pattern
+minecraft:item/bow
+minecraft:item/bow_pulling_0
+minecraft:item/bow_pulling_1
+minecraft:item/bow_pulling_2
+minecraft:item/bowl
+minecraft:item/bread
+minecraft:item/breeze_rod
+minecraft:item/breeze_spawn_egg
+minecraft:item/brewer_pottery_sherd
+minecraft:item/brewing_stand
+minecraft:item/brick
+minecraft:item/brown_bundle
+minecraft:item/brown_bundle_open_back
+minecraft:item/brown_bundle_open_front
+minecraft:item/brown_candle
+minecraft:item/brown_cushion
+minecraft:item/brown_dye
+minecraft:item/brown_egg
+minecraft:item/brown_harness
+minecraft:item/brush
+minecraft:item/bucket
+minecraft:item/bundle
+minecraft:item/bundle_open_back
+minecraft:item/bundle_open_front
+minecraft:item/buried_ancient_city_map
+minecraft:item/buried_mineshaft_map
+minecraft:item/buried_treasure_map
+minecraft:item/buried_trial_chambers_map
+minecraft:item/burn_pottery_sherd
+minecraft:item/cake
+minecraft:item/camel_husk_spawn_egg
+minecraft:item/camel_spawn_egg
+minecraft:item/campfire
+minecraft:item/candle
+minecraft:item/carrot
+minecraft:item/carrot_on_a_stick
+minecraft:item/cat_spawn_egg
+minecraft:item/cauldron
+minecraft:item/cave_spider_spawn_egg
+minecraft:item/chainmail_boots
+minecraft:item/chainmail_chestplate
+minecraft:item/chainmail_helmet
+minecraft:item/chainmail_leggings
+minecraft:item/charcoal
+minecraft:item/cherry_boat
+minecraft:item/cherry_chest_boat
+minecraft:item/cherry_door
+minecraft:item/cherry_hanging_sign
+minecraft:item/cherry_sign
+minecraft:item/chest_minecart
+minecraft:item/chicken
+minecraft:item/chicken_spawn_egg
+minecraft:item/chorus_fruit
+minecraft:item/clay_ball
+minecraft:item/clock_00
+minecraft:item/clock_01
+minecraft:item/clock_02
+minecraft:item/clock_03
+minecraft:item/clock_04
+minecraft:item/clock_05
+minecraft:item/clock_06
+minecraft:item/clock_07
+minecraft:item/clock_08
+minecraft:item/clock_09
+minecraft:item/clock_10
+minecraft:item/clock_11
+minecraft:item/clock_12
+minecraft:item/clock_13
+minecraft:item/clock_14
+minecraft:item/clock_15
+minecraft:item/clock_16
+minecraft:item/clock_17
+minecraft:item/clock_18
+minecraft:item/clock_19
+minecraft:item/clock_20
+minecraft:item/clock_21
+minecraft:item/clock_22
+minecraft:item/clock_23
+minecraft:item/clock_24
+minecraft:item/clock_25
+minecraft:item/clock_26
+minecraft:item/clock_27
+minecraft:item/clock_28
+minecraft:item/clock_29
+minecraft:item/clock_30
+minecraft:item/clock_31
+minecraft:item/clock_32
+minecraft:item/clock_33
+minecraft:item/clock_34
+minecraft:item/clock_35
+minecraft:item/clock_36
+minecraft:item/clock_37
+minecraft:item/clock_38
+minecraft:item/clock_39
+minecraft:item/clock_40
+minecraft:item/clock_41
+minecraft:item/clock_42
+minecraft:item/clock_43
+minecraft:item/clock_44
+minecraft:item/clock_45
+minecraft:item/clock_46
+minecraft:item/clock_47
+minecraft:item/clock_48
+minecraft:item/clock_49
+minecraft:item/clock_50
+minecraft:item/clock_51
+minecraft:item/clock_52
+minecraft:item/clock_53
+minecraft:item/clock_54
+minecraft:item/clock_55
+minecraft:item/clock_56
+minecraft:item/clock_57
+minecraft:item/clock_58
+minecraft:item/clock_59
+minecraft:item/clock_60
+minecraft:item/clock_61
+minecraft:item/clock_62
+minecraft:item/clock_63
+minecraft:item/coal
+minecraft:item/coast_armor_trim_smithing_template
+minecraft:item/cocoa_beans
+minecraft:item/cod
+minecraft:item/cod_bucket
+minecraft:item/cod_spawn_egg
+minecraft:item/command_block_minecart
+minecraft:item/comparator
+minecraft:item/compass_00
+minecraft:item/compass_01
+minecraft:item/compass_02
+minecraft:item/compass_03
+minecraft:item/compass_04
+minecraft:item/compass_05
+minecraft:item/compass_06
+minecraft:item/compass_07
+minecraft:item/compass_08
+minecraft:item/compass_09
+minecraft:item/compass_10
+minecraft:item/compass_11
+minecraft:item/compass_12
+minecraft:item/compass_13
+minecraft:item/compass_14
+minecraft:item/compass_15
+minecraft:item/compass_16
+minecraft:item/compass_17
+minecraft:item/compass_18
+minecraft:item/compass_19
+minecraft:item/compass_20
+minecraft:item/compass_21
+minecraft:item/compass_22
+minecraft:item/compass_23
+minecraft:item/compass_24
+minecraft:item/compass_25
+minecraft:item/compass_26
+minecraft:item/compass_27
+minecraft:item/compass_28
+minecraft:item/compass_29
+minecraft:item/compass_30
+minecraft:item/compass_31
+minecraft:item/cooked_beef
+minecraft:item/cooked_chicken
+minecraft:item/cooked_cod
+minecraft:item/cooked_mutton
+minecraft:item/cooked_porkchop
+minecraft:item/cooked_rabbit
+minecraft:item/cooked_salmon
+minecraft:item/cookie
+minecraft:item/copper_axe
+minecraft:item/copper_boots
+minecraft:item/copper_chain
+minecraft:item/copper_chestplate
+minecraft:item/copper_door
+minecraft:item/copper_golem_spawn_egg
+minecraft:item/copper_helmet
+minecraft:item/copper_hoe
+minecraft:item/copper_horse_armor
+minecraft:item/copper_ingot
+minecraft:item/copper_lantern
+minecraft:item/copper_leggings
+minecraft:item/copper_nautilus_armor
+minecraft:item/copper_nugget
+minecraft:item/copper_pickaxe
+minecraft:item/copper_shovel
+minecraft:item/copper_spear
+minecraft:item/copper_spear_in_hand
+minecraft:item/copper_sword
+minecraft:item/cow_spawn_egg
+minecraft:item/creaking_spawn_egg
+minecraft:item/creeper_banner_pattern
+minecraft:item/creeper_spawn_egg
+minecraft:item/crimson_door
+minecraft:item/crimson_hanging_sign
+minecraft:item/crimson_sign
+minecraft:item/crossbow_arrow
+minecraft:item/crossbow_firework
+minecraft:item/crossbow_pulling_0
+minecraft:item/crossbow_pulling_1
+minecraft:item/crossbow_pulling_2
+minecraft:item/crossbow_standby
+minecraft:item/cyan_bundle
+minecraft:item/cyan_bundle_open_back
+minecraft:item/cyan_bundle_open_front
+minecraft:item/cyan_candle
+minecraft:item/cyan_cushion
+minecraft:item/cyan_dye
+minecraft:item/cyan_harness
+minecraft:item/danger_pottery_sherd
+minecraft:item/dark_oak_boat
+minecraft:item/dark_oak_chest_boat
+minecraft:item/dark_oak_door
+minecraft:item/dark_oak_hanging_sign
+minecraft:item/dark_oak_sign
+minecraft:item/desert_pyramid_map
+minecraft:item/desert_village_map
+minecraft:item/diamond
+minecraft:item/diamond_axe
+minecraft:item/diamond_boots
+minecraft:item/diamond_chestplate
+minecraft:item/diamond_helmet
+minecraft:item/diamond_hoe
+minecraft:item/diamond_horse_armor
+minecraft:item/diamond_leggings
+minecraft:item/diamond_nautilus_armor
+minecraft:item/diamond_pickaxe
+minecraft:item/diamond_shovel
+minecraft:item/diamond_spear
+minecraft:item/diamond_spear_in_hand
+minecraft:item/diamond_sword
+minecraft:item/disc_fragment_5
+minecraft:item/dolphin_spawn_egg
+minecraft:item/donkey_spawn_egg
+minecraft:item/dragon_breath
+minecraft:item/dried_kelp
+minecraft:item/drowned_spawn_egg
+minecraft:item/dune_armor_trim_smithing_template
+minecraft:item/echo_shard
+minecraft:item/egg
+minecraft:item/elder_guardian_spawn_egg
+minecraft:item/elytra
+minecraft:item/elytra_broken
+minecraft:item/emerald
+minecraft:item/enchanted_book
+minecraft:item/end_crystal
+minecraft:item/ender_dragon_spawn_egg
+minecraft:item/ender_eye
+minecraft:item/ender_pearl
+minecraft:item/enderman_spawn_egg
+minecraft:item/endermite_spawn_egg
+minecraft:item/evoker_spawn_egg
+minecraft:item/experience_bottle
+minecraft:item/explorer_pottery_sherd
+minecraft:item/exposed_copper_chain
+minecraft:item/exposed_copper_door
+minecraft:item/exposed_copper_lantern
+minecraft:item/eye_armor_trim_smithing_template
+minecraft:item/feather
+minecraft:item/fermented_spider_eye
+minecraft:item/field_masoned_banner_pattern
+minecraft:item/filled_map
+minecraft:item/fire_charge
+minecraft:item/firefly_bush
+minecraft:item/firework_rocket
+minecraft:item/firework_star
+minecraft:item/firework_star_overlay
+minecraft:item/fishing_rod
+minecraft:item/fishing_rod_cast
+minecraft:item/flint
+minecraft:item/flint_and_steel
+minecraft:item/flow_armor_trim_smithing_template
+minecraft:item/flow_banner_pattern
+minecraft:item/flow_pottery_sherd
+minecraft:item/flower_banner_pattern
+minecraft:item/flower_pot
+minecraft:item/fox_spawn_egg
+minecraft:item/friend_pottery_sherd
+minecraft:item/frog_spawn_egg
+minecraft:item/furnace_minecart
+minecraft:item/ghast_spawn_egg
+minecraft:item/ghast_tear
+minecraft:item/glass_bottle
+minecraft:item/glistering_melon_slice
+minecraft:item/globe_banner_pattern
+minecraft:item/glow_berries
+minecraft:item/glow_ink_sac
+minecraft:item/glow_item_frame
+minecraft:item/glow_squid_spawn_egg
+minecraft:item/glowstone_dust
+minecraft:item/goat_horn
+minecraft:item/goat_spawn_egg
+minecraft:item/gold_ingot
+minecraft:item/gold_nugget
+minecraft:item/golden_apple
+minecraft:item/golden_axe
+minecraft:item/golden_boots
+minecraft:item/golden_carrot
+minecraft:item/golden_chestplate
+minecraft:item/golden_helmet
+minecraft:item/golden_hoe
+minecraft:item/golden_horse_armor
+minecraft:item/golden_leggings
+minecraft:item/golden_nautilus_armor
+minecraft:item/golden_pickaxe
+minecraft:item/golden_shovel
+minecraft:item/golden_spear
+minecraft:item/golden_spear_in_hand
+minecraft:item/golden_sword
+minecraft:item/gray_bundle
+minecraft:item/gray_bundle_open_back
+minecraft:item/gray_bundle_open_front
+minecraft:item/gray_candle
+minecraft:item/gray_cushion
+minecraft:item/gray_dye
+minecraft:item/gray_harness
+minecraft:item/green_bundle
+minecraft:item/green_bundle_open_back
+minecraft:item/green_bundle_open_front
+minecraft:item/green_candle
+minecraft:item/green_cushion
+minecraft:item/green_dye
+minecraft:item/green_harness
+minecraft:item/guardian_spawn_egg
+minecraft:item/gunpowder
+minecraft:item/guster_banner_pattern
+minecraft:item/guster_pottery_sherd
+minecraft:item/happy_ghast_spawn_egg
+minecraft:item/heart_of_the_sea
+minecraft:item/heart_pottery_sherd
+minecraft:item/heartbreak_pottery_sherd
+minecraft:item/hoglin_spawn_egg
+minecraft:item/honey_bottle
+minecraft:item/honeycomb
+minecraft:item/hopper
+minecraft:item/hopper_minecart
+minecraft:item/horse_spawn_egg
+minecraft:item/host_armor_trim_smithing_template
+minecraft:item/howl_pottery_sherd
+minecraft:item/husk_spawn_egg
+minecraft:item/ink_sac
+minecraft:item/iron_axe
+minecraft:item/iron_boots
+minecraft:item/iron_chain
+minecraft:item/iron_chestplate
+minecraft:item/iron_door
+minecraft:item/iron_golem_spawn_egg
+minecraft:item/iron_helmet
+minecraft:item/iron_hoe
+minecraft:item/iron_horse_armor
+minecraft:item/iron_ingot
+minecraft:item/iron_leggings
+minecraft:item/iron_nautilus_armor
+minecraft:item/iron_nugget
+minecraft:item/iron_pickaxe
+minecraft:item/iron_shovel
+minecraft:item/iron_spear
+minecraft:item/iron_spear_in_hand
+minecraft:item/iron_sword
+minecraft:item/item_frame
+minecraft:item/jungle_boat
+minecraft:item/jungle_chest_boat
+minecraft:item/jungle_door
+minecraft:item/jungle_hanging_sign
+minecraft:item/jungle_pyramid_map
+minecraft:item/jungle_sign
+minecraft:item/kelp
+minecraft:item/knowledge_book
+minecraft:item/lantern
+minecraft:item/lapis_lazuli
+minecraft:item/lava_bucket
+minecraft:item/lead
+minecraft:item/leaf_litter
+minecraft:item/leather
+minecraft:item/leather_boots
+minecraft:item/leather_boots_overlay
+minecraft:item/leather_chestplate
+minecraft:item/leather_chestplate_overlay
+minecraft:item/leather_helmet
+minecraft:item/leather_helmet_overlay
+minecraft:item/leather_horse_armor
+minecraft:item/leather_horse_armor_overlay
+minecraft:item/leather_leggings
+minecraft:item/leather_leggings_overlay
+minecraft:item/light_00
+minecraft:item/light_01
+minecraft:item/light_02
+minecraft:item/light_03
+minecraft:item/light_04
+minecraft:item/light_05
+minecraft:item/light_06
+minecraft:item/light_07
+minecraft:item/light_08
+minecraft:item/light_09
+minecraft:item/light_10
+minecraft:item/light_11
+minecraft:item/light_12
+minecraft:item/light_13
+minecraft:item/light_14
+minecraft:item/light_15
+minecraft:item/light_blue_bundle
+minecraft:item/light_blue_bundle_open_back
+minecraft:item/light_blue_bundle_open_front
+minecraft:item/light_blue_candle
+minecraft:item/light_blue_cushion
+minecraft:item/light_blue_dye
+minecraft:item/light_blue_harness
+minecraft:item/light_gray_bundle
+minecraft:item/light_gray_bundle_open_back
+minecraft:item/light_gray_bundle_open_front
+minecraft:item/light_gray_candle
+minecraft:item/light_gray_cushion
+minecraft:item/light_gray_dye
+minecraft:item/light_gray_harness
+minecraft:item/lime_bundle
+minecraft:item/lime_bundle_open_back
+minecraft:item/lime_bundle_open_front
+minecraft:item/lime_candle
+minecraft:item/lime_cushion
+minecraft:item/lime_dye
+minecraft:item/lime_harness
+minecraft:item/lingering_potion
+minecraft:item/llama_spawn_egg
+minecraft:item/mace
+minecraft:item/magenta_bundle
+minecraft:item/magenta_bundle_open_back
+minecraft:item/magenta_bundle_open_front
+minecraft:item/magenta_candle
+minecraft:item/magenta_cushion
+minecraft:item/magenta_dye
+minecraft:item/magenta_harness
+minecraft:item/magma_cream
+minecraft:item/magma_cube_spawn_egg
+minecraft:item/mangrove_boat
+minecraft:item/mangrove_chest_boat
+minecraft:item/mangrove_door
+minecraft:item/mangrove_hanging_sign
+minecraft:item/mangrove_propagule
+minecraft:item/mangrove_sign
+minecraft:item/map
+minecraft:item/melon_seeds
+minecraft:item/melon_slice
+minecraft:item/milk_bucket
+minecraft:item/minecart
+minecraft:item/miner_pottery_sherd
+minecraft:item/mojang_banner_pattern
+minecraft:item/mooshroom_spawn_egg
+minecraft:item/mourner_pottery_sherd
+minecraft:item/mule_spawn_egg
+minecraft:item/mushroom_stew
+minecraft:item/music_disc_11
+minecraft:item/music_disc_13
+minecraft:item/music_disc_5
+minecraft:item/music_disc_blocks
+minecraft:item/music_disc_bounce
+minecraft:item/music_disc_cat
+minecraft:item/music_disc_chirp
+minecraft:item/music_disc_creator
+minecraft:item/music_disc_creator_music_box
+minecraft:item/music_disc_far
+minecraft:item/music_disc_lava_chicken
+minecraft:item/music_disc_mall
+minecraft:item/music_disc_mellohi
+minecraft:item/music_disc_otherside
+minecraft:item/music_disc_pigstep
+minecraft:item/music_disc_precipice
+minecraft:item/music_disc_relic
+minecraft:item/music_disc_stal
+minecraft:item/music_disc_strad
+minecraft:item/music_disc_tears
+minecraft:item/music_disc_wait
+minecraft:item/music_disc_ward
+minecraft:item/mutton
+minecraft:item/name_tag
+minecraft:item/nautilus_shell
+minecraft:item/nautilus_spawn_egg
+minecraft:item/nether_brick
+minecraft:item/nether_sprouts
+minecraft:item/nether_star
+minecraft:item/nether_wart
+minecraft:item/netherite_axe
+minecraft:item/netherite_boots
+minecraft:item/netherite_chestplate
+minecraft:item/netherite_helmet
+minecraft:item/netherite_hoe
+minecraft:item/netherite_horse_armor
+minecraft:item/netherite_ingot
+minecraft:item/netherite_leggings
+minecraft:item/netherite_nautilus_armor
+minecraft:item/netherite_pickaxe
+minecraft:item/netherite_scrap
+minecraft:item/netherite_shovel
+minecraft:item/netherite_spear
+minecraft:item/netherite_spear_in_hand
+minecraft:item/netherite_sword
+minecraft:item/netherite_upgrade_smithing_template
+minecraft:item/oak_boat
+minecraft:item/oak_chest_boat
+minecraft:item/oak_door
+minecraft:item/oak_hanging_sign
+minecraft:item/oak_sign
+minecraft:item/ocean_monument_map
+minecraft:item/ocelot_spawn_egg
+minecraft:item/ominous_bottle
+minecraft:item/ominous_trial_key
+minecraft:item/orange_bundle
+minecraft:item/orange_bundle_open_back
+minecraft:item/orange_bundle_open_front
+minecraft:item/orange_candle
+minecraft:item/orange_cushion
+minecraft:item/orange_dye
+minecraft:item/orange_harness
+minecraft:item/oxidized_copper_chain
+minecraft:item/oxidized_copper_door
+minecraft:item/oxidized_copper_lantern
+minecraft:item/painting
+minecraft:item/pale_oak_boat
+minecraft:item/pale_oak_chest_boat
+minecraft:item/pale_oak_door
+minecraft:item/pale_oak_hanging_sign
+minecraft:item/pale_oak_sign
+minecraft:item/panda_spawn_egg
+minecraft:item/paper
+minecraft:item/parched_spawn_egg
+minecraft:item/parrot_spawn_egg
+minecraft:item/phantom_membrane
+minecraft:item/phantom_spawn_egg
+minecraft:item/pig_spawn_egg
+minecraft:item/piglin_banner_pattern
+minecraft:item/piglin_brute_spawn_egg
+minecraft:item/piglin_spawn_egg
+minecraft:item/pillager_spawn_egg
+minecraft:item/pink_bundle
+minecraft:item/pink_bundle_open_back
+minecraft:item/pink_bundle_open_front
+minecraft:item/pink_candle
+minecraft:item/pink_cushion
+minecraft:item/pink_dye
+minecraft:item/pink_harness
+minecraft:item/pink_petals
+minecraft:item/pitcher_plant
+minecraft:item/pitcher_pod
+minecraft:item/plains_village_map
+minecraft:item/plenty_pottery_sherd
+minecraft:item/pointed_dripstone
+minecraft:item/poisonous_potato
+minecraft:item/polar_bear_spawn_egg
+minecraft:item/poplar_boat
+minecraft:item/poplar_chest_boat
+minecraft:item/poplar_door
+minecraft:item/poplar_hanging_sign
+minecraft:item/poplar_sign
+minecraft:item/popped_chorus_fruit
+minecraft:item/porkchop
+minecraft:item/potato
+minecraft:item/potion
+minecraft:item/potion_overlay
+minecraft:item/powder_snow_bucket
+minecraft:item/prismarine_crystals
+minecraft:item/prismarine_shard
+minecraft:item/prize_pottery_sherd
+minecraft:item/pufferfish
+minecraft:item/pufferfish_bucket
+minecraft:item/pufferfish_spawn_egg
+minecraft:item/pumpkin_pie
+minecraft:item/pumpkin_seeds
+minecraft:item/purple_bundle
+minecraft:item/purple_bundle_open_back
+minecraft:item/purple_bundle_open_front
+minecraft:item/purple_candle
+minecraft:item/purple_cushion
+minecraft:item/purple_dye
+minecraft:item/purple_harness
+minecraft:item/quartz
+minecraft:item/rabbit
+minecraft:item/rabbit_foot
+minecraft:item/rabbit_hide
+minecraft:item/rabbit_spawn_egg
+minecraft:item/rabbit_stew
+minecraft:item/raiser_armor_trim_smithing_template
+minecraft:item/ravager_spawn_egg
+minecraft:item/raw_copper
+minecraft:item/raw_gold
+minecraft:item/raw_iron
+minecraft:item/recovery_compass_00
+minecraft:item/recovery_compass_01
+minecraft:item/recovery_compass_02
+minecraft:item/recovery_compass_03
+minecraft:item/recovery_compass_04
+minecraft:item/recovery_compass_05
+minecraft:item/recovery_compass_06
+minecraft:item/recovery_compass_07
+minecraft:item/recovery_compass_08
+minecraft:item/recovery_compass_09
+minecraft:item/recovery_compass_10
+minecraft:item/recovery_compass_11
+minecraft:item/recovery_compass_12
+minecraft:item/recovery_compass_13
+minecraft:item/recovery_compass_14
+minecraft:item/recovery_compass_15
+minecraft:item/recovery_compass_16
+minecraft:item/recovery_compass_17
+minecraft:item/recovery_compass_18
+minecraft:item/recovery_compass_19
+minecraft:item/recovery_compass_20
+minecraft:item/recovery_compass_21
+minecraft:item/recovery_compass_22
+minecraft:item/recovery_compass_23
+minecraft:item/recovery_compass_24
+minecraft:item/recovery_compass_25
+minecraft:item/recovery_compass_26
+minecraft:item/recovery_compass_27
+minecraft:item/recovery_compass_28
+minecraft:item/recovery_compass_29
+minecraft:item/recovery_compass_30
+minecraft:item/recovery_compass_31
+minecraft:item/red_bundle
+minecraft:item/red_bundle_open_back
+minecraft:item/red_bundle_open_front
+minecraft:item/red_candle
+minecraft:item/red_cushion
+minecraft:item/red_dye
+minecraft:item/red_harness
+minecraft:item/redstone
+minecraft:item/repeater
+minecraft:item/resin_brick
+minecraft:item/resin_clump
+minecraft:item/rib_armor_trim_smithing_template
+minecraft:item/rotten_flesh
+minecraft:item/saddle
+minecraft:item/salmon
+minecraft:item/salmon_bucket
+minecraft:item/salmon_spawn_egg
+minecraft:item/savanna_village_map
+minecraft:item/scrape_pottery_sherd
+minecraft:item/sea_pickle
+minecraft:item/seagrass
+minecraft:item/sentry_armor_trim_smithing_template
+minecraft:item/shaper_armor_trim_smithing_template
+minecraft:item/sheaf_pottery_sherd
+minecraft:item/shears
+minecraft:item/sheep_spawn_egg
+minecraft:item/shelter_pottery_sherd
+minecraft:item/shulker_shell
+minecraft:item/shulker_spawn_egg
+minecraft:item/silence_armor_trim_smithing_template
+minecraft:item/silverfish_spawn_egg
+minecraft:item/skeleton_horse_spawn_egg
+minecraft:item/skeleton_spawn_egg
+minecraft:item/skull_banner_pattern
+minecraft:item/skull_pottery_sherd
+minecraft:item/slime_ball
+minecraft:item/slime_spawn_egg
+minecraft:item/sniffer_egg
+minecraft:item/sniffer_spawn_egg
+minecraft:item/snort_pottery_sherd
+minecraft:item/snout_armor_trim_smithing_template
+minecraft:item/snow_golem_spawn_egg
+minecraft:item/snowball
+minecraft:item/snowy_village_map
+minecraft:item/soul_campfire
+minecraft:item/soul_lantern
+minecraft:item/spectral_arrow
+minecraft:item/spider_eye
+minecraft:item/spider_spawn_egg
+minecraft:item/spire_armor_trim_smithing_template
+minecraft:item/splash_potion
+minecraft:item/spruce_boat
+minecraft:item/spruce_chest_boat
+minecraft:item/spruce_door
+minecraft:item/spruce_hanging_sign
+minecraft:item/spruce_sign
+minecraft:item/spyglass
+minecraft:item/spyglass_model
+minecraft:item/squid_spawn_egg
+minecraft:item/stick
+minecraft:item/stone_axe
+minecraft:item/stone_hoe
+minecraft:item/stone_pickaxe
+minecraft:item/stone_shovel
+minecraft:item/stone_spear
+minecraft:item/stone_spear_in_hand
+minecraft:item/stone_sword
+minecraft:item/stray_spawn_egg
+minecraft:item/strider_spawn_egg
+minecraft:item/string
+minecraft:item/structure_void
+minecraft:item/sugar
+minecraft:item/sugar_cane
+minecraft:item/sulfur_cube_bucket
+minecraft:item/sulfur_cube_spawn_egg
+minecraft:item/sulfur_spike
+minecraft:item/suspicious_stew
+minecraft:item/swamp_hut_map
+minecraft:item/sweet_berries
+minecraft:item/tadpole_bucket
+minecraft:item/tadpole_spawn_egg
+minecraft:item/taiga_village_map
+minecraft:item/tide_armor_trim_smithing_template
+minecraft:item/tipped_arrow_base
+minecraft:item/tipped_arrow_head
+minecraft:item/tnt_minecart
+minecraft:item/torchflower_seeds
+minecraft:item/totem_of_undying
+minecraft:item/trader_llama_spawn_egg
+minecraft:item/trial_key
+minecraft:item/trident
+minecraft:item/tropical_fish
+minecraft:item/tropical_fish_bucket
+minecraft:item/tropical_fish_spawn_egg
+minecraft:item/turtle_egg
+minecraft:item/turtle_helmet
+minecraft:item/turtle_scute
+minecraft:item/turtle_spawn_egg
+minecraft:item/vex_armor_trim_smithing_template
+minecraft:item/vex_spawn_egg
+minecraft:item/villager_spawn_egg
+minecraft:item/vindicator_spawn_egg
+minecraft:item/wandering_trader_spawn_egg
+minecraft:item/ward_armor_trim_smithing_template
+minecraft:item/warden_spawn_egg
+minecraft:item/warm_ocean_ruins_map
+minecraft:item/warped_door
+minecraft:item/warped_fungus_on_a_stick
+minecraft:item/warped_hanging_sign
+minecraft:item/warped_sign
+minecraft:item/water_bucket
+minecraft:item/wayfinder_armor_trim_smithing_template
+minecraft:item/weathered_copper_chain
+minecraft:item/weathered_copper_door
+minecraft:item/weathered_copper_lantern
+minecraft:item/wheat
+minecraft:item/wheat_seeds
+minecraft:item/white_bundle
+minecraft:item/white_bundle_open_back
+minecraft:item/white_bundle_open_front
+minecraft:item/white_candle
+minecraft:item/white_cushion
+minecraft:item/white_dye
+minecraft:item/white_harness
+minecraft:item/wild_armor_trim_smithing_template
+minecraft:item/wildflowers
+minecraft:item/wind_charge
+minecraft:item/witch_spawn_egg
+minecraft:item/wither_skeleton_spawn_egg
+minecraft:item/wither_spawn_egg
+minecraft:item/wolf_armor
+minecraft:item/wolf_armor_overlay
+minecraft:item/wolf_spawn_egg
+minecraft:item/wooden_axe
+minecraft:item/wooden_hoe
+minecraft:item/wooden_pickaxe
+minecraft:item/wooden_shovel
+minecraft:item/wooden_spear
+minecraft:item/wooden_spear_in_hand
+minecraft:item/wooden_sword
+minecraft:item/woodland_mansion_map
+minecraft:item/writable_book
+minecraft:item/written_book
+minecraft:item/yellow_bundle
+minecraft:item/yellow_bundle_open_back
+minecraft:item/yellow_bundle_open_front
+minecraft:item/yellow_candle
+minecraft:item/yellow_cushion
+minecraft:item/yellow_dye
+minecraft:item/yellow_harness
+minecraft:item/zoglin_spawn_egg
+minecraft:item/zombie_horse_spawn_egg
+minecraft:item/zombie_nautilus_spawn_egg
+minecraft:item/zombie_spawn_egg
+minecraft:item/zombie_villager_spawn_egg
+minecraft:item/zombified_piglin_spawn_egg
+minecraft:missingno
+minecraft:trims/items/boots_trim_amethyst
+minecraft:trims/items/boots_trim_copper
+minecraft:trims/items/boots_trim_copper_darker
+minecraft:trims/items/boots_trim_diamond
+minecraft:trims/items/boots_trim_diamond_darker
+minecraft:trims/items/boots_trim_emerald
+minecraft:trims/items/boots_trim_gold
+minecraft:trims/items/boots_trim_gold_darker
+minecraft:trims/items/boots_trim_iron
+minecraft:trims/items/boots_trim_iron_darker
+minecraft:trims/items/boots_trim_lapis
+minecraft:trims/items/boots_trim_netherite
+minecraft:trims/items/boots_trim_netherite_darker
+minecraft:trims/items/boots_trim_quartz
+minecraft:trims/items/boots_trim_redstone
+minecraft:trims/items/boots_trim_resin
+minecraft:trims/items/chestplate_trim_amethyst
+minecraft:trims/items/chestplate_trim_copper
+minecraft:trims/items/chestplate_trim_copper_darker
+minecraft:trims/items/chestplate_trim_diamond
+minecraft:trims/items/chestplate_trim_diamond_darker
+minecraft:trims/items/chestplate_trim_emerald
+minecraft:trims/items/chestplate_trim_gold
+minecraft:trims/items/chestplate_trim_gold_darker
+minecraft:trims/items/chestplate_trim_iron
+minecraft:trims/items/chestplate_trim_iron_darker
+minecraft:trims/items/chestplate_trim_lapis
+minecraft:trims/items/chestplate_trim_netherite
+minecraft:trims/items/chestplate_trim_netherite_darker
+minecraft:trims/items/chestplate_trim_quartz
+minecraft:trims/items/chestplate_trim_redstone
+minecraft:trims/items/chestplate_trim_resin
+minecraft:trims/items/helmet_trim_amethyst
+minecraft:trims/items/helmet_trim_copper
+minecraft:trims/items/helmet_trim_copper_darker
+minecraft:trims/items/helmet_trim_diamond
+minecraft:trims/items/helmet_trim_diamond_darker
+minecraft:trims/items/helmet_trim_emerald
+minecraft:trims/items/helmet_trim_gold
+minecraft:trims/items/helmet_trim_gold_darker
+minecraft:trims/items/helmet_trim_iron
+minecraft:trims/items/helmet_trim_iron_darker
+minecraft:trims/items/helmet_trim_lapis
+minecraft:trims/items/helmet_trim_netherite
+minecraft:trims/items/helmet_trim_netherite_darker
+minecraft:trims/items/helmet_trim_quartz
+minecraft:trims/items/helmet_trim_redstone
+minecraft:trims/items/helmet_trim_resin
+minecraft:trims/items/leggings_trim_amethyst
+minecraft:trims/items/leggings_trim_copper
+minecraft:trims/items/leggings_trim_copper_darker
+minecraft:trims/items/leggings_trim_diamond
+minecraft:trims/items/leggings_trim_diamond_darker
+minecraft:trims/items/leggings_trim_emerald
+minecraft:trims/items/leggings_trim_gold
+minecraft:trims/items/leggings_trim_gold_darker
+minecraft:trims/items/leggings_trim_iron
+minecraft:trims/items/leggings_trim_iron_darker
+minecraft:trims/items/leggings_trim_lapis
+minecraft:trims/items/leggings_trim_netherite
+minecraft:trims/items/leggings_trim_netherite_darker
+minecraft:trims/items/leggings_trim_quartz
+minecraft:trims/items/leggings_trim_redstone
+minecraft:trims/items/leggings_trim_resin
